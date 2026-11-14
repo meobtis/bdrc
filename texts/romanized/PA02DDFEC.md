@@ -4,6 +4,7 @@ bdrc_id: PA02DDFEC
 script: iast
 original_collection: GRETIL
 data_entry: "Muneo Tokunaga"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA02DDFEC"
 ---
 # Yogasūtra with Bhāṣya

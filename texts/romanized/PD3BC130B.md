@@ -4,6 +4,7 @@ bdrc_id: PD3BC130B
 script: iast
 original_collection: GRETIL
 data_entry: "Motoi Ono"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PD3BC130B"
 ---
 # Pramāṇavārttisvavṛtti

@@ -4,6 +4,7 @@ bdrc_id: PBDE7517D
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PBDE7517D"
 ---
 # Vaiśeṣikasūtra

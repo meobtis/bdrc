@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Pandey, Janardan Shastri"
 publisher: "Motilal Banarsidass"
 year: "1994"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P3C9BB41E"
 ---
 # Bauddha Stotra Saṃgraha

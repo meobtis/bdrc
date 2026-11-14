@@ -2,6 +2,7 @@
 title: "BA: Proto-BA (Buddhanāmanirdeśa)"
 bdrc_id: P57EC2ACB
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P57EC2ACB"
 ---
 # BA: Proto-BA (Buddhanāmanirdeśa)

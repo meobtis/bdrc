@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "James R. Ballantyne"
 publisher: "Motilal Banarsidass"
 year: "1976 [reprint]"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PAD84D6A2"
 ---
 # Laghukaumudīvyākaraṇam

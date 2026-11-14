@@ -4,6 +4,7 @@ bdrc_id: P9B6ABD34
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P9B6ABD34"
 ---
 # Prakaraṇapañcikā with Nārāyaṇabhaṭṭa's Nyāyasiddhi

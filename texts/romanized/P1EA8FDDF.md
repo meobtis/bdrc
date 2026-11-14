@@ -4,6 +4,7 @@ bdrc_id: P1EA8FDDF
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P1EA8FDDF"
 ---
 # Bhāmati a commentary on Śaṃkara's Brahmasūtrabhāṣya

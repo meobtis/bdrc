@@ -4,6 +4,7 @@ bdrc_id: P6D8B16BF
 script: iast
 original_collection: GRETIL
 data_entry: "Muneo Tokunaga"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P6D8B16BF"
 ---
 # Śāṅkhāyanagṛhyasūtra

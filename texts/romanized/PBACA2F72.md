@@ -4,6 +4,7 @@ bdrc_id: PBACA2F72
 script: iast
 original_collection: GRETIL
 data_entry: "Marino Faliero"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PBACA2F72"
 ---
 # Pratyabhijñāhṛdaya

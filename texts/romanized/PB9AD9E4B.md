@@ -4,6 +4,7 @@ bdrc_id: PB9AD9E4B
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PB9AD9E4B"
 ---
 # Tarkatāṇḍava with Rāghavendratīrtha's Nyāyadīpa

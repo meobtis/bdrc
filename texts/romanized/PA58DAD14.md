@@ -4,6 +4,7 @@ bdrc_id: PA58DAD14
 script: iast
 original_collection: GRETIL
 data_entry: "Jürgen Hanneder"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA58DAD14"
 ---
 # Svabodhasiddhi

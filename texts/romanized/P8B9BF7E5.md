@@ -4,6 +4,7 @@ bdrc_id: P8B9BF7E5
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P8B9BF7E5"
 ---
 # Nyāyavārttikatātparyapariśuddhi 1

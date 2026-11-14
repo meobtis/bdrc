@@ -4,6 +4,7 @@ bdrc_id: PC0F7CA8C
 script: iast
 original_collection: GRETIL
 data_entry: "Piotr Balcerowicz"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PC0F7CA8C"
 ---
 # Nyāyāvatāra with the Nyāyāvatāravivṛti commentary by Siddharṣigaṇin

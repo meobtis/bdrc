@@ -2,6 +2,7 @@
 title: "MSV 6,01: Upāliparipṛcchā"
 bdrc_id: PC8DEAD65
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC8DEAD65"
 ---
 # MSV 6,01: Upāliparipṛcchā

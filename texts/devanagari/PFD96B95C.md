@@ -3,6 +3,7 @@ title: "तत्त्वज्ञानसंसिद्धिटीका"
 bdrc_id: PFD96B95C
 script: deva
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFD96B95C"
 ---
 # तत्त्वज्ञानसंसिद्धिटीका

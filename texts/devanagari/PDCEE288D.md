@@ -3,6 +3,7 @@ title: "बौद्ध मनीषा- बौद्धेषु प्रम�
 bdrc_id: PDCEE288D
 script: deva
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDCEE288D"
 ---
 # बौद्ध मनीषा- बौद्धेषु प्रमाणमीमांसा

@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Ram Shankar Tripthi"
 publisher: "Central Institute of Higher Tibetan Studies"
 year: "2001"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4A366CDD"
 ---
 # Piṇḍīkramaḥ Pañcakrama

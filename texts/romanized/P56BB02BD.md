@@ -4,6 +4,7 @@ bdrc_id: P56BB02BD
 script: iast
 original_collection: GRETIL
 data_entry: "Oliver Hellwig"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P56BB02BD"
 ---
 # Sarvamatasaṃgraha

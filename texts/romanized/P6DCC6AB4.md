@@ -2,6 +2,7 @@
 title: "Nirvikalpapraveśadhāraṇī"
 bdrc_id: P6DCC6AB4
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6DCC6AB4"
 ---
 # Nirvikalpapraveśadhāraṇī

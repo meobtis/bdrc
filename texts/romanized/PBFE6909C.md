@@ -2,6 +2,7 @@
 title: "MSV 1,08: Kaṭhinavastu"
 bdrc_id: PBFE6909C
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBFE6909C"
 ---
 # MSV 1,08: Kaṭhinavastu

@@ -4,6 +4,7 @@ bdrc_id: PEB3A60AB
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PEB3A60AB"
 ---
 # Tattvasamāsa-4versions an abstract of Sāṃkhya philosophy in (23-) 25 sūtras,

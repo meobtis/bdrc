@@ -5,6 +5,7 @@ script: deva
 original_collection: DSBC
 editor: "Sumatisimha"
 year: "1967"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PE3FBEFEF"
 ---
 # Balimālikā

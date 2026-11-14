@@ -5,6 +5,7 @@ script: iast
 editor: "Dr. Banarsi Lal"
 publisher: "Central Institute of Higher Tibetan Studies (CIHTS)"
 year: "2003"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFFF99FE5"
 ---
 # Pratimālakṣaṇavivaraṇam

@@ -3,6 +3,7 @@ title: "Mahāyānasaṃgraha"
 bdrc_id: P0DD06AFA
 script: iast
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P0DD06AFA"
 ---
 # Mahāyānasaṃgraha

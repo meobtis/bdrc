@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Horst Lasic, Helmut Krasser, Ernst Steinkellner"
 publisher: "China Tibetology Publishing House"
 year: "2012"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6E8AAC98"
 ---
 # Viśālāmalavatī Pramāṇasamuccayaṭīkā

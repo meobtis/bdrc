@@ -4,6 +4,7 @@ bdrc_id: PCC00FCAC
 script: iast
 original_collection: GRETIL
 data_entry: "Marino Faliero"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PCC00FCAC"
 ---
 # Paramārthasāra

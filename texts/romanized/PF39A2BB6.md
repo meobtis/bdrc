@@ -4,6 +4,7 @@ bdrc_id: PF39A2BB6
 script: iast
 original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PF39A2BB6"
 ---
 # Vedārthasaṃgraha

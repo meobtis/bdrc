@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Bagchi, S."
 publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sanskrit"
 year: "1967"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1E93F3ED"
 ---
 # Suvarṇaprabhāsasūtram

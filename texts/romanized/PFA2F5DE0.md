@@ -4,6 +4,7 @@ bdrc_id: PFA2F5DE0
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PFA2F5DE0"
 ---
 # Sāṃkhyakārikā with Gauḍapāda's Bhāṣya

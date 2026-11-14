@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Tatia, Nathmal"
 publisher: "K.P.Jayaswal Research Institute"
 year: "2005"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFB6D94AD"
 ---
 # Abhidharmasamuccayabhāṣyam

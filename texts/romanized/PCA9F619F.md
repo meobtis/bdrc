@@ -4,6 +4,7 @@ bdrc_id: PCA9F619F
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCA9F619F"
 ---
 # Sūtrārthasamuccayopadeśa

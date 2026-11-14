@@ -4,6 +4,7 @@ bdrc_id: P8FAE6C0C
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P8FAE6C0C"
 ---
 # Caryāsaṃgrahapradīpa

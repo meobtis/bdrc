@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Samten, Ngawang & Janardan Pandey"
 publisher: "Central Institute of Higher Tibetan Studies"
 year: "2002"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P0AD0B42F"
 ---
 # Dhih Journal

@@ -2,6 +2,7 @@
 title: "MSV 1,05: Carmavastu"
 bdrc_id: P1BBB8BE4
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1BBB8BE4"
 ---
 # MSV 1,05: Carmavastu

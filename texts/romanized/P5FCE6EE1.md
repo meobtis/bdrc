@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Dr. Biswanath Bhattacharya"
 publisher: "S.V. University Oriental Journal"
 year: "1970"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5FCE6EE1"
 ---
 # Daṇḍikathā

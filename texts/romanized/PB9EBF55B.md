@@ -4,6 +4,7 @@ bdrc_id: PB9EBF55B
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB9EBF55B"
 ---
 # Pañcakrama

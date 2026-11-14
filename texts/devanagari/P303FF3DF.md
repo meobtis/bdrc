@@ -3,6 +3,7 @@ title: "Āryamāyājālamahātantroddhṛtamaṇdalagāthāṭippaṇī"
 bdrc_id: P303FF3DF
 script: deva
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P303FF3DF"
 ---
 # Āryamāyājālamahātantroddhṛtamaṇdalagāthāṭippaṇī

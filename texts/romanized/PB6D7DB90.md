@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Study Group on Buddhist Sanskrit Literature"
 publisher: "Taisho University"
 year: "2004"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB6D7DB90"
 ---
 # Jñānālokālaṃkāra

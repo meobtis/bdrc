@@ -2,6 +2,7 @@
 title: "Khaḍgaviṣāṇasūtra"
 bdrc_id: P6F8A5FB9
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6F8A5FB9"
 ---
 # Khaḍgaviṣāṇasūtra

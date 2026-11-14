@@ -4,6 +4,7 @@ bdrc_id: P4B2EABEE
 script: iast
 original_collection: DSBC
 editor: "Śrīprabhākaragupta"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4B2EABEE"
 ---
 # Adhyātmasāraśatakam(saṭīkam)

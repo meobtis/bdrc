@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Shakya, M. B."
 publisher: "Nagarjuna Institute of Exact Methods"
 year: "1988"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P221EF8EE"
 ---
 # Buddhist Himalaya Vol.1, No.2.

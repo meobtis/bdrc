@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Prof. Geshe Ngawang Samten"
 publisher: "Central University of Tibetan Studies"
 year: "2013"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA5BDA4CE"
 ---
 # Dhīh Journal

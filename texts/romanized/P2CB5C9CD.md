@@ -2,6 +2,7 @@
 title: "Akṣayamatinirdeśa"
 bdrc_id: P2CB5C9CD
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2CB5C9CD"
 ---
 # Akṣayamatinirdeśa

@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Bagchi, S."
 publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sanskrit"
 year: "1970"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PADF677B3"
 ---
 # Mahayana sutralankara of Asanga with its Svavrtti

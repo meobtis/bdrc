@@ -5,6 +5,7 @@ script: deva
 original_collection: DSBC
 editor: "Liu Zhen"
 publisher: "China Tibetology Publishing House"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P564BEFB5"
 ---
 # Dharmadhātustava

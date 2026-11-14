@@ -2,6 +2,7 @@
 title: "BA: Daśabhūmikasūtra"
 bdrc_id: P0BA8D19A
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P0BA8D19A"
 ---
 # BA: Daśabhūmikasūtra

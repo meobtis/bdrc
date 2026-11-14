@@ -4,6 +4,7 @@ bdrc_id: PC0CA210A
 script: iast
 original_collection: DSBC
 editor: "Jnanacandra"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC0CA210A"
 ---
 # Tattvajñānasaṁsiddhiṭīkā

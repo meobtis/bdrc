@@ -2,6 +2,7 @@
 title: "MSV 6,06: Nidāna"
 bdrc_id: PAAE0ECE5
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PAAE0ECE5"
 ---
 # MSV 6,06: Nidāna

@@ -5,6 +5,7 @@ script: deva
 original_collection: DSBC
 publisher: "Kyoto University"
 year: "1961"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC2B1A4D2"
 ---
 # Essays on the History of Buddhism

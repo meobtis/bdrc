@@ -2,6 +2,7 @@
 title: "BA: Gaṇḍavyūhasūtra"
 bdrc_id: P27DAA76A
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P27DAA76A"
 ---
 # BA: Gaṇḍavyūhasūtra

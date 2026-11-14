@@ -4,6 +4,7 @@ bdrc_id: PBFB7DBB4
 script: iast
 original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PBFB7DBB4"
 ---
 # Saṃvitsiddhi

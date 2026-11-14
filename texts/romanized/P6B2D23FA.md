@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Negi, J.S."
 publisher: "Central Institute of Higher Tibetan Studies"
 year: "1997"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6B2D23FA"
 ---
 # Santānāntarasiddhi kārikā ṭīkā

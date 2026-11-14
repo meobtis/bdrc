@@ -3,6 +3,7 @@ title: "Boudhatantrokta Siddhauṣadhi Saṅgrahaḥ"
 bdrc_id: PEFFA66FF
 script: deva
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PEFFA66FF"
 ---
 # Boudhatantrokta Siddhauṣadhi Saṅgrahaḥ

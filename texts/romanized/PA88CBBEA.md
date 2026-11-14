@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Shastri, Haraprasad"
 publisher: "The Asiatic Society"
 year: "1989"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA88CBBEA"
 ---
 # Six Buddhist Nyaya tracts in Sanskrit

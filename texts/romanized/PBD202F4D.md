@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Anacker, Stephan"
 publisher: "Motilal Banarsidass"
 year: "1984"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBD202F4D"
 ---
 # Seven Works of Vasubandhu

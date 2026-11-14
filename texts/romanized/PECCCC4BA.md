@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "HarinathaDube"
 publisher: "Messrs. Braj B. Das & Co."
 year: "1887"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PECCCC4BA"
 ---
 # Paribhāṣāvṛtteh

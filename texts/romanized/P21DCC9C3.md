@@ -4,6 +4,7 @@ bdrc_id: P21DCC9C3
 script: iast
 original_collection: GRETIL
 data_entry: "Munoe Tokunaga (and partly M. Kobayashi)"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P21DCC9C3"
 ---
 # Nirukta

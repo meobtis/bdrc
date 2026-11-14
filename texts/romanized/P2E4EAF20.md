@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Chandra, Lokesh"
 publisher: "Motilal Banarsidas"
 year: "1987"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2E4EAF20"
 ---
 # Sarva Tathāgata Tattva Saṅgraha

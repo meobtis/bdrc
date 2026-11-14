@@ -2,6 +2,7 @@
 title: "MSV 1,04: Varṣāvastu"
 bdrc_id: PCAFBA14D
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCAFBA14D"
 ---
 # MSV 1,04: Varṣāvastu

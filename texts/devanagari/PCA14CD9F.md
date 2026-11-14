@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Ernst Steinkellner"
 publisher: "China Tibetology Publishing House"
 year: "2009"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCA14CD9F"
 ---
 # Sanskrit Manuscripts in China

@@ -3,6 +3,7 @@ title: "वज्रयान दर्शन मीमांसा"
 bdrc_id: P16B42BAC
 script: deva
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P16B42BAC"
 ---
 # वज्रयान दर्शन मीमांसा

@@ -4,6 +4,7 @@ bdrc_id: PBF3BBED0
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PBF3BBED0"
 ---
 # Sāṃkhyatattvapradīpa

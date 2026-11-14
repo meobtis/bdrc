@@ -4,6 +4,7 @@ bdrc_id: PE542AF4D
 script: iast
 original_collection: DSBC
 editor: "Śabdabhedaprakāśaḥ"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PE542AF4D"
 ---
 # Śabdabhedaprakāśaḥ

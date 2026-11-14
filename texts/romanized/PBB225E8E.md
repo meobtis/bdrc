@@ -2,6 +2,7 @@
 title: "MSV 6,09: Māṇavikā"
 bdrc_id: PBB225E8E
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBB225E8E"
 ---
 # MSV 6,09: Māṇavikā

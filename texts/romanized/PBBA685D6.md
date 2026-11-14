@@ -4,6 +4,7 @@ bdrc_id: PBBA685D6
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBBA685D6"
 ---
 # Kṣaṇabhaṅgasiddhi vyatirekātmikā

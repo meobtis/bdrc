@@ -2,6 +2,7 @@
 title: "Mātṛceṭa: Varṇārhavarṇastotra"
 bdrc_id: PC6FBCCB8
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC6FBCCB8"
 ---
 # Mātṛceṭa: Varṇārhavarṇastotra

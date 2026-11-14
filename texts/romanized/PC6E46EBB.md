@@ -4,6 +4,7 @@ bdrc_id: PC6E46EBB
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC6E46EBB"
 ---
 # Tarkaśāstra (reconstructed text)

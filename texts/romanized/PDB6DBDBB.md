@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Tripathi, Ram Shankar"
 publisher: "Central Institute of Higher Tibetan Studies"
 year: "1977"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDB6DBDBB"
 ---
 # Abhisamayālaṅkāravṛttiḥ sphuṭārthā

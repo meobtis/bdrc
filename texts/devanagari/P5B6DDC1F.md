@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Narendra Nath Law and Nalinaksha Dutaa"
 publisher: "Calcutta Oriental Book Agency"
 year: "1957"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5B6DDC1F"
 ---
 # Sphuṭārthā Abhidharmakośa Vyākhyā (Vol 2)

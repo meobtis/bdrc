@@ -2,6 +2,7 @@
 title: "Laṅkāvatārasūtra"
 bdrc_id: P8B6CC2EF
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P8B6CC2EF"
 ---
 # Laṅkāvatārasūtra

@@ -4,6 +4,7 @@ bdrc_id: P3C8D7FF0
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P3C8D7FF0"
 ---
 # Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's

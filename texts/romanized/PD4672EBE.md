@@ -4,6 +4,7 @@ bdrc_id: PD4672EBE
 script: iast
 original_collection: GRETIL
 data_entry: "Seishi Karashima"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PD4672EBE"
 ---
 # Sphuṭārthā abhidharmakośavyākhyā

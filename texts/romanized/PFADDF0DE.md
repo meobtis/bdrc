@@ -3,6 +3,7 @@ title: "svastyayanagāthā"
 bdrc_id: PFADDF0DE
 script: iast
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFADDF0DE"
 ---
 # svastyayanagāthā

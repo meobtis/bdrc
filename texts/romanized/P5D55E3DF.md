@@ -2,6 +2,7 @@
 title: "Nāgārjuna: Mūlamadhyamakakārikā"
 bdrc_id: P5D55E3DF
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5D55E3DF"
 ---
 # Nāgārjuna: Mūlamadhyamakakārikā

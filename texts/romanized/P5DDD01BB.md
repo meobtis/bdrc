@@ -2,6 +2,7 @@
 title: "MSV 1,14: Poṣadhasthāpanavastu"
 bdrc_id: P5DDD01BB
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5DDD01BB"
 ---
 # MSV 1,14: Poṣadhasthāpanavastu

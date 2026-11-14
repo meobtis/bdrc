@@ -4,6 +4,7 @@ bdrc_id: P94B0FEE8
 script: iast
 original_collection: GRETIL
 data_entry: "Oliver Hellwig"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P94B0FEE8"
 ---
 # Spandakārikā with the commentary by Kṣemarāja

@@ -4,6 +4,7 @@ bdrc_id: PFE84A2FF
 script: iast
 original_collection: GRETIL
 data_entry: "Udip Shakya"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFE84A2FF"
 ---
 # Satyasiddhiśāstram

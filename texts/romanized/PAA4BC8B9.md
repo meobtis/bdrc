@@ -4,6 +4,7 @@ bdrc_id: PAA4BC8B9
 script: iast
 original_collection: GRETIL
 data_entry: "Indology Student Team, University of Tokyo"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PAA4BC8B9"
 ---
 # Nyāyasūtra with Vātsyāyana's Nyāyabhāṣya

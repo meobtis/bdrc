@@ -4,6 +4,7 @@ bdrc_id: P7F11CC9A
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P7F11CC9A"
 ---
 # Īśvarapratyabhijñākārikā with Vṛtti

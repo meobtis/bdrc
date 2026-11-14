@@ -4,6 +4,7 @@ bdrc_id: P3BEDB9D7
 script: iast
 original_collection: GRETIL
 data_entry: "Peter Schreiner"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P3BEDB9D7"
 ---
 # Nārāyaṇīya (Mahābhārata 12.321-339)

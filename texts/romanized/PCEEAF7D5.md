@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Li Xuezhu and Fujita Yoshimichi"
 publisher: "China Tibetology Publishing House"
 year: "2017"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCEEAF7D5"
 ---
 # Pañcaśatikā prajñāpāramitā

@@ -2,6 +2,7 @@
 title: "Udānavarga"
 bdrc_id: P43A2EADA
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P43A2EADA"
 ---
 # Udānavarga

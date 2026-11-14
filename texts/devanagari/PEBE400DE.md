@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Takayasu Kimura, Nobuo Otsuka, Hideaki Kimura, Hisao Takahashi"
 publisher: "Institute for Comprehensive Studies of Buddhism, Taisho University"
 year: "2004"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PEBE400DE"
 ---
 # Sarvabuddhaviṣayāvatārajñānālokālaṁkāra nāma mahāyānasūtra

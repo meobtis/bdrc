@@ -5,6 +5,7 @@ script: iast
 editor: "Giuseppe Tucci"
 publisher: "Oriental Institute"
 year: "1932"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC922EF6A"
 ---
 # Abhisamayālaṇkāraloka

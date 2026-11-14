@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Pandey, Janardan Shastri"
 publisher: "Central Institute of Higher Tibetan Studies"
 year: "2002"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB51AF9A6"
 ---
 # Śrīherukābhidhānaṃ Cakrasaṃvaratantram with the Vivṛti Commentary of Bhavabhaṭṭa

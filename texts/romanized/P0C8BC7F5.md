@@ -4,6 +4,7 @@ bdrc_id: P0C8BC7F5
 script: iast
 original_collection: GRETIL
 data_entry: "Helmut Krasser"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P0C8BC7F5"
 ---
 # Mīmāṃsāślokavārttika

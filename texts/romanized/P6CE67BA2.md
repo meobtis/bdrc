@@ -2,6 +2,7 @@
 title: "Aśvaghoṣa: Saundarananda"
 bdrc_id: P6CE67BA2
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6CE67BA2"
 ---
 # Aśvaghoṣa: Saundarananda

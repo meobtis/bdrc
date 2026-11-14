@@ -4,6 +4,7 @@ bdrc_id: P7A4D9CA4
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P7A4D9CA4"
 ---
 # Gurupañcāśikā

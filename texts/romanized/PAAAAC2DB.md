@@ -4,6 +4,7 @@ bdrc_id: PAAAAC2DB
 script: iast
 original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PAAAAC2DB"
 ---
 # Bhagavadgītābhāṣya

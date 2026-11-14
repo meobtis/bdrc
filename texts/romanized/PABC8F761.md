@@ -4,6 +4,7 @@ bdrc_id: PABC8F761
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PABC8F761"
 ---
 # Madhyāntavibhāgakārikā

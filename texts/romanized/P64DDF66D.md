@@ -2,6 +2,7 @@
 title: "MSV 6,05: Ṣoḍaśaka"
 bdrc_id: P64DDF66D
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P64DDF66D"
 ---
 # MSV 6,05: Ṣoḍaśaka

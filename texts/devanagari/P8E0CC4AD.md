@@ -5,6 +5,7 @@ script: deva
 original_collection: DSBC
 publisher: "Savitri Prakashan"
 year: "2013"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P8E0CC4AD"
 ---
 # Pārājikā (Texts from Nepal)

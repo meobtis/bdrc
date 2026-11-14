@@ -4,6 +4,7 @@ bdrc_id: PB16E9B8F
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PB16E9B8F"
 ---
 # Jaiminīyagṛhyasūtra

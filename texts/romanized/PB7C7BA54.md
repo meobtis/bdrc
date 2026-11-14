@@ -4,6 +4,7 @@ bdrc_id: PB7C7BA54
 script: iast
 original_collection: GRETIL
 data_entry: "Ivan Andrijanić"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PB7C7BA54"
 ---
 # Upadeśasāhasrī

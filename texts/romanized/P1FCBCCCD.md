@@ -2,6 +2,7 @@
 title: "Pratyutpannabuddhasamādhisūtra"
 bdrc_id: P1FCBCCCD
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1FCBCCCD"
 ---
 # Pratyutpannabuddhasamādhisūtra

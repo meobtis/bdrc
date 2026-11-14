@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Caube,Vijayasankar"
 publisher: "Sampurnanda Sanskrit University"
 year: "1993"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB3B7AC47"
 ---
 # Dharmasamuccaya

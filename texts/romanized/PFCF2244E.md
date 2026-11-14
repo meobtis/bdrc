@@ -2,6 +2,7 @@
 title: "Bodhisatvapiṭaka"
 bdrc_id: PFCF2244E
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFCF2244E"
 ---
 # Bodhisatvapiṭaka

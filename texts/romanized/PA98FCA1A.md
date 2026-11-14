@@ -2,6 +2,7 @@
 title: "MSV 5,00: Uttaragrantha 1"
 bdrc_id: PA98FCA1A
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA98FCA1A"
 ---
 # MSV 5,00: Uttaragrantha 1

@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Vaidya, P. L."
 publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sanskrit"
 year: "1959"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P7EBB55AB"
 ---
 # Jātakamālā

@@ -5,6 +5,7 @@ script: deva
 original_collection: DSBC
 publisher: "Arbeitskreis Fur Tibetische Und Buddhistische Studien, Universitat Wien"
 year: "2007"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4BD8ADCB"
 ---
 # Jñānaśrimitra’s Anupalabdhirahasya and Sarvaśabdābhāvacarcā

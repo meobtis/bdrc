@@ -2,6 +2,7 @@
 title: "Vasubandhu: Abhidharmakośabhāṣya"
 bdrc_id: PDD3DDF3C
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDD3DDF3C"
 ---
 # Vasubandhu: Abhidharmakośabhāṣya

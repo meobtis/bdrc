@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Claudio Cicuzza"
 publisher: "Istituto Italiano Per L’africa E L’Oriente"
 year: "2001"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2B1B4ABF"
 ---
 # The Laghutantraṭīkā by Vajrapāṇi

@@ -2,6 +2,7 @@
 title: "MSV 6,02: Vinītakā"
 bdrc_id: P785EFEE8
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P785EFEE8"
 ---
 # MSV 6,02: Vinītakā

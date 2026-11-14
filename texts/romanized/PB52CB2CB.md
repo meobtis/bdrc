@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Prof. S. Rinpoche & Vraj Vallabh Dwivedi"
 publisher: "Central University of Tibetan Studies"
 year: "1986"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB52CB2CB"
 ---
 # Dhīh Journal

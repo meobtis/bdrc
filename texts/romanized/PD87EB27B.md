@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Gokhale, P. P."
 publisher: "Sri Satguru Publications"
 year: "1997"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PD87EB27B"
 ---
 # Hetubindu of Dharmakirti

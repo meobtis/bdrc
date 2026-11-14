@@ -4,6 +4,7 @@ bdrc_id: PCDC55C45
 script: iast
 original_collection: GRETIL
 data_entry: "Daniele Cuneo"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PCDC55C45"
 ---
 # Bhagavadbhaktistotra

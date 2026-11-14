@@ -2,6 +2,7 @@
 title: "Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ"
 bdrc_id: PF12AFCAA
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PF12AFCAA"
 ---
 # Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ

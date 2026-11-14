@@ -4,6 +4,7 @@ bdrc_id: P5E40B5CB
 script: iast
 original_collection: GRETIL
 data_entry: "Barend A. Van Nooten"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P5E40B5CB"
 ---
 # Ṛgveda-Saṃhitā

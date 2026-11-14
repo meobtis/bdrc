@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "W.Pachow and Ramakanta Mishra"
 publisher: "Ganganatha Jha Research Institute"
 year: "1956"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PADCF4F6D"
 ---
 # Pratimoksa sutra of Mahasanghikas

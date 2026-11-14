@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Gustav Roth"
 publisher: "K.P.Jayaswal Research Institute"
 year: "1970"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBF9B48A5"
 ---
 # Bhikṣuṇī Vinaya

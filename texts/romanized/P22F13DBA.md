@@ -4,6 +4,7 @@ bdrc_id: P22F13DBA
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P22F13DBA"
 ---
 # Vātūlanāthasūtra with the Vṛtti of Anantaśaktipāda

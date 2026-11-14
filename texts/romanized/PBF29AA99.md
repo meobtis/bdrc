@@ -4,6 +4,7 @@ bdrc_id: PBF29AA99
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PBF29AA99"
 ---
 # Tattvopaplavasiṃha

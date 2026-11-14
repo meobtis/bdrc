@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Ratna Bahadur Vajracharya"
 publisher: "Mukta Raj Vajracharya"
 year: "N.S 1080"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCDEFEDFB"
 ---
 # Āryaśrīgrahamātṛkā nāma dhāraṇī

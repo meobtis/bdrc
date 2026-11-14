@@ -4,6 +4,7 @@ bdrc_id: PFF833FC9
 script: iast
 original_collection: GRETIL
 data_entry: "Gaudiya Grantha Mandira"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PFF833FC9"
 ---
 # Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha

@@ -5,6 +5,7 @@ script: iast
 editor: "Christian Lindtner"
 publisher: "The Adyar Library and Research Center"
 year: "2001"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PAE4EE59E"
 ---
 # Madhyamakahṛdayaḥ

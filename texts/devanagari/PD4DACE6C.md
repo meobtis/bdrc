@@ -4,6 +4,7 @@ bdrc_id: PD4DACE6C
 script: deva
 original_collection: DSBC
 editor: "Sriman Mahesvara"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PD4DACE6C"
 ---
 # Śabdabhedaprakāśaḥ

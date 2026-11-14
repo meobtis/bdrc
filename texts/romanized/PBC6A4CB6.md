@@ -4,6 +4,7 @@ bdrc_id: PBC6A4CB6
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBC6A4CB6"
 ---
 # Suhṛllekha

@@ -2,6 +2,7 @@
 title: "MSV 6,07: Muktaka"
 bdrc_id: PED4AE681
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PED4AE681"
 ---
 # MSV 6,07: Muktaka

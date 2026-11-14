@@ -5,6 +5,7 @@ script: deva
 original_collection: DSBC
 publisher: "Arbeitskreis Fur Tibetische Und Buddhistische Studien, Universitat Wien"
 year: "2009"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1C0CDC98"
 ---
 # Smāhitā Bhūmiḥ

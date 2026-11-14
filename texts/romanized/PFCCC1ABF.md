@@ -3,6 +3,7 @@ title: "Boudhatantrokta Siddhauṣadhi Saṅgrahaḥ"
 bdrc_id: PFCCC1ABF
 script: iast
 original_collection: DSBC
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFCCC1ABF"
 ---
 # Boudhatantrokta Siddhauṣadhi Saṅgrahaḥ

@@ -4,6 +4,7 @@ bdrc_id: PA1DBB43F
 script: iast
 original_collection: GRETIL
 data_entry: "Gaudiya Grantha Mandira"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA1DBB43F"
 ---
 # Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)

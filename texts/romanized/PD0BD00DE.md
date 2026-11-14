@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "I. Minaev"
 publisher: "Oriental Institute"
 year: "1889"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PD0BD00DE"
 ---
 # Śiṣyalekha

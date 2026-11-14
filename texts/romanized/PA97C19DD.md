@@ -4,6 +4,7 @@ bdrc_id: PA97C19DD
 script: iast
 original_collection: GRETIL
 data_entry: "Takuya Ono"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA97C19DD"
 ---
 # Tarkasaṃgraha

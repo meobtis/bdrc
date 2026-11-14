@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Shastri, Shantibhiksu"
 publisher: "Journal of Sampurnanda Sanskrit University"
 year: "1955"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9A9BFA68"
 ---
 # Pañcaskandhaprakaraṇam

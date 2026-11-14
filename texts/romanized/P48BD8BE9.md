@@ -4,6 +4,7 @@ bdrc_id: P48BD8BE9
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"
+buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P48BD8BE9"
 ---
 # Saṃvitsiddhi

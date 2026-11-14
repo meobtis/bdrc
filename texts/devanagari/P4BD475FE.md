@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Luo Hong"
 publisher: "China Tibetology Publishing House"
 year: "2013"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4BD475FE"
 ---
 # The Buddhakapālatantra Chapters 9 to 14

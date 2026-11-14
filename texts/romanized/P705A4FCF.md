@@ -2,6 +2,7 @@
 title: "Mañjuśrīvikrīḍitasūtra"
 bdrc_id: P705A4FCF
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P705A4FCF"
 ---
 # Mañjuśrīvikrīḍitasūtra

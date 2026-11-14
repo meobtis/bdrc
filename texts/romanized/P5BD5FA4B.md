@@ -2,6 +2,7 @@
 title: "Nāgārjuna: Vigrahavyāvartanīvṛtti"
 bdrc_id: P5BD5FA4B
 script: iast
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5BD5FA4B"
 ---
 # Nāgārjuna: Vigrahavyāvartanīvṛtti

@@ -4,6 +4,7 @@ bdrc_id: PB4A49AD3
 script: iast
 original_collection: GRETIL
 data_entry: "Klaus Wille"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB4A49AD3"
 ---
 # Madhyāntavibhāgakārikābhāṣya a commentary on the Madhyāntavibhāgakārikās

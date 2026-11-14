@@ -6,6 +6,7 @@ original_collection: DSBC
 editor: "Vaidya, P.L"
 publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sanskrit"
 year: "1961"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PACCFC1EF"
 ---
 # Mahāyāna-sūtra-saṃgrahaḥ ( part 1)

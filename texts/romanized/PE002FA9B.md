@@ -4,6 +4,7 @@ bdrc_id: PE002FA9B
 script: iast
 original_collection: GRETIL
 data_entry: "Motoi Ono"
+buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PE002FA9B"
 ---
 # Vādanyāya
