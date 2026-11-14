@@ -1,0 +1,71 @@
+---
+title: "ཁང་དཀར་ཚུལ་ཁྲིམས་སྐལ་བཟང་གི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།"
+bdrc_id: ICDAC3F54
+language: sa
+script: tibt
+buddhist: true
+bdrc_work: MW00KG09980
+copyright_status: CopyrightPublicDomain
+access: AccessOpen
+sanskrit_lines: 28
+total_lines: 23796
+source_repository: "https://github.com/Openpecha-Data/ICDAC3F54"
+note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+---
+
+# ཁང་དཀར་ཚུལ་ཁྲིམས་སྐལ་བཟང་གི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
+
+༣. ཀཱཎ་ཝའི་རྒྱལ་རབས། ...........................
+
+$ $ #t # ) ཀཱ་ཏཱའི་བུ་ནོག་ཅན།(Pakudha Kaccoyana i&iP-BE
+
+hydyavinaya(+ ། #))ནི་པཎྜི་ཏ་པུཎ་ཡ་ཏ་ར་(
+
+（7) དེ་ལྟ་བྱུང་བ། ། ཎྞཾ (itivrttaka)
+
+སློབ་མ་སོ་ཎ་ཀུ་ཊི་ཀ་ཎ་ཎ་(Sonakutikanna [g H) ཀ་ཏ་ཡ་ཡ་ནིའི་དྲུང་
+
+གྲགས་ཆེ། སོ་ཎ་ཀུ་ཊི་ཀཎྜ་ཞེས་པ་ནི་ཨ་པ་རན་ཏར་(Aparanta)
+
+ལྷ་ཆེན་པོ།(Mahadeva t &) མ་ཧི་ས་མཎྜ་ལ།(Mahisamandala）
+
+མ་ཧཱ་དྷམྨ་རཀྴི་ཏ། (Mahadhammarakkhita) མཏཱ་ར་ཊ་ཋ། (Mahd
+
+སོ་ན་ཀ། (Sonaka) སུ་ཝརྞ་བྷཱུ་མི། (Suvannabhumi) % gJkx
+
+དང་ཀཎྜ་ཀུ་ཛྫ་(Kannakujja)དང་། ཨ་ཝན་ཏི།(Avanti) དཀ་ཁི་ཎཱ་
+
+（5)མང་ཐོས་སྡེ། Bahusrutiya(8ཊཱ4#$)
+
+(ཎྜི རྒྱུ #)
+
+ཀ( 7 : p if Andhakat thakatha)མ་ཧཱ་པ་ཙྪ་རཱི། (Mahdpaccari)་
+
+ཀྱི་ཀུ་ཥཱ་ཎའི་རྒྱལ་པོ་ཧུ་ཝི་ཥས་(IIuviska =vihdra)གཙུག་ལག་ཁང་ཡོད། །
+
+ཕུག་ནི་ཨ་ཇན་ཏཱ་(Ajanto)དང༌། བྷཱ་ཛཱ།(Bhoja） ན་སིག(Nosik) ཀཱར་
+
+རྟེན་མང་པོ་ཡོད་ཁོངས་ནས་བྷ་ཌ་ཌི་པྲ་ལུ་(Bhat tiprolu)དང་། གྷ་ཎ་ཌ་
+
+། གྷ་ཎ་ཌ་ཤཱ་ལ་ར་་
+
+སྒྲུབ་ཀེ་ཎ་ཌ་(Nagdarjunakonda)
+
+ཋི་པུ་ཏ་ཤི་ར་ཎཱ་ཏ་མཱུ་ལ་(vstsithiputa siri Catamula) ཡི་མཚན་ཡང་
+
+རཱ་ཛ་ཡ་པཱ་ལ་(Rdjyapola)དང་། ཝི་གྲ་ཧ་པཱ་ལ་(V1grahapala)དང༌།
+མ་ཧི་པཱ་ལ་(Mahipala)དང་། རཱ་མ་པཱ་ལ་(Romapala)སོགས་ཀྱིས་་་་
+
+ཏཱ་ར་བི་ཧཱ་ར་སྒྲོལ་མའི་་
+
+(4) སྒྲ་བྱུང་གི་ཚད་མ། （aitihya ཙྪཊྚ =Sabda)
+
+རིགས་པ་ཅན་པའི་མཁས་པ་པཎྜི་ཏ་ཝཱ་ཙིཡཱ་ཡ་ནས་
+
+ta 749) ཀ་མ་ལ་ཤཱི་ལ། (jik ## % Kamalasila 750) ཀ་ལ་ཡཱ་ན་་་
+
+ར་ཧཱུཾ་ཁཾ༔ ([E] JER [#/r a= vi =ra =hum =kham)ཞེས་པའི་སྔགས་་
+
+སྔགས། ཨོ་བཛྲ་དྷཱ་ཏུ་ཝཾ་( fe EE Hg gk #[ gg, on vaira dhatu vam)
+
+ཀ་མ་ལ་ཤཱི་ལ། ཛྙཱ་ན་སེ་ན། བལ་པོ་ཧཱུཾ་ཀ་ར། ལོ་ཙཱ་བ་འཁོན་ཀླུའི་དབང་

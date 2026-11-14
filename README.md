@@ -11,8 +11,10 @@ original collection the e-text came from (GRETIL or DSBC, where stated), and the
 taken from (`bdrc_id`).
 
 Some e-texts are the same text as one in GRETIL, DSBC or SARIT, which BDRC mirrors; they are kept as BDRC publishes them.
-Sanskrit that BDRC holds as Tibetan-script transliteration or as OCR inside Tibetan-language volumes is not converted
-here.
+Sanskrit that BDRC holds as Tibetan-script transliteration inside Tibetan-language volumes is in `texts/tibetan-script/`:
+for each of the 1,328 e-texts with at least 20 such lines, the Sanskrit lines (recognised by Sanskrit-only Tibetan letters
+and vowel signs such as ཱ, ྀ, ཾ, ཊ, ཎ, ཥ) are extracted in order, with the Tibetan text omitted. These are OCR-derived and
+unproofread, and a few of the largest files are mostly OCR noise.
 
 Each file has `language` (`sa` unless BDRC's metadata says otherwise: some are the Tibetan (Wylie), English, Pāli or Gāndhārī layer of a critical edition, kept for completeness) and `buddhist: true` or `false`; the MEOBTIS index lists the Sanskrit Buddhist ones.
 
