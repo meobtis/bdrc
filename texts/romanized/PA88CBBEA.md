@@ -1,6 +1,7 @@
 ---
 title: "Six Buddhist Nyaya tracts in Sanskrit"
 bdrc_id: PA88CBBEA
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Shastri, Haraprasad"

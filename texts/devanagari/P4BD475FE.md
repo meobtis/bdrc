@@ -1,6 +1,7 @@
 ---
 title: "The Buddhakapālatantra Chapters 9 to 14"
 bdrc_id: P4BD475FE
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Luo Hong"

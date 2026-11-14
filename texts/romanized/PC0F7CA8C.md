@@ -1,6 +1,7 @@
 ---
 title: "Nyāyāvatāra with the Nyāyāvatāravivṛti commentary by Siddharṣigaṇin"
 bdrc_id: PC0F7CA8C
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Piotr Balcerowicz"

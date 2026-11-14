@@ -1,6 +1,7 @@
 ---
 title: "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
 bdrc_id: PA1DBB43F
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Gaudiya Grantha Mandira"

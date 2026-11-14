@@ -1,6 +1,7 @@
 ---
 title: "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's"
 bdrc_id: P3C8D7FF0
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

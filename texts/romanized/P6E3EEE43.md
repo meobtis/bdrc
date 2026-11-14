@@ -1,6 +1,7 @@
 ---
 title: "Nāgānanda Nāṭaka"
 bdrc_id: P6E3EEE43
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Sansarachandra"

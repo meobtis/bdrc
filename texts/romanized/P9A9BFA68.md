@@ -1,6 +1,7 @@
 ---
 title: "Pañcaskandhaprakaraṇam"
 bdrc_id: P9A9BFA68
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Shastri, Shantibhiksu"

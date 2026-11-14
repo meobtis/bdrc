@@ -1,6 +1,7 @@
 ---
 title: "Sāṃkhyatattvapradīpa"
 bdrc_id: PBF3BBED0
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"

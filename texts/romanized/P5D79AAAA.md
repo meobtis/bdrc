@@ -1,6 +1,7 @@
 ---
 title: "Gilgit Manuscripts"
 bdrc_id: P5D79AAAA
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Dutt, Nalinaksa"

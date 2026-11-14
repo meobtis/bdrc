@@ -1,6 +1,7 @@
 ---
 title: "Mahāyānaviṁśikā"
 bdrc_id: PDB5C4CC1
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Bhattacharya, V."

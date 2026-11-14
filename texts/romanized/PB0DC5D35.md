@@ -1,6 +1,7 @@
 ---
 title: "Amoghapāśakalparāja Part VI"
 bdrc_id: PB0DC5D35
+language: sa
 script: iast
 original_collection: DSBC
 editor: "SasakiItoTakumi"

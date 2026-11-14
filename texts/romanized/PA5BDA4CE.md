@@ -1,6 +1,7 @@
 ---
 title: "Dhīh Journal"
 bdrc_id: PA5BDA4CE
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Prof. Geshe Ngawang Samten"

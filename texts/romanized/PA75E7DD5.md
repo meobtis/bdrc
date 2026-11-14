@@ -1,6 +1,7 @@
 ---
 title: "Nyāyapraveśapravṛtti"
 bdrc_id: PA75E7DD5
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

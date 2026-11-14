@@ -1,6 +1,7 @@
 ---
 title: "Mokṣopāya"
 bdrc_id: P4EAF822A
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Walter Slaje"

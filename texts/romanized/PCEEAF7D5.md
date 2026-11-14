@@ -1,6 +1,7 @@
 ---
 title: "Pañcaśatikā prajñāpāramitā"
 bdrc_id: PCEEAF7D5
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Li Xuezhu and Fujita Yoshimichi"

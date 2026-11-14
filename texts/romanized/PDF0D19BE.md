@@ -1,6 +1,7 @@
 ---
 title: "MSV 1,04: Varṣāvastu"
 bdrc_id: PDF0D19BE
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDF0D19BE"

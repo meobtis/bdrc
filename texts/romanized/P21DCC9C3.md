@@ -1,6 +1,7 @@
 ---
 title: "Nirukta"
 bdrc_id: P21DCC9C3
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Munoe Tokunaga (and partly M. Kobayashi)"

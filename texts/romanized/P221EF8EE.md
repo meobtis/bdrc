@@ -1,6 +1,7 @@
 ---
 title: "Buddhist Himalaya Vol.1, No.2."
 bdrc_id: P221EF8EE
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Shakya, M. B."

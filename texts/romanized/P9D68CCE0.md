@@ -1,6 +1,7 @@
 ---
 title: "Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ"
 bdrc_id: P9D68CCE0
+language: en
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9D68CCE0"

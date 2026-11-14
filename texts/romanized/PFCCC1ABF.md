@@ -1,6 +1,7 @@
 ---
 title: "Boudhatantrokta Siddhauṣadhi Saṅgrahaḥ"
 bdrc_id: PFCCC1ABF
+language: sa
 script: iast
 original_collection: DSBC
 buddhist: true

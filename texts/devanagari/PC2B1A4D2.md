@@ -1,6 +1,7 @@
 ---
 title: "Essays on the History of Buddhism"
 bdrc_id: PC2B1A4D2
+language: sa
 script: deva
 original_collection: DSBC
 publisher: "Kyoto University"

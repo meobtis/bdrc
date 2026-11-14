@@ -1,6 +1,7 @@
 ---
 title: "The Laghutantraṭīkā by Vajrapāṇi"
 bdrc_id: P2B1B4ABF
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Claudio Cicuzza"

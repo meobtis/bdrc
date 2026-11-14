@@ -1,6 +1,7 @@
 ---
 title: "Bibliotheca Buddhica (Mahāvyutpatti)"
 bdrc_id: P4C667BBD
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Minaev I.P & Mironov, N.D"

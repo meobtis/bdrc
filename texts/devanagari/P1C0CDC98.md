@@ -1,6 +1,7 @@
 ---
 title: "Smāhitā Bhūmiḥ"
 bdrc_id: P1C0CDC98
+language: sa
 script: deva
 original_collection: DSBC
 publisher: "Arbeitskreis Fur Tibetische Und Buddhistische Studien, Universitat Wien"

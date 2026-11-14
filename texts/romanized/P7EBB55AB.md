@@ -1,6 +1,7 @@
 ---
 title: "Jātakamālā"
 bdrc_id: P7EBB55AB
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Vaidya, P. L."

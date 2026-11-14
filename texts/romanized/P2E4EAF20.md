@@ -1,6 +1,7 @@
 ---
 title: "Sarva Tathāgata Tattva Saṅgraha"
 bdrc_id: P2E4EAF20
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Chandra, Lokesh"

@@ -1,6 +1,7 @@
 ---
 title: "Īśvarapratyabhijñākārikā with Vṛtti"
 bdrc_id: P7F11CC9A
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"

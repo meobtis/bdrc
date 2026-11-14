@@ -1,6 +1,7 @@
 ---
 title: "Vādanyāyaṭīkā"
 bdrc_id: PDB7C21C7
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Sāṅkṛtyāyana, Rāhula"

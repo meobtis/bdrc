@@ -1,6 +1,7 @@
 ---
 title: "Viśvaprakāśaḥ"
 bdrc_id: P648BFB4E
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Śrī Maheśvara"

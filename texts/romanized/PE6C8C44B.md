@@ -1,6 +1,7 @@
 ---
 title: "Nyāyabinduprakaraṇa with Vinītadeva's Nyāyabinduvistaraṭīkā (Śiṣyahita) and"
 bdrc_id: PE6C8C44B
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

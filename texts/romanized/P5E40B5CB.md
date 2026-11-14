@@ -1,6 +1,7 @@
 ---
 title: "Ṛgveda-Saṃhitā"
 bdrc_id: P5E40B5CB
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Barend A. Van Nooten"

@@ -1,6 +1,7 @@
 ---
 title: "Tarkarahasya"
 bdrc_id: P0ECE60D7
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Helmut Krasser"

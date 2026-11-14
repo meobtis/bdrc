@@ -1,6 +1,7 @@
 ---
 title: "Śrīherukābhidhānaṃ Cakrasaṃvaratantram with the Vivṛti Commentary of Bhavabhaṭṭa"
 bdrc_id: PB51AF9A6
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Pandey, Janardan Shastri"

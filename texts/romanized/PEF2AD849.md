@@ -1,6 +1,7 @@
 ---
 title: "Dhih Journal"
 bdrc_id: PEF2AD849
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Samten, Ngawang & Pandey, Janardan"

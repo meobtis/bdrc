@@ -1,6 +1,7 @@
 ---
 title: "Ādikarmapradīpa Bodhicaryāvatāraṭīkā"
 bdrc_id: PABFB6474
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Louis De La Vallee Poussin"

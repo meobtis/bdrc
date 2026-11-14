@@ -1,6 +1,7 @@
 ---
 title: "Nāgārjuna: Ratnāvalī"
 bdrc_id: PB1AED6A1
+language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB1AED6A1"

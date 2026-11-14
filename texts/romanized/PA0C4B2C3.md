@@ -1,6 +1,7 @@
 ---
 title: "Śikṣāsamuccaya"
 bdrc_id: PA0C4B2C3
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Mirek Rozehnahl"

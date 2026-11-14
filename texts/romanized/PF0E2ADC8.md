@@ -1,6 +1,7 @@
 ---
 title: "Bodhicaryāvatāra"
 bdrc_id: PF0E2ADC8
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Richard Mahoney"

@@ -1,6 +1,7 @@
 ---
 title: "Dhāraṇī Saṃgraha"
 bdrc_id: P0EA595AF
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Atul Bhosekar"

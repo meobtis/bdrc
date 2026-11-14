@@ -1,6 +1,7 @@
 ---
 title: "Abhidharmasamuccaya"
 bdrc_id: PD3F009DD
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Pradhan, Prahlad"

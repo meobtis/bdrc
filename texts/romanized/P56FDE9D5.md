@@ -1,6 +1,7 @@
 ---
 title: "Gaṇakārikā 1"
 bdrc_id: P56FDE9D5
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Oliver Hellwig"

@@ -1,6 +1,7 @@
 ---
 title: "तत्त्वज्ञानसंसिद्धिटीका"
 bdrc_id: PFD96B95C
+language: sa
 script: deva
 original_collection: DSBC
 buddhist: true

@@ -1,6 +1,7 @@
 ---
 title: "Nyāyasūtra"
 bdrc_id: PE5E94F4E
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

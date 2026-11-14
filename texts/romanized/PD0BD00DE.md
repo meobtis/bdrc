@@ -1,6 +1,7 @@
 ---
 title: "Śiṣyalekha"
 bdrc_id: PD0BD00DE
+language: sa
 script: iast
 original_collection: DSBC
 editor: "I. Minaev"

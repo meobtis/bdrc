@@ -1,6 +1,7 @@
 ---
 title: "Vṛttamālāstuti of Jñānaśrīmitra with Śākyarakṣita’s Vṛttamālā(stuti)vivṛti"
 bdrc_id: PCEEE0E4E
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Michael Hahn, S.S. Bahulkar, Lata Mahesh Deokar, M.A. Deokar"

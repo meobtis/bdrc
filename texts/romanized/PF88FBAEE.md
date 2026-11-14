@@ -1,6 +1,7 @@
 ---
 title: "Abhidharmasamuccayabhāṣya"
 bdrc_id: PF88FBAEE
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

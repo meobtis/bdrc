@@ -1,6 +1,7 @@
 ---
 title: "svastyayanagāthā"
 bdrc_id: PFADDF0DE
+language: sa
 script: iast
 original_collection: DSBC
 buddhist: true

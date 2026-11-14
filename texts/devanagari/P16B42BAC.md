@@ -1,6 +1,7 @@
 ---
 title: "वज्रयान दर्शन मीमांसा"
 bdrc_id: P16B42BAC
+language: sa
 script: deva
 original_collection: DSBC
 buddhist: true

@@ -1,6 +1,7 @@
 ---
 title: "Nārāyaṇīya (Mahābhārata 12.321-339)"
 bdrc_id: P3BEDB9D7
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Peter Schreiner"

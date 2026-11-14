@@ -1,6 +1,7 @@
 ---
 title: "Madhyāntavibhāgakārikā"
 bdrc_id: PABC8F761
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

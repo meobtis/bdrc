@@ -1,6 +1,7 @@
 ---
 title: "Mahāyāna-sūtra-saṃgrahaḥ ( part 1)"
 bdrc_id: P004BD2EB
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Vaidya, P.L"

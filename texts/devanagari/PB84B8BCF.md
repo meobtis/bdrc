@@ -1,6 +1,7 @@
 ---
 title: "Saddharmasmṛtyupasthānasūtram"
 bdrc_id: PB84B8BCF
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Daniel M. Stuart"

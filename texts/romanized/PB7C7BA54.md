@@ -1,6 +1,7 @@
 ---
 title: "Upadeśasāhasrī"
 bdrc_id: PB7C7BA54
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Ivan Andrijanić"

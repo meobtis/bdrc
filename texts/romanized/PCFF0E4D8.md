@@ -1,6 +1,7 @@
 ---
 title: "Arya-samghata-sutra"
 bdrc_id: PCFF0E4D8
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Oskar von Hinüber"

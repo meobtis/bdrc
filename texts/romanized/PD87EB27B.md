@@ -1,6 +1,7 @@
 ---
 title: "Hetubindu of Dharmakirti"
 bdrc_id: PD87EB27B
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Gokhale, P. P."

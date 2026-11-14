@@ -1,6 +1,7 @@
 ---
 title: "Śāṅkhāyanaśrautasūtra"
 bdrc_id: PD83FF0BE
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Muneo Tokunaga"

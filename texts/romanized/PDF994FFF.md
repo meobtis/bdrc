@@ -1,6 +1,7 @@
 ---
 title: "Bauddhalaghugrangtha-sangraha"
 bdrc_id: PDF994FFF
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Pandey, Janardan"

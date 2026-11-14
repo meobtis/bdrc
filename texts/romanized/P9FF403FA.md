@@ -1,6 +1,7 @@
 ---
 title: "MSV 1,02: Poṣadhavastu"
 bdrc_id: P9FF403FA
+language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9FF403FA"

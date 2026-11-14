@@ -1,6 +1,7 @@
 ---
 title: "Bhagavadāśayānusaraṇabhāsya"
 bdrc_id: PEE7B1EA2
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Takahiro Kato"

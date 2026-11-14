@@ -1,6 +1,7 @@
 ---
 title: "Dhih Journal Vol.33"
 bdrc_id: PA8ABFAA0
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Samten, Ngawang & Janardan Pandey"

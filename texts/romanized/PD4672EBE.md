@@ -1,6 +1,7 @@
 ---
 title: "Sphuṭārthā abhidharmakośavyākhyā"
 bdrc_id: PD4672EBE
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Seishi Karashima"

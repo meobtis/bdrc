@@ -1,6 +1,7 @@
 ---
 title: "Tattvajñānasaṁsiddhiṭīkā"
 bdrc_id: PC0CA210A
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Jnanacandra"

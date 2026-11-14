@@ -1,6 +1,7 @@
 ---
 title: "Adhyātmasāraśatakam(saṭīkam)"
 bdrc_id: P4B2EABEE
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Śrīprabhākaragupta"

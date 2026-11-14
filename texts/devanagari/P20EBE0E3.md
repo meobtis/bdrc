@@ -1,6 +1,7 @@
 ---
 title: "Pārājikā (Texts from Nepal)"
 bdrc_id: P20EBE0E3
+language: sa
 script: deva
 original_collection: DSBC
 publisher: "Savitri Prakashan"

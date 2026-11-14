@@ -1,6 +1,7 @@
 ---
 title: "Bodhicittotpādasūtraśāstra"
 bdrc_id: P5A4C6D6A
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

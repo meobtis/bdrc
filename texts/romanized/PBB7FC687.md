@@ -1,6 +1,7 @@
 ---
 title: "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā"
 bdrc_id: PBB7FC687
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

@@ -1,6 +1,7 @@
 ---
 title: "Bodhipathapradīpa"
 bdrc_id: PFBACB7E0
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

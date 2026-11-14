@@ -1,6 +1,7 @@
 ---
 title: "Āryaśrīgrahamātṛkā nāma dhāraṇī"
 bdrc_id: PCDEFEDFB
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Ratna Bahadur Vajracharya"

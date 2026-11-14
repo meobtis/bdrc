@@ -1,6 +1,7 @@
 ---
 title: "Bauddha Stotra Saṃgraha"
 bdrc_id: PB7EBD2BC
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Pandey, Janardan Shastri"

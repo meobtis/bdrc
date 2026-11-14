@@ -1,6 +1,7 @@
 ---
 title: "Saundaranandam Mahākāvyam"
 bdrc_id: P9B24E4DE
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Tripathi, Ramshankar"

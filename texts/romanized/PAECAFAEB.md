@@ -1,6 +1,7 @@
 ---
 title: "Kālacakrāvatāraḥ"
 bdrc_id: PAECAFAEB
+language: sa
 script: iast
 original_collection: DSBC
 buddhist: true

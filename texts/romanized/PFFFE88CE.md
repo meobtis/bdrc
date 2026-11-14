@@ -1,6 +1,7 @@
 ---
 title: "Daśabhūmikasūtram"
 bdrc_id: PFFFE88CE
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Vaidya, P. L."

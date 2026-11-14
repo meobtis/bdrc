@@ -1,6 +1,7 @@
 ---
 title: "Mātṛceṭa: Śatapañcāśatka"
 bdrc_id: P8BBAF02D
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P8BBAF02D"

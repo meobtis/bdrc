@@ -1,6 +1,7 @@
 ---
 title: "Sāṃkhyasūtra including the Tattvasamāsa, an abstract of Sāṃkhya philosophy"
 bdrc_id: PD6ECDD50
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

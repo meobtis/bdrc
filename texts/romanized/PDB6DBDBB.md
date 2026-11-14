@@ -1,6 +1,7 @@
 ---
 title: "Abhisamayālaṅkāravṛttiḥ sphuṭārthā"
 bdrc_id: PDB6DBDBB
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Tripathi, Ram Shankar"

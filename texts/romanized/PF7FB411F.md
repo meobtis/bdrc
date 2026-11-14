@@ -1,6 +1,7 @@
 ---
 title: "Citralakṣaṇam: an old text of Indian Art"
 bdrc_id: PF7FB411F
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Nagnajitacarya"

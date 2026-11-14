@@ -1,6 +1,7 @@
 ---
 title: "Saṃvitsiddhi"
 bdrc_id: P48BD8BE9
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"

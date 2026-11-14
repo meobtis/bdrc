@@ -1,6 +1,7 @@
 ---
 title: "Pratimālakṣaṇavivaraṇam"
 bdrc_id: PFFF99FE5
+language: sa
 script: iast
 editor: "Dr. Banarsi Lal"
 publisher: "Central Institute of Higher Tibetan Studies (CIHTS)"

@@ -1,6 +1,7 @@
 ---
 title: "Saṃvitsiddhi"
 bdrc_id: PBFB7DBB4
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"

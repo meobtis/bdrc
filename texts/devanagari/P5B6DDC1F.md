@@ -1,6 +1,7 @@
 ---
 title: "Sphuṭārthā Abhidharmakośa Vyākhyā (Vol 2)"
 bdrc_id: P5B6DDC1F
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Narendra Nath Law and Nalinaksha Dutaa"

@@ -1,6 +1,7 @@
 ---
 title: "MSV 1,01: Pravrajyāvastu"
 bdrc_id: P07DCCE3D
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P07DCCE3D"

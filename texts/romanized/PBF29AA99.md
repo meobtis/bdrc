@@ -1,6 +1,7 @@
 ---
 title: "Tattvopaplavasiṃha"
 bdrc_id: PBF29AA99
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"

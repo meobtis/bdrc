@@ -1,6 +1,7 @@
 ---
 title: "आर्यश्री ग्रहमातृका नाम धारणी"
 bdrc_id: PE5FCCD8C
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Ratna Bahadur Vajracharya"

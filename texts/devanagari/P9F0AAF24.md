@@ -1,6 +1,7 @@
 ---
 title: "Pañcaśatikā prajñāpāramitā"
 bdrc_id: P9F0AAF24
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Xuezhu Li, Yoshimichi Fujita"

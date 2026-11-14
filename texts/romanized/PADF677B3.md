@@ -1,6 +1,7 @@
 ---
 title: "Mahayana sutralankara of Asanga with its Svavrtti"
 bdrc_id: PADF677B3
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Bagchi, S."

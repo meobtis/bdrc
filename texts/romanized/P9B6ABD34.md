@@ -1,6 +1,7 @@
 ---
 title: "Prakaraṇapañcikā with Nārāyaṇabhaṭṭa's Nyāyasiddhi"
 bdrc_id: P9B6ABD34
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

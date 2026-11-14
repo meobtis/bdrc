@@ -1,6 +1,7 @@
 ---
 title: "Śālistambakakārikā"
 bdrc_id: P194C5EFC
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

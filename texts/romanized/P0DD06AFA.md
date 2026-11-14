@@ -1,6 +1,7 @@
 ---
 title: "Mahāyānasaṃgraha"
 bdrc_id: P0DD06AFA
+language: sa
 script: iast
 original_collection: DSBC
 buddhist: true

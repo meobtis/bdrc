@@ -1,6 +1,7 @@
 ---
 title: "Yogasūtra with Bhāṣya"
 bdrc_id: PA02DDFEC
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Muneo Tokunaga"

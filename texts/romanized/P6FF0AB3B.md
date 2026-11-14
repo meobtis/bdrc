@@ -1,6 +1,7 @@
 ---
 title: "Śāntideva: Bodhicaryāvatāra"
 bdrc_id: P6FF0AB3B
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6FF0AB3B"

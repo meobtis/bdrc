@@ -1,6 +1,7 @@
 ---
 title: "Advayavajrasaṅgrahaḥ"
 bdrc_id: P01DBCE0C
+language: sa
 script: iast
 editor: "Pt.Hara Prasad Shastri"
 publisher: "Oriental Institute"

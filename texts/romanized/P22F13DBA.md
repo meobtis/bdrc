@@ -1,6 +1,7 @@
 ---
 title: "Vātūlanāthasūtra with the Vṛtti of Anantaśaktipāda"
 bdrc_id: P22F13DBA
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"

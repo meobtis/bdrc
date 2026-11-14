@@ -1,6 +1,7 @@
 ---
 title: "Santānāntarasiddhi kārikā ṭīkā"
 bdrc_id: PE57C5CC9
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Negi, J.S."

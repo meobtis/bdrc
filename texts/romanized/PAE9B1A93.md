@@ -1,6 +1,7 @@
 ---
 title: "Timirodghāṭana plus short Nirvāṇakārikā at the end"
 bdrc_id: PAE9B1A93
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"

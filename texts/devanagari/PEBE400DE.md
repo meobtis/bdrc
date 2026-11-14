@@ -1,6 +1,7 @@
 ---
 title: "Sarvabuddhaviṣayāvatārajñānālokālaṁkāra nāma mahāyānasūtra"
 bdrc_id: PEBE400DE
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Takayasu Kimura, Nobuo Otsuka, Hideaki Kimura, Hisao Takahashi"

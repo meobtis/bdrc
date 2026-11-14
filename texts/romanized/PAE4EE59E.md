@@ -1,6 +1,7 @@
 ---
 title: "Madhyamakahṛdayaḥ"
 bdrc_id: PAE4EE59E
+language: sa
 script: iast
 editor: "Christian Lindtner"
 publisher: "The Adyar Library and Research Center"

@@ -1,6 +1,7 @@
 ---
 title: "Mantroddhāra"
 bdrc_id: P6B4C62AD
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Mantroddhara"

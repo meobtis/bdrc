@@ -1,6 +1,7 @@
 ---
 title: "MSV 2,01: Vinayavibhaṅga"
 bdrc_id: PCAE050CC
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCAE050CC"

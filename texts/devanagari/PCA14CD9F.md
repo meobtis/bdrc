@@ -1,6 +1,7 @@
 ---
 title: "Sanskrit Manuscripts in China"
 bdrc_id: PCA14CD9F
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Ernst Steinkellner"

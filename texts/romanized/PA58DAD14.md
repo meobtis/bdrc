@@ -1,6 +1,7 @@
 ---
 title: "Svabodhasiddhi"
 bdrc_id: PA58DAD14
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Jürgen Hanneder"

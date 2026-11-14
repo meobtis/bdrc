@@ -1,6 +1,7 @@
 ---
 title: "Abhidharmasamuccayabhāṣyam"
 bdrc_id: PFB6D94AD
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Tatia, Nathmal"

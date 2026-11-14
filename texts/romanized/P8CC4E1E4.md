@@ -1,6 +1,7 @@
 ---
 title: "Gaṅgottaraparipṛcchā"
 bdrc_id: P8CC4E1E4
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P8CC4E1E4"

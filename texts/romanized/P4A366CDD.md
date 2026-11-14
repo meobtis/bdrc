@@ -1,6 +1,7 @@
 ---
 title: "Piṇḍīkramaḥ Pañcakrama"
 bdrc_id: P4A366CDD
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Ram Shankar Tripthi"

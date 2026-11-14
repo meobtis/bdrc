@@ -1,6 +1,7 @@
 ---
 title: "Kauśikapaddhati"
 bdrc_id: PEB0A4E44
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Ketaki Gokhale"

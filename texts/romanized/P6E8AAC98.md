@@ -1,6 +1,7 @@
 ---
 title: "Viśālāmalavatī Pramāṇasamuccayaṭīkā"
 bdrc_id: P6E8AAC98
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Horst Lasic, Helmut Krasser, Ernst Steinkellner"

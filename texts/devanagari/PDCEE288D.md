@@ -1,6 +1,7 @@
 ---
 title: "बौद्ध मनीषा- बौद्धेषु प्रमाणमीमांसा"
 bdrc_id: PDCEE288D
+language: sa
 script: deva
 original_collection: DSBC
 buddhist: true

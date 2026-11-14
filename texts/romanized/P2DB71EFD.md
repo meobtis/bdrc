@@ -1,6 +1,7 @@
 ---
 title: "Suvarṇavarṇāvadāna"
 bdrc_id: P2DB71EFD
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2DB71EFD"

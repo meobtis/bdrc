@@ -1,6 +1,7 @@
 ---
 title: "Tarkasaṃgraha"
 bdrc_id: PA97C19DD
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Takuya Ono"

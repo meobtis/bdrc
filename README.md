@@ -14,6 +14,6 @@ Some e-texts are the same text as one in GRETIL, DSBC or SARIT, which BDRC mirro
 Sanskrit that BDRC holds as Tibetan-script transliteration or as OCR inside Tibetan-language volumes is not converted
 here.
 
-Each file has `buddhist: true` or `false`; the MEOBTIS index lists the Buddhist ones.
+Each file has `language` (`sa` unless BDRC's metadata says otherwise: some are the Tibetan (Wylie), English, Pāli or Gāndhārī layer of a critical edition, kept for completeness) and `buddhist: true` or `false`; the MEOBTIS index lists the Sanskrit Buddhist ones.
 
 See [CATALOG.md](CATALOG.md) for the list.

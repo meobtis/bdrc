@@ -1,6 +1,7 @@
 ---
 title: "Dhīh Journal"
 bdrc_id: PB52CB2CB
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Prof. S. Rinpoche & Vraj Vallabh Dwivedi"

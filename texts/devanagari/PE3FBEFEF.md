@@ -1,6 +1,7 @@
 ---
 title: "Balimālikā"
 bdrc_id: PE3FBEFEF
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Sumatisimha"

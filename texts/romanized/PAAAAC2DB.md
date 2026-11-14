@@ -1,6 +1,7 @@
 ---
 title: "Bhagavadgītābhāṣya"
 bdrc_id: PAAAAC2DB
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"

@@ -1,6 +1,7 @@
 ---
 title: "Daṇḍikathā"
 bdrc_id: P5FCE6EE1
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Dr. Biswanath Bhattacharya"

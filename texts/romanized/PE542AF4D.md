@@ -1,6 +1,7 @@
 ---
 title: "Śabdabhedaprakāśaḥ"
 bdrc_id: PE542AF4D
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Śabdabhedaprakāśaḥ"

@@ -1,6 +1,7 @@
 ---
 title: "Vasubandhu: Abhidharmakośabhāṣya"
 bdrc_id: P59CC15AD
+language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P59CC15AD"

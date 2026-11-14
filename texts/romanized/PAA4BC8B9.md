@@ -1,6 +1,7 @@
 ---
 title: "Nyāyasūtra with Vātsyāyana's Nyāyabhāṣya"
 bdrc_id: PAA4BC8B9
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Indology Student Team, University of Tokyo"

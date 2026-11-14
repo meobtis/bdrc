@@ -1,6 +1,7 @@
 ---
 title: "Laghukaumudīvyākaraṇam"
 bdrc_id: PAD84D6A2
+language: sa
 script: iast
 original_collection: DSBC
 editor: "James R. Ballantyne"

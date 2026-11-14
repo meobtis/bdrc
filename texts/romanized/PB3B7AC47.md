@@ -1,6 +1,7 @@
 ---
 title: "Dharmasamuccaya"
 bdrc_id: PB3B7AC47
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Caube,Vijayasankar"

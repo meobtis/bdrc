@@ -1,6 +1,7 @@
 ---
 title: "Āryaśālistambakakārikā"
 bdrc_id: PA1E6F05D
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Rabten, Sonam"

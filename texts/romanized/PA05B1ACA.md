@@ -1,6 +1,7 @@
 ---
 title: "MSV 1,11: Pāṇḍulohitakavastu"
 bdrc_id: PA05B1ACA
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA05B1ACA"

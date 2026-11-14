@@ -1,6 +1,7 @@
 ---
 title: "Sarvamatasaṃgraha"
 bdrc_id: P56BB02BD
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Oliver Hellwig"

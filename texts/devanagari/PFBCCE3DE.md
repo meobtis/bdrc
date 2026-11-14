@@ -1,6 +1,7 @@
 ---
 title: "महामायातन्त्रम् [गुणवतिटिकासहितम्]"
 bdrc_id: PFBCCE3DE
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Rinpoche, Samdong & Vajravallabh Dwivedi"

@@ -1,6 +1,7 @@
 ---
 title: "Jaiminīyagṛhyasūtra"
 bdrc_id: PB16E9B8F
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

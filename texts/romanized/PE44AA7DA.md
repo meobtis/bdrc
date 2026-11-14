@@ -1,6 +1,7 @@
 ---
 title: "Nādabindūpaniṣad"
 bdrc_id: PE44AA7DA
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Oliver Hellwig"

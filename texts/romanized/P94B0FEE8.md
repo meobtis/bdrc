@@ -1,6 +1,7 @@
 ---
 title: "Spandakārikā with the commentary by Kṣemarāja"
 bdrc_id: P94B0FEE8
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Oliver Hellwig"

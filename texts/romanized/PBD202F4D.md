@@ -1,6 +1,7 @@
 ---
 title: "Seven Works of Vasubandhu"
 bdrc_id: PBD202F4D
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Anacker, Stephan"

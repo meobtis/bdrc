@@ -1,6 +1,7 @@
 ---
 title: "Suvarṇaprabhāsasūtram"
 bdrc_id: P1E93F3ED
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Bagchi, S."

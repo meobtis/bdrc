@@ -1,6 +1,7 @@
 ---
 title: "Tattvaratnāvalokaḥ"
 bdrc_id: PF9D94CA8
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Pandey, Janardan"

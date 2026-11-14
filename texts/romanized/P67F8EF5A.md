@@ -1,6 +1,7 @@
 ---
 title: "Spandakārikā"
 bdrc_id: P67F8EF5A
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Marino Faliero"

@@ -1,6 +1,7 @@
 ---
 title: "Mīmāṃsāślokavārttika"
 bdrc_id: P0C8BC7F5
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Helmut Krasser"

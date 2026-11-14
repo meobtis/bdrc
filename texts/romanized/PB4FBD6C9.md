@@ -1,6 +1,7 @@
 ---
 title: "Nyāyabindu Prakaraṇam-kārikā"
 bdrc_id: PB4FBD6C9
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Shastri, Haraprasad"

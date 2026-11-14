@@ -1,6 +1,7 @@
 ---
 title: "MSV 3,0: Bhikṣuṇīprātimokṣa"
 bdrc_id: PA0CB5F15
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA0CB5F15"

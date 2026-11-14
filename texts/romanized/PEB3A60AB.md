@@ -1,6 +1,7 @@
 ---
 title: "Tattvasamāsa-4versions an abstract of Sāṃkhya philosophy in (23-) 25 sūtras,"
 bdrc_id: PEB3A60AB
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"

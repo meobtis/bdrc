@@ -1,6 +1,7 @@
 ---
 title: "Pramāṇavārttisvavṛtti"
 bdrc_id: PD3BC130B
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Motoi Ono"

@@ -1,6 +1,7 @@
 ---
 title: "Sāṃkhyakārikā with Śaṃkara's Jayamaṅgalā commentary"
 bdrc_id: PA3F7DD94
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"

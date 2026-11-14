@@ -1,6 +1,7 @@
 ---
 title: "Paramārthasāra"
 bdrc_id: PCC00FCAC
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Marino Faliero"

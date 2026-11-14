@@ -1,6 +1,7 @@
 ---
 title: "Bhagavadbhaktistotra"
 bdrc_id: PCDC55C45
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Daniele Cuneo"

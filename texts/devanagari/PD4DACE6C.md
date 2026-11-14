@@ -1,6 +1,7 @@
 ---
 title: "Śabdabhedaprakāśaḥ"
 bdrc_id: PD4DACE6C
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Sriman Mahesvara"

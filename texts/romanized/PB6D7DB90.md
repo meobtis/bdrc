@@ -1,6 +1,7 @@
 ---
 title: "Jñānālokālaṃkāra"
 bdrc_id: PB6D7DB90
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Study Group on Buddhist Sanskrit Literature"

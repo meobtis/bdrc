@@ -1,6 +1,7 @@
 ---
 title: "Bhāmati a commentary on Śaṃkara's Brahmasūtrabhāṣya"
 bdrc_id: P1EA8FDDF
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

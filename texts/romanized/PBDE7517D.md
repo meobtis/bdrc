@@ -1,6 +1,7 @@
 ---
 title: "Vaiśeṣikasūtra"
 bdrc_id: PBDE7517D
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

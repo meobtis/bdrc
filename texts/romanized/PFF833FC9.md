@@ -1,6 +1,7 @@
 ---
 title: "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha"
 bdrc_id: PFF833FC9
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Gaudiya Grantha Mandira"

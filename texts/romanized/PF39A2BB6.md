@@ -1,6 +1,7 @@
 ---
 title: "Vedārthasaṃgraha"
 bdrc_id: PF39A2BB6
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"

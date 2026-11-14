@@ -1,6 +1,7 @@
 ---
 title: "Bhikṣuṇī Vinaya"
 bdrc_id: PBF9B48A5
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Gustav Roth"

@@ -1,6 +1,7 @@
 ---
 title: "Saddharmapuṇḍarīka"
 bdrc_id: P85CAE8AD
+language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P85CAE8AD"

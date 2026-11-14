@@ -1,6 +1,7 @@
 ---
 title: "Tarkatāṇḍava with Rāghavendratīrtha's Nyāyadīpa"
 bdrc_id: PB9AD9E4B
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

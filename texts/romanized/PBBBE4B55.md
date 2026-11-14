@@ -1,6 +1,7 @@
 ---
 title: "Hetutattvopadeśa"
 bdrc_id: PBBBE4B55
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

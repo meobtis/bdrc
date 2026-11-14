@@ -1,6 +1,7 @@
 ---
 title: "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya"
 bdrc_id: PEFEE4F4E
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

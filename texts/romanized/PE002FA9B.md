@@ -1,6 +1,7 @@
 ---
 title: "Vādanyāya"
 bdrc_id: PE002FA9B
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Motoi Ono"

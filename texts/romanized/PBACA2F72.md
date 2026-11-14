@@ -1,6 +1,7 @@
 ---
 title: "Pratyabhijñāhṛdaya"
 bdrc_id: PBACA2F72
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Marino Faliero"

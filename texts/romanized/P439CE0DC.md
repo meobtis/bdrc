@@ -1,6 +1,7 @@
 ---
 title: "Vādarahasya also known as Udayananirākaraṇa"
 bdrc_id: P439CE0DC
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

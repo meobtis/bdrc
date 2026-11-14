@@ -1,6 +1,7 @@
 ---
 title: "Bhavasaṅkrānti Śāstra"
 bdrc_id: PFBFA78E3
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Shastri, Aiswami"

@@ -1,6 +1,7 @@
 ---
 title: "Vajrasattvaniṣpādana Sūtra"
 bdrc_id: PFCED252A
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Luo Hong & Toru Tomabechi"

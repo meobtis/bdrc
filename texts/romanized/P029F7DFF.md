@@ -1,6 +1,7 @@
 ---
 title: "Nyāyabinduṭīkāṭippaṇī"
 bdrc_id: P029F7DFF
+language: sa
 script: iast
 editor: "Theodore Tserbatsky"
 publisher: "Academie Imperial des Sciences"

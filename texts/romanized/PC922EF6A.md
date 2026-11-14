@@ -1,6 +1,7 @@
 ---
 title: "Abhisamayālaṇkāraloka"
 bdrc_id: PC922EF6A
+language: sa
 script: iast
 editor: "Giuseppe Tucci"
 publisher: "Oriental Institute"

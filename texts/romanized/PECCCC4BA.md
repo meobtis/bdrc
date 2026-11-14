@@ -1,6 +1,7 @@
 ---
 title: "Paribhāṣāvṛtteh"
 bdrc_id: PECCCC4BA
+language: sa
 script: iast
 original_collection: DSBC
 editor: "HarinathaDube"

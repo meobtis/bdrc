@@ -1,6 +1,7 @@
 ---
 title: "Viṃśikāvṛtti"
 bdrc_id: P4ACBC4FC
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

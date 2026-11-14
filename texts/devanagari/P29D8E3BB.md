@@ -1,6 +1,7 @@
 ---
 title: "The Gilgit Manuscript of the Sayanasanavastu and the Adhikaranavastu"
 bdrc_id: P29D8E3BB
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Raniero Gnoli"

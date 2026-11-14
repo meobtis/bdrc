@@ -1,6 +1,7 @@
 ---
 title: "Nyāyakusumāñjali"
 bdrc_id: PB8E4A6BB
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

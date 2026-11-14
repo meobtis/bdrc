@@ -1,6 +1,7 @@
 ---
 title: "Aririab"
 bdrc_id: P4CCCCB2A
+language: sa
 script: deva
 original_collection: DSBC
 publisher: "Soka University"

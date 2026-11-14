@@ -1,6 +1,7 @@
 ---
 title: "Bodhisattva-prātimokṣa-sūtram"
 bdrc_id: P55C7DD5F
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Dutt, Nalinaksa"

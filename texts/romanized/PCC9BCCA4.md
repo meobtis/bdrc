@@ -1,6 +1,7 @@
 ---
 title: "The Sarvadurgatipariśodhana tantra : elimination of all evil destinies"
 bdrc_id: PCC9BCCA4
+language: sa
 script: iast
 original_collection: DSBC
 publisher: "Motilal Banarsidass"

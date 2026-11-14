@@ -1,6 +1,7 @@
 ---
 title: "Āryamāyājālamahātantroddhṛtamaṇdalagāthāṭippaṇī"
 bdrc_id: P303FF3DF
+language: sa
 script: deva
 original_collection: DSBC
 buddhist: true

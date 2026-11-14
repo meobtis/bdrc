@@ -1,6 +1,7 @@
 ---
 title: "Tarkasaṃgraha with autoentary (Dīpikā), Nīlakaṇṭha's Dīpikāprakāśikā and"
 bdrc_id: P8FFDF854
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

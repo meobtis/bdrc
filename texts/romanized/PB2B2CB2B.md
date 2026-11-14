@@ -1,6 +1,7 @@
 ---
 title: "Ratnaguṇasaṃcayagāthā"
 bdrc_id: PB2B2CB2B
+language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB2B2CB2B"

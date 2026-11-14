@@ -1,6 +1,7 @@
 ---
 title: "Paryantapañcāśikā"
 bdrc_id: PA5BA4C7E
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Marino Faliero"

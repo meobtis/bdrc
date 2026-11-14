@@ -1,6 +1,7 @@
 ---
 title: "Madhyāntavibhāgakārikābhāṣya a commentary on the Madhyāntavibhāgakārikās"
 bdrc_id: PB4A49AD3
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Klaus Wille"

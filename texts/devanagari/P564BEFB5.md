@@ -1,6 +1,7 @@
 ---
 title: "Dharmadhātustava"
 bdrc_id: P564BEFB5
+language: sa
 script: deva
 original_collection: DSBC
 editor: "Liu Zhen"

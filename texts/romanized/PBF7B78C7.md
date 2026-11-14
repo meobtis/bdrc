@@ -1,6 +1,7 @@
 ---
 title: "Pāramitāsamāsaḥ"
 bdrc_id: PBF7B78C7
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Madows, Carol"

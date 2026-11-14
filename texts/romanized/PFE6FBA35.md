@@ -1,6 +1,7 @@
 ---
 title: "Saṅghabhedavastu"
 bdrc_id: PFE6FBA35
+language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFE6FBA35"

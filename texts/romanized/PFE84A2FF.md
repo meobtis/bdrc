@@ -1,6 +1,7 @@
 ---
 title: "Satyasiddhiśāstram"
 bdrc_id: PFE84A2FF
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Udip Shakya"

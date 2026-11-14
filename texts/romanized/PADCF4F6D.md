@@ -1,6 +1,7 @@
 ---
 title: "Pratimoksa sutra of Mahasanghikas"
 bdrc_id: PADCF4F6D
+language: sa
 script: iast
 original_collection: DSBC
 editor: "W.Pachow and Ramakanta Mishra"

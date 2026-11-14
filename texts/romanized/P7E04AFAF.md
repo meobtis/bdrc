@@ -1,6 +1,7 @@
 ---
 title: "Sāmavedasaṃhitā"
 bdrc_id: P7E04AFAF
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Anshuman Pandey"

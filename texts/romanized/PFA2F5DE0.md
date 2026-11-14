@@ -1,6 +1,7 @@
 ---
 title: "Sāṃkhyakārikā with Gauḍapāda's Bhāṣya"
 bdrc_id: PFA2F5DE0
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Dhaval Patel"

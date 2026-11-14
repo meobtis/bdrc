@@ -1,6 +1,7 @@
 ---
 title: "Maitreyavyākaraṇa"
 bdrc_id: PFB7A4F47
+language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFB7A4F47"

@@ -1,6 +1,7 @@
 ---
 title: "Mahāmāyātantram with Guṇāvatī"
 bdrc_id: PEAEA1373
+language: sa
 script: iast
 original_collection: DSBC
 editor: "Rinpoche, Samdong & Vajravallabh Dwivedi"

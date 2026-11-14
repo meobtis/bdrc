@@ -1,6 +1,7 @@
 ---
 title: "Jñānaśrimitra’s Anupalabdhirahasya and Sarvaśabdābhāvacarcā"
 bdrc_id: PFF8C7BE6
+language: sa
 script: iast
 original_collection: DSBC
 publisher: "Arbeitskreis Fur Tibetische Und Buddhistische Studien, Universitat Wien"

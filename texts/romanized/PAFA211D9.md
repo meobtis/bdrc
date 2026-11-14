@@ -1,6 +1,7 @@
 ---
 title: "Nyāyasudhā a subcommentary on Mādhva's Anuvyākhāna, a commentary on Bādarāyaṇa's"
 bdrc_id: PAFA211D9
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Sansknet Project"

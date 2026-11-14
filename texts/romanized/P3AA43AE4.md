@@ -1,6 +1,7 @@
 ---
 title: "Triṃśikāvijñaptikārikā"
 bdrc_id: P3AA43AE4
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "members of the Digital Sanskrit Buddhist Canon Input Project"

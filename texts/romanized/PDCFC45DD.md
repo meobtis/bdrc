@@ -1,6 +1,7 @@
 ---
 title: "Īśvarapratyabhijñāvimarśinī"
 bdrc_id: PDCFC45DD
+language: sa
 script: iast
 original_collection: GRETIL
 data_entry: "Masahiro Takano"
