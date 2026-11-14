@@ -1,0 +1,51 @@
+---
+title: "Bauddha Stotra Saṃgraha"
+bdrc_id: P3C9BB41E
+script: iast
+original_collection: DSBC
+editor: "Pandey, Janardan Shastri"
+publisher: "Motilal Banarsidass"
+year: "1994"
+source_repository: "https://github.com/Openpecha-Data/P3C9BB41E"
+---
+# Bauddha Stotra Saṃgraha
+
+saptavidhānuttarastotramnamaḥ śrīlokanāthāyaamitaruciśiraḥsthaṃ padmapatrāyatākṣaṃduritakṛtavināśaṃ
+mohamāyā'hitākṣam |karadhṛtakanakābjaṃ lokapālaikadakṣaṃpraṇamitaśirasā'haṃ naumi
+taṃ lokanātham
+
+aruṇavaruṇaśobhābodhivijñānahetuṃmaṇimayamukuṭaṃ saṃsārakāmbhodhisetum |kṛtamanasijanāśaṃ bodhisattvādiketuṃpraṇamitaśirasā'haṃ
+naumi taṃ lokanātham
+
+sarasijakṛtavāsaṃ dūrakandarpapāśaṃsuranaradanujāśaṃ pūrṇacandraprakāśam |sukṛtajanavilāsaṃ
+koṭisūryāvabhāsaṃpraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+urasi vihitanāgaṃ mocitāśeṣarāgaṃbhavajaladhivibhāgaṃ mokṣasaukhyaikamārgam |pratapitakanakāṅgaṃ
+bodhibodhaikarāgaṃpraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+jinavarasutarājaṃ muktimālāvirājaṃsulalitaphaṇirājaṃ kīrṇitācābhirājam |pramuditavalirājaṃ pālitāmartyarājaṃpraṇamitaśirasā'haṃ
+naumi taṃ lokanātham
+
+dhṛtamadhukararūpaṃ kṣuptipāsāntakūpaṃsucaritahayarūpaṃ siṃhalādantabhūpam |agurusurabhidhūpaṃ
+dhāritāśeṣarūpaṃpraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+trividhavidhṛtapāpaṃ me harantaṃ tritāpaṃpratidinamitijāpaṃ devacakre vilāpam |nirayabhayakalāpaṃ
+bhedakājñānacāpaṃpraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+vihitaśubhajanānāṃ muktitāpodyatānāṃvigalitakaluṣāṇāṃ bhaktipūjāratānām |varakuśalasamūhaṃ saṃprapede
+svabhaktyāpraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+daśabalakṛtasiddhiṃ saṃvadhe buddhabodhiṃjananamaraṇabhītaṃ mārapāśābhinītam |manasi malinavṛtte
+pūritājñānavittepraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+pravarasugataratnaṃ dharmakāyaṃ saṃsaṃghaṃkṣaraṇamiha prayāmi kāritānaṅgabhaṅgam |pramuditamanasāptaṃ
+bodhilābhaikayatnaṃpraṇamitaśirasā'haṃ naumi taṃ lokanātham
+
+śrīlokanāthacaraṇāmbujabhaktipadma-pīyūṣanandaracitānativistarāḍhyam |yatsaptadhārcanayutaṃ
+sarasātihṛdyaṃsaukhyāvatīgamanamārgakaraṃ tu sadyaḥ
+
+stutvā lokaguruṃ munīśvaramimaṃ sarvārthasiddhipradaṃyatpuṇyaṃ samupārjitaṃ vrajatu tatpuṇyena
+saukhyāvatīm |śrīlokeśvarapādapaṅkajarasollāsaikaharṣoditaṃlokakleśaharaṃ sudurjayavaraṃ
+jitvā pramuktāmalam
+
+śrīmadāryāvalokiteśvarasya saptavidhānuttararastotraṃ samāptam |

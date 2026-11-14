@@ -1,0 +1,1018 @@
+---
+title: "Pāramitāsamāsaḥ"
+bdrc_id: PBF7B78C7
+script: iast
+original_collection: DSBC
+editor: "Madows, Carol"
+publisher: "Indica et Tibetica Verlag"
+year: "1986"
+source_repository: "https://github.com/Openpecha-Data/PBF7B78C7"
+---
+# Pāramitāsamāsaḥ
+
+## 1. dānapāramitāsamāsaḥ
+
+pāramitāsamāsaḥnamo buddhāya||tathāgatānāṃ padam āruru-kṣurāśritya ratnatrayam ādareṇa|bodhau
+nidhāyāvicalaṃ manaścakuryāt parātmavyatihāram ādau
+
+tataḥ paraṃ dānavidhau prayogaḥkāryastathā lokahitonmukhena|yathā svagātrāṇyapi yācitasyana
+yogasaṃkocavirūpatā syāt
+
+mātsaryadoṣopacayāya yat syānna tyāgacittaṃ paribṛṃhayed vā|tattyaktumevārhati bodhisattvaḥparigrahacchadmamayaṃ
+vighātam
+
+tad bodhisattvaḥ katham ādadītaratnaṃ dhanaṃ vā divi vāpi rājyam|yat tyāgacittapratipakṣadakṣaṃsaṃbodhimārgāvaraṇaṃ
+karoti
+
+saṃsmṛtya caryātiśayaṃ munīnāṃtadunmukhīṃ svāmapi ca pratijñām|parigrahasnehavinigrahārthaṃkuryād
+imāṃścetasi sadvitarkān
+
+yadā nisṛṣṭo jagate mayāyaṃkāyo'pī tattyāgakṛto'pi dharmaḥ|bāhye tadā vastuni saṅgacittaṃna
+me gajasnānam ivānurūpam
+
+māṃsārthino māṃsamidaṃ harantumajjānamapyuddharaṇāt tadarthī|ahaṃ hi lokārthamidaṃ bibharmiśarīrakaṃ
+kiṃ bata vastu bāhyam
+
+yathaiva bhaiṣajyamahīruhasyatvakpattrapuṣpādi janā haranti|madīyamete'paharanti cetinaivaṃ
+vikalpāḥ samudācaranti
+
+tathaiva lokārthasamudyatenasvalpo'pi kāryo na mayā vikalpaḥ|duḥkhe kṛtaghne satatāśucau cadehe
+parasmāyupayujyamāne
+
+ādhyātmike caiva mahījalādyebāhye mahābhūtagaṇe ca tulye|idaṃ mamedaṃ na mameti ko'yamajñānapaṅkāṅkavidhirmayāpi
+
+gṛhṇīta gātrāṇyapi me yatheṣṭaṃmā kārṣurasmin parakīyabuddhim|yuṣmākameva svamidaṃ kimarthaṃnātmābhimāno
+mama kaścidatra
+
+ityadbhutā yasya bhavantyabhīkṣṇaṃsaṃbuddhabhāvānuguṇā vitarkāḥ|taṃ bodhisattvātiśayaṃ vadantibuddhā
+mahāsattvamacintyasattvāḥ
+
+evaṃ sa dānapratipattiśūraḥkaroti kāye'pi na jātvapekṣām|tasyāprayatnādupayānti śuddhiṃkarmāṇi
+vākkāyamanomayāni
+
+viśuddhakarmā ca hitaṃ pareṣāmāyāsaduḥkhena vinā karoti|itthaṃ sa sattvārthamabhiprayatnonayānaye
+kauśalamabhyupaiti
+
+bhūyastaraṃ prāpya balaṃ sa dānātsaddharmadānena tataḥ karoti|bhavāndhakāre bhramatāṃ janānāṃsūryodayāt
+spaṣṭataraṃ prakāśam
+
+sādhāraṇī lokahitārthasiddhiḥsarvajñabhāvābhyudayapratiṣṭhā|ato'sya puṇyākṣayatābhyudetiprabheva
+bhānorudayasthitasya
+
+ityadbhutā dānamayā guṇaughāye bodhisattvābharaṇībhavanti|tasmāt tadīyaṃ parikarma cittaṃdānasya
+kāruṇyapuraḥsarasya
+
+āyuḥpratībhānabalādi bauddhaṃniṣpādayeyaṃ jagatāmanena|sattvā mayā cāmiṣasaṃgṛhītāḥsaddharmapātrāṇyapi
+me bhaveyuḥ
+
+ityannadānaṃ pradadāti vidvānna svargasaṃpattiparigrahāya|pānānyapi kleśatṛṣaḥ śamāyalokasya
+lokārthacaro dadāti
+
+bauddhasya caivarddhiviceṣṭitasyanirvāṇasaukhyasya ca sarvalokaḥ|lābhī kathaṃ syāditi lokanāthoyānaṃ
+mahāyānaratirdadāti
+
+saṃbuddhavarṇasya ca hemabhāsolajjāmayasyaiva ca bhūṣaṇasya|niṣpattaye vastravidhīnudārānsatkṛtya
+kālānuguṇaṃ dadāti
+
+saṃbodhimaṇḍāsanam āsanāniśayyāśca śayyātrayam īkṣamāṇaḥ|sarvajñacakṣuḥpratilabdhaye cacaityeṣu
+rathyāsu ca dīpamālām
+
+vādyāni divyaśrutisaṃgrahārthaṃsaṃbuddhaśīlāya ca gandhadānam|sabhāprapārāmavihāragehāñśaraṇyabhāvābhimukho
+dadāti
+
+dānaṃ rasānāṃ tu susaṃskṛtāṇāṃrasārasāgratvaparigrahāya|bhaiṣajyadānānyajarāmaratvaṃlokān imān
+prāpayituṃ dadāti
+
+bhujiṣyatāmātmasamaṃ ninīṣurdāśī-kṛtān kleśagaṇena lokān|sa dāsadāsyādi sadā dadātidāsānudāsānaparākariṣyan
+
+dadāti putrān duhitṛḥ priyāścabodhipriyatvādanavadyadānam|ekāntasaddharmaratipriyaścakrīḍāviśeṣān
+ratihetubhūtān
+
+suvarṇamuktāmaṇividrumādīndadāti sallakṣaṇasaṃpadartham|ratnapradīptāni ca bhūṣaṇānicitrāṇyanuvyañjanasauṣṭhavāya
+
+dhyānārthamudyānatapovanānisaddharmakoṣāya ca vittakoṣam|munīndrarājyāya dadātyakhinnorājyāni
+cājñāpanamaṇḍitāni
+
+cakrāṅkitābhyāṃ caraṇottamābhyāmsaṃbodhimaṇḍākramaṇotsukatvāt|sa nirvikāraścaraṇapradānaṃlokārthaniṣpattikaro
+dadāti
+
+duḥkhāpagāyāmatiśīghragāyāṃmagnasya lokasya kathaṃ na dadyām|saddharmahastāniti saṃpradattehastānvikoṣāmburuhaprakāśān
+
+śraddhendriyādipratipūraṇārthaṃsa karṇanāsādi dadātyakhinnaḥ|cakṣuśca cakṣurvimalīkariṣyaṃ-llokasya
+sarvāvaraṇaprahāṇāt
+
+utkṛtya māṃsāni saśoṇitānidadāti kāruṇyavaśena nāthaḥ|bhūmyagnivāyvambuvadeva me syāllo-kopajīvyaḥ
+katham eṣa kāyaḥ
+
+lokottamajñānasamāpanārthaṃsa uttamāṅgairapi satkaroti|abhyāgatasyārthijanasya yācñāṃprāgeva
+dehāvayavaistadanyaiḥ
+
+majjānamapyadbhutavīraceṣṭodadāti lokasya kathaṃ na kuryām|tathāgataṃ vigrahamapradhṛṣyaṃvṛṣṭyāpi
+vajrojjvalayā patantyā
+
+ityevamādyaṃ satatānavadyaṃtadbodhisattvāmbudharapramuktam|prahlādya dānāmbu jagatsamagraṃsarvajñatāsāgaramabhyupaiti
+
+anviṣya bhogānviṣameṇa nāsaudadāti notpīḍanayā parasya|na trāsalajjāpratikārahetornadakṣinīyān
+parimārgamāṇaḥ
+
+na ca praṇīte sati rūkṣadānamadakṣiṇīyā iti vāvamanya|vipākakāṅkṣākṛpaṇīkṛtaṃ vāsatkārahīnaṃ
+vijugupsitaṃ vā
+
+naivonnatiṃ śīlavate prayacchanviparyayaṃ gacchati netarasmai|nātmānamutkarṣati naiva nindāṃkaroti
+so'nyasya samaprayogaḥ
+
+na cāsya mithyāśayadānamastinaivāstyanadhyāśayadānamasya|na krodhadoṣopahataṃ dadātinaivānutāpaṃ
+kurute sa dattvā
+
+na ślāghyamāno vipulaṃ dadātināślāghyamāno'nyataraṃ dadāti|na yācakānāmupaghātadānaṃyad vā bhaved
+vipratipattihetuḥ
+
+nākāladānaṃ sa dadāti kiṃciddadāti kāle viṣame'pi naiva|na devabhāvāya na rājyahetornahīnayānaspṛhayālubhāvāt
+
+nāsau mukhollokanayā dadātina kīrtiśabdāya na hāsyahetoḥ|paryāptametacca mameti naivaṃyadvā
+vihiṃsāhasitaṃ pareṣām
+
+sarvajñabhāvāpariṇāmitaṃ vāsagarhitaṃ vā sa dadāti naiva|tato'sya tat pāramitābhidhānaṃparāṃ
+viśuddhiṃ samupaiti dānam
+
+dānodbhavaṃ tasya ca puṇyarāśiṃlokāt samagrādapi piṇḍitāni|puṇyāni naivābhibhavanti yasmāllo-kottamattvaṃ
+sa tato'bhyupaiti
+
+pañcasvabhijñāsu viniścitātmālokāya yadvarṣati dānavarṣam|samantatastasya kutaḥ pramāṇaṃparikṣayo
+vā satatapravṛtteḥ
+
+yadakṣayāṇāṃ jagatāṃ hitāyajñānasya hetuśca yadakṣayasya|traidhātukena kṣayiṇā na taccasaṃlipyate
+vyomavadambudena
+
+tacchūnyatākārasamāhitaṃ canimittadoṣaiḥ parivarjitaṃ ca|akiṃcanakleśaviyogasiddheste-nākṣayaṃ
+tatkathitaṃ munīndraiḥ
+
+asmin punaḥ satpuruṣāvadānedāne nidāne sukhavistārāṇām|cikīrṣatā yogamanityasaṃjñābhogeṣu kāryā
+karuṇā ca loke
+
+bhogānanityānabhivīkṣamānaḥsātmyaṃ gatāyāṃ ca tataḥ kṛpāyām|sa niścayaṃ gacchati dīyate yadetān
+madīyāṃ na tu yadgṛhe me
+
+yaddattam asmān na bhayaṃ kadā cidgehe yadasmādbhayamabhyupaiti|sādhāraṇaṃ rakṣyamatarpakaṃ
+cadatte tu naite prabhavantyanarthāḥ
+
+sukhaṃ paratrāpi karoti dattamihaiva duḥkhaṃ prakarotyadattam|ulkāsvabhāvaṃ hi dhanaṃ narāṇāmatyajyamānaṃ
+vyasanaṃ dadāti
+
+adīyamānaṃ nidhanaṃ prayātinidhānatāṃ yāti hi dīyamānam|dhanasya niḥsāralaghoḥ sa sāroyaddīyate
+lokahitonmukhena
+
+yaddattametadviduṣāṃ praśasyaṃbālo janastannicayapraśaṃsī|prāyo viyogo hi parigrahebhyodānādbhavatyabhyudayo
+yaśaśca
+
+dattaṃ na tatkleśaparigrahāyakleśāya mātsaryamanāryadharmaḥ|yaddīyate satpatha eṣa tasmādato'nyathā
+kāpathamāhurāryāḥ
+
+abhyāgate yācanake ca tenasaṃbodhisaṃbhāravivṛddhihetau|tatpreṣyasaṃjñātmani saṃniveśyākalyāṇamitrapriyatā
+ca tasmin
+
+mahātmanāṃ yatpratanūbhavantirāgādayo yācanakānniśamya|tenotsavābhyāgamamapyatītyateṣāṃ priyaṃ
+yācanakopayānam
+
+sa cetpunaryācanake'pi labdhedātuṃ na śaknotyatidurbalatvāt|tenānuneyo madhureṇa sāmnāsa yācakaḥ
+syānna yathā samanyuḥ
+
+kāryaśca mātsaryavinigrahāyamohaprahāṇāya ca tena yatnaḥ|tathā yathā yācanakaḥ kadā cidvaimukhyadīno
+na tato vyāpaiti
+
+saṃbodhicittaṃ kuta eva tasyadravye'pi yo matsaramabhyupaiti|vāsaḥ sucittasya hi nāsti doṣairambho-nidhānasya
+śavairyathaiva
+
+tasmāt tyaktvā sarvataḥ sarvadoṣānbodhiprārthī sarvadā sarvadaḥ syāt|trātuṃ lokānekavīraḥ kva
+cittaṃceṣṭā dainyānūrjiteyaṃ kva caiva
+
+mūlaṃ dānasyāsya saṃbodhicittaṃtanna tyājyaṃ ditsatā dānamīdṛk|taṃ saṃbuddhāstyāgināmagramāhuryolokeṣu
+tyāgamādhitsuragram
+
+|| dānapāramitāsamāsaḥ ||
+
+## 2. śīlapāramitāsamāsaḥ
+
+saṃbuddhaśīlābharaṇābhirāmānkartuṃ janānutpatitādareṇa|svameva śīlaṃ pariśodhyamādauśīlaṃ hi
+śakterbalamādadhāti
+
+loke tathā prema niveśayetasvapne'pi na droharuciryathā syāt|paropakāraikarasaḥ pareṣāṃbhogānahīnāmiva
+na spṛśecca
+
+dvandvapravṛttervinivṛttabuddhiḥprāgeva dārapraṇayāt parasya|kurvīta lokasya hitārthakartākāyena
+ceṣṭāḥ sujanasya ceṣṭāḥ
+
+mādhuryaramyāmapi kālayuktāṃsatyānukūlāmavibhedinīṃ ca|saddharmatattvādhigamāya vāṇīṃbrūyādvipakṣāduparamya
+tasyāḥ
+
+kāryaṃ prayatnena mayā yadasmaitatsādhanena svayameva labdham|parasya saukhyeṣviti tuṣṭacittaḥkuryān
+manonirviṣayāmabhidhyām
+
+mamaiva daurabalyamidaṃ yadeṣakleśāsvatantraḥ svahitaṃ na vetti|parāparādheṣvapi kārya evaṃvyāpādavahnipraśamāya
+yatnaḥ
+
+kudṛṣṭisaṃjñaṃ ca tamaḥpratānaṃjñānaprakāśairmanaso nirasya|kuryādahāryāṃ naradevavaryebhaktiṃ
+guṇābhyāsavirūḍhamūlām
+
+svargasya mokṣasya ca satpathebhyonaivoccalet karmapathebhya ebhyaḥ|atra sthitānāṃ hi jagaddhitārthāścintā-viśeṣāḥ
+saphalībhavanti
+
+samāsataḥ śīlamidaṃ vadantiyaḥ saṃvaraḥ kāyavacomanastaḥ|kārtsnyena cātraiva yataḥ sa tasmādetānyayatnena
+viśodhayecca
+
+hiṃsānivṛttapraṇayo dadātisaumyasvabhāvādabhyaṃ janānām|yā vāsanā doṣakṛtāsya cittetāṃ cāprayatnena
+samucchinatti
+
+maitrīviśeṣānugate ca cittevairānubandheṣu śamam gateṣu|sukhaprabodhaḥ sukhameva śetekṣīṇāśubhasvapnavikāradoṣaḥ
+
+kurvanti rakṣāṃsyapi cāsya rakṣāṃna durgatibhyo bhayamabhyupaiti|prāpnoti cārogyaguṇābhirāmamāyuḥprakṛṣṭaṃ
+sugatipratiṣṭham
+
+ataśca saṃbodhimupāgatānāṃtathāgatānāmamitaprayāmam|nirvartate cittavaśānuvartilokasya saukhyopacayāya
+vāyuḥ
+
+anādadānastu parasya bhogānāpnoti bhogānmahataḥ paratra|narendradāyādagaṇairahāryāngirīniva
+śvāsanavairahāryān
+
+ācāraśuddhyānugatapriyatvaṃviśvāsapātratvamihaiva yāti|ataḥ paropakramanirviśaṅkogatipratīghātamupaiti
+naiva
+
+asārabuddhirdhanavistareṣubhavatyayatnena viśuddhaśīlaḥ|tasmādupakleśaviśuddhabuddhira-nuttarāṃ
+ca svayameti bodhim
+
+kāmeṣu mithyācaraṇānnivṛttojitendriyatvāt praśamābhirāmaḥ|prāpnoti lokastutibhiḥ samantātkīrtiṃ
+diganteṣu vikīryamāṇam
+
+na cāpi kaṃ citpramadāsu rāgaṃkaroti mātṛriva vīkṣamāṇaḥ|asmācca puṇyopacayān munīndraḥsaṃjāyate
+vāraṇavastikoṣaḥ
+
+vāco'nṛtāyāstu nivartamānaḥprāmodyavāñchāṭhyavimuktacittaḥ|ādeyasiddhyā vacanasya sattvānkaroti
+dharmābhimukhān ayatnāt
+
+divaukasāṃ ca priyatāṃ yadetisatyapriyaścitramidaṃ na tādṛk|devasvabhāvo guṇapakṣapātīpratyakṣiṇastaccariteṣu
+te ca
+
+pramāṇabhūto bhavati priyaścayallaukikānāmidamatra citram|prāyeṇa loko hi guṇairdaridraḥsvenānumānena
+parānminoti
+
+tyaktveva nīlotpalinīvanāniviśeṣadarśī kamalāyamāne|tasyānane saṃśrayamabhyupaitiprahlādano
+gandhavidhirmanojñaḥ
+
+bhrājiṣṇunā durgatitārakeṇajñānena paśyaṃśca samāsamāni|sa ātmasākṣī samupaiti lajjāṃyādṛcchikairapyaśubhairvitarkaiḥ
+
+evaṃ sa śuddhaprakṛtiḥ krameṇana śaṅkyate'nyairna ca śaṅkate'nyān|tato'sya satyābhyanuvartanī
+vāga-rakṣatāṃ yāti tathāgatatve
+
+kāyaḥ paropakramaṇairabhedyāḥparairahāryā parivārasaṃpat|paiśūnyamuktasya bhavatyabhedyāśraddhā
+ca dharme pratipattisārā
+
+maitrīmabhedyāmavisaṃvadantīṃkṛpāṃ ca lokārthamasaṃtyajantīm|prāpnoti cābhedyatamān munitvejanmāntarasthānapi
+śiṣyasaṃghān
+
+krodhasya sainyāgrarajaḥpratānaṃsaṃkalpacaṇḍānilaviprakīrṇam|yaśovapurdhvaṃsanamityapāsyaṃmaitryambuvāhaiḥ
+paruṣābhidhānam
+
+asmānnivṛtto madhurairvacobhirlo-kasya cetāṃsi vaśīkaroti|lokasya ca premṇi virūḍhamūlesaivāsya
+vāggrāhyataratvameti
+
+ataśca lokāñchataśo vinīyateṣāṃ samāvṛtya ca duḥkhamārgam|na durgatiṃ gacchati puṇyakarmādharmo
+hi rakṣeha paratra caiva
+
+dūrādapi vyaktapadānunādaḥśrīmān adūre'pi sukhasvabhāvaḥ|meghasvanodagratarastato'syabrahmasvaro
+vaktram alaṃkaroti
+
+abaddhavākyādvirataḥ priyatvamekāntato yāti vicakṣaṇānām|satyābhidhāne kramate sabuddhiḥprāpnoti
+māhātmyam akṛtrimaṃ ca
+
+asmācca puṇyān munirājabhāvegāmbhīryagūḍhān paripṛcchamānaḥ|praśnānanekānapi caikakāleniḥsaṃśayaṃ
+vyākurute sa vācā
+
+pretyeha cānarthaphalairavandhyāṃvandhyāmabhidhyāṃ samapāsya buddhyā|anīrṣyabhāvādatikāṅkṣitāṃ
+saprāpnoti vistīrṇatarāṃ samṛddhim
+
+citte viśuddhe ca tadāśrayāṇivākkāyakarmāṇi śucībhavanti|nabhastale kālaguṇābhirāmetārāgaṇānāmiva
+maṇḍalāni
+
+puṇyādhipatyātkramate ca buddhista-syopabhogeṣu sadottameṣu|prayāti rājñāmapi saṃmatatvamadhṛṣyatāṃ
+ca pratigarvitānām
+
+vaikalyamāyānti na cendriyāṇisatkarmanirvṛttabalāni tasya|ataśca lokatrayapūjya ekaḥśāstā bhavatyaprativartyacakraḥ
+
+vyāpādadāhajvaravipramuktaḥsādhusvabhāvābhinayo nayena|vyaktīkarotīva manaḥprasādaṃsvasthapraśāntena
+viceṣṭitena
+
+hiṃsātmake vigrahasaṃhite vākarmaṇyanāryācarite śaṭhe vā|na cāsya buddhiḥ kramate kadācinmaitrīsukhāsvādaviśeṣalābhāt
+
+loke vrajatyāryajanena sāmyaṃsaṃmānyate daivatavajjanena|na brahmaloko'pi ca durlabho'syaprasnigdhakarmaṇyamanaḥpathasya
+
+hitābhinandī jagatāmayatnātprasādayatyeva ca mānasāni|ramyaḥ śaratkāla ivāpagānāṃtoyāni meghāgamadūṣitāni
+
+rūpeṇa sarvapriyadarśanenajñānāspadenādbhutaceṣṭitena|ekīkarotīva tato munitvelokasya vijñānapṛthaktvasiddhim
+
+kudṛṣṭipaṅkakramaṇaṃ lasaṃstuprāpnoti kalyāṇahṛdaḥ sahāyān|karmasvako'stīti ca karma pāpaṃviśasyamāno'pi
+karoti naiva
+
+bhavatyakampyā ca jiṇe'sya bhaktirnā-yasyate kautukamaṅgalaiśca|ārye ca mārge labhate pratiṣṭhāṃviśeṣagāmitvamato'bhyupaiti
+
+satkāyadṛṣṭyuccalitaḥ sa yātina durgatiṃ hetuparikṣayeṇa|jñānena cānāvaraṇena yuktodivaḥpṛthivyorvicaratyasaṅgaḥ
+
+pratyekabuddhairapi cānavāptāḥsarve tato'syābhimukhībhavanti|jagaddhitārtheṣu vijṛmbhamāṇāḥsarvajñabhāvāya
+munīndradharmāḥ
+
+imāṃ vibhūtiṃ guṇaratnacitrāṃślāghyāṃ svayaṃgrāhaguṇābhirāmām|ko nāma vidvān na samādadītaviśeṣataḥ
+sattvahitābhilāṣī
+
+divyābhirāmā manujeṣu saṃpatprakṛṣṭasaukhyaikarasā ca divyā|śīlādyadi syāt kimivātra citraṃyasmāt
+prarohantyapi buddhadharmāḥ
+
+śīlacyutastvātmahite'pyaśaktaḥkasmin parasyārthavidhau samarthaḥ|tasmād viśeṣeṇa parārthasādhornanyāyyamasmiñchīthilādaratvam
+
+vivarjayedaṇvapi varjanīyaṃtasmādbhayaṃ tīvramavekṣamāṇaḥ|na bodhisattvābhyucitaṃ ca śīlaṃvikhaṇḍayedātmasukhodayena
+
+na cchidradoṣaiḥ parijarjaraṃ vāstrīkelisaṃvāhanavīkṣaṇādyaiḥ|na durjanakleśaparigrahād vākurvīta
+śīlaṃ śabalaprakāram
+
+kalmāṣadoṣāpagataṃ niṣevyamekāntaśuklopacayena śīlam|svecchāgatitvācca bhujiṣyavṛttaṃvidvatpraśaṃsābharaṇānavadyam
+
+samagraśikṣāpadapūraṇāccasaṃpūrṇamāmarṣavivarjitaṃ ca|cetoviśuddhipratibimbabhūtai-stīvraiḥ
+parārthaikarasaiḥ prayogaiḥ
+
+smṛtyāśrayāccendriyasaṃvareṇaśīlasya saṃrakṣaṇatatparaḥ syāt|lokasya dauḥśīlyamabhipravṛddhaṃtamaḥ
+sahasrāṃśurivāpaneṣyan
+
+duḥkhapratīkāranimittasevyaiḥkāyavraṇālepanaveṣṭanādyaiḥ|nyāyopalabdhaiḥ parituṣṭacitto-'parānanollokanakātaraḥ
+syāt
+
+ślāghyeṣu sarveṣvapi vartamānaḥśīlānukūleṣu guṇodayeṣu|avismitatvādaparādhamānīkīrterbibhīyācca
+tadudbhavāyāḥ
+
+lābhaprakāro hi guṇaprakāśāccha-trutvamabhyeti suhṛnmukhena|saroruhāṇāmiva śītaraśmiḥśreyaḥ
+pramāthī śithilavratānām
+
+śīlaṃ guṇābhyāsavidhiṃ vadantisaṃbodhicitte ca guṇāḥ samagrāḥ|abhyasyate tacca kṛpāguṇenakāruṇyaśīlaḥ
+satataṃ tataḥ syāt
+
+yanniśritaṃ kāmabhave'pi naivasaṃtiṣṭhate naiva ca rūpadhātau|ārūpyadhātau yadasaṃsthitaṃ catattattvataḥ
+śīlamudāharanti
+
+yo lokadhātuṣvamiteṣu sattvā-ñchīle pratiṣṭhāpayiṣuḥ samagrān|niṣevate lokahitāya śīlaṃtaducyate
+pāramiteti tajjñaiḥ
+
+śīlaṃ viśeṣādhigamasya mārgodāyādyabhūtaṃ karuṇātmakānām|jñānaprakarṣasya śucisvabhāvonaṣṭoddhavā
+maṇḍanajātiragrā
+
+lokatrayavyāpi manojñāgandhaṃvilepanaṃ pravrajitāvirodhi|tulyākṛtibhyo'pi pṛthagjanebhyaḥśīlaṃ
+viśeṣaṃ kurute narāṇām
+
+akatthanānāmapi dhīrabhāvādvināpi vāgbhedapariśrameṇa|atrāsanābhyānatasarvalokaṃtyaktāvalepoddhavamīśvaratvam
+
+apyaprakāśānvayasaṃstavānāmakurvatāmapyupakārasāram|niṣkevale śīlavidhau sthitānāmasaṃstutānāmapi
+yannarāṇām
+
+rajāṃsi pādāśrayapāvitānipraṇāmalabdhāni samudvahanti|cūḍāgralagnāni manuṣyadevāḥśrīmattaraṃ
+śīlamataḥ kulebhyaḥ
+
+tasmān na durgatibhayena na rājyahetornasvargasaṃpadabhilāṣasamudbhavena|seveta śīlamamalaṃ
+na hi tattathā syāllo-kārthasiddhiparamastu bhajeta śīlam
+
+|| śīlapāramitāsamāsaḥ ||
+
+## 3. kṣāntipāramitāsamāsaḥ
+
+saṃmohanīṃ manmathapakṣamāyāṃprāhuḥ sukhāṃ caiva vimokṣamāyām|tasyāṃ na kuryāt kaiva kṣamāyāṃprayatnamekāntahitakṣamāyām
+
+parāparādheṣu sadānabhijñāvyavasthitiḥ sattvavatāṃ manojñā|guṇābhinirvartitacārusaṃjñākṣameti
+lokārthacarī kṛpājñā
+
+parārthamabhyudyatamānasānāṃdīkṣāṃ titikṣāṃ prathamāṃ vadanti|seturjalānīva hi roṣadoṣaḥśreyāṃsi
+lokasya samāvṛṇoti
+
+alaṃkriyā śaktisamanvitānāṃtapodhanānāṃ balasaṃpadagrā|vyāpādadāvānalavāridhārāpretyeha ca kṣāntiranarthaśāntiḥ
+
+kṣamāmaye varmaṇi sajjanānāṃvikuṇṭhitā durjanavākyabāṇāḥ|prāyaḥ praśaṃsākusumatvametyatatkīrtimālāvayavā
+bhavanti
+
+pratikriyā durjanavāgviṣāṇāṃprahlādanī jñānaniśākarābhā|dhīraprakārā prakṛtiryatīnāṃkṣāntirguṇānām
+adhivāsabhūmiḥ
+
+sattvasya gāmbhīryamayasya sāroghanāgamaḥ krodhanidāghaśāntyai|vyatītavelasya guṇārṇavasyavyāpī
+svanaḥ kṣāntimayo'bhyudeti
+
+ā brahmalokādadhirohāṇārthāsopānapaṅktirgatakhedadoṣā|karmāntaśālā guṇaśībharasyarūpasya sallakṣaṇabhūṣaṇasya
+
+unmūlanī vairaphalācitānāṃkṣamāsariddoṣamahādrumāṇām|saṃbodhicittasya vivardhitasyaguṇāmburaśeḥ
+satatānukūlā
+
+śubhā paratrāpi hite samṛddhirjaga-ddhitārthasya parā vivṛddhiḥ|śubhasvabhāvātiśayaprasiddhiḥkṣāntirmanaḥkāyavacoviśuddhiḥ
+
+saṃsāradoṣairna ca cchedametisattvān kṛpāsnigdhamavekṣamāṇaḥ|satkarmabhirlokahitaiḥ samantādyaśomayatvaṃ
+vrajatīva loke
+
+na spṛśyate vismayavācyadoṣairjñā-nāvadānena titikṣureva|anityatākṣāntibalodayāccapraharṣamāyāti
+sukhe'pi naiva
+
+saṃkocamāyāti na cāyaśobhirvi-sāriṇā kṣāntibalaśrayeṇa|ataśca śeṣairapi lokadharmairani-śritatvānna
+sa cāpalīti
+
+tīvraprakārairapi viprakārairnavikriyāṃ yānti satāṃ manāṃsi|dṛḍhābhilāṣāṇi munīndrabhāvekṣāntyā
+balādhānasusaṃskṛtāni
+
+sa kṣāntidhīreṇa ca mānasenakaṣṭāni saṃdarśayate tapāṃsi|darponnatiṃ tīrthakṛtāṃ manaḥsunīcaiḥ
+kariṣyan hitakāmyayaiva
+
+loko'yamātmābhiniveśasamūḍhaḥśeṣān parānityabhimanyamānaḥ|tadviprakārairabhibhūtacetā<ḥ>kṣamāviyogāt
+parikhedameti
+
+kṛpāsanāthāni satāṃ manāṃsikṣāntyā kṛtasvastyayanakriyāṇi|naṣṭātmadṛṣṭiṇi parāpakārānna vikriyāṃ
+yānti guṇānurāgāt
+
+mithyāvikalpo hṛdayajvarasyakrodhasya heturdhṛtidurbalānām|samyagvikalpastu samādadhātikṣāntiprakārāṃ
+manasaḥ praśāntim
+
+vikalpasanniśrayasaṃśritāyāṃkṣāntyāṃ na tu syāccalitāvakāśaḥ|pratyūṣavātasphurite'mbhasīvasaṃpūrṇacandrapratibimbalakṣayāḥ
+
+vikalpaśāntiṃ paramārthatastukṣāntiṃ kṣamātattvavido vadanti|tasmādvikalpopaśame yatetasvapnopamaṃ
+lokamavekṣamāṇaḥ
+
+cakṣuḥ kim ākrośati cakṣure-tacchrotrādi vākrośati kiṃ tadādi|yaivaṃ kṣamā sāyatanānvavekṣāna
+kṣāntireṣā paramārthatastu
+
+vaktā vacaścaitadanityamevaśrutirvikalpo'pi ca yo mamāyam|anityabhāvapravikalpanaiṣāna kṣāntimetām
+paramāṃ vadanti
+
+kartāpakārasya na kaścidastinaivāsti kaścitkriyāte ca yasya|nairātmasaṃdarśanasiddhireṣāna kṣāntireṣāpi
+gataprakarṣā
+
+tattatpratītya prabhavanti bhāvānindāpraśaṃsāsukhaduḥkhasaṃjñāḥ|pratītyasiddheravatārabhūmirnakṣāntiratyantasamāhitaiṣā
+
+yadyesā saṃmohamahāgraheṇaparyastacetā nanu nāhamevam|ityunnate cāvanate ca cittekṣāntiprakarṣasya
+kuto'vakāśaḥ
+
+pradhvaṃsinī varṇalavapratiśru-dyantrādivaikaikaśa uccarantī|kuryāṃ kathaṃ kasya ca kāṃ ca pīḍāmeṣāpi
+na kṣāntiratiprakṛṣṭā
+
+yadyesā matpāpaparikṣayārthaṃna vīkṣate svāmapi dharmapīḍām|asmān na kalyāṇataraṃ hi mitramasāvapi
+kṣāntyupacārā eva
+
+karmasvatāṃ eva hi vīkṣamāṇasti-tikṣate tadguṇadarśanācca|naivaṃprakārāpi hi naiṣṭhikatvaṃkṣāntirvikalpopahatā
+prayāti
+
+anityaduḥkhāśuciniḥsvabhāvatāmama kṣamante na tu tadviparyayāḥ|iyaṃ vipakṣapraśamakṣamā kṣamādvayapravṛtterna
+tu pāramārthikī
+
+ayatnatattvārthavicakṣaṇo janaḥparopakāreṣu yataḥ pravartate|kṣamā na caivaṃ samatāṃ sameti
+yāyataḥ kṣamaivaṃ na vikalpanakṣayā
+
+nirodham āyānti yadā tvaśeṣatāḥsamādhikanyūnavikalpanakramāḥ|anuttarāṃ kṣāntimamānagocarāṃvadanti
+tāmadvāyamārgacāriṇāḥ
+
+svataḥ parasmādubhayādahetutoyathā na bhāvāḥ prabhavanti ke cana|svataḥ parasmād ubhayād ahetutastathāna
+bhāvā vibhavanti ke cana
+
+naṣṭād anaṣṭād ubhayāc na nobhayānna jātu kāryaṃ khalu vidyate kva cit|tathāpi kāryaṃ samudeti
+vastunoyetthaṃ kṣamā sā dvayavarjitā kṣamā
+
+sato'sato vāsti na janma janmanāvinā nirodho'pi na kasya cit kva cit|svabhāvaśūnyāmiti bhāvakalpanāṃvipaśyataḥ
+kṣāntirudeti naiṣṭhikī
+
+avāpya yāṃ vyākriyate sahasraśojinairasau nāma jino bhaviṣyati|pravartate lokahitakriyāvidhiḥsamāhitasyaiva
+ca tasya sarvadā
+
+yāvacca bhāvābhiniviṣṭabuddhiratradvayaṃ tāvadupaiti mohāt|tathānimittaṃ ca vimokṣaheturdurebhavatyasya
+yathā kṣiteḥ kham
+
+upaiti dharmapraṇidhānakarmasuprabhutvamṛddhāvadhimuktijanmasu|tathā pariṣkāravidhau svacetasiprakarṣiṇi
+jñānabale tathāyuṣi
+
+avāpya caitadvaśitāmayaṃ dhanaṃprakṛṣṭaṃ akṣiṣṇu parārthasādhanam|janasya kṛcchreṣu patiṣyataḥ
+sataḥsa jāyate dhāraṇakāraṇaṃ vibhuḥ
+
+tasmāt parārthamahatīṃ dhuramudvahadbhiḥkṣānterupāyavidhireṣa sadānugamyaḥ|atra sthitasya hi
+bhavanti parārthacittāḥsarvā<ḥ> kriyā guṇaphalābharaṇābhirāmāḥ
+
+asyāṃ hi bhaktirapi yā pravirūḍhamūlātāmabhyasanti munayo munirājabhāve|śraddhānuviddhamanasāṃ
+na hi dharmamārgedṛṣṭo manoratharathasya yato'kṣabhaṅgaḥ
+
+|| kṣāntipāramitāsamāsaḥ ||
+
+## 4. vīryapāramitāsamāsaḥ
+
+sarvaṃsahe kṣāntibale ca rūḍhesarvādbhutānyārabhate sa śauryāt|vīryeṇa kāryāntamahābalenayasmāt
+sa devānapi yātyatītya
+
+sudṛśyapārāṇyapi laukikānikāryāṇi nirvīryaduruttarāṇi|aprāpyarūpaṃ tu na kiṃ cid astikhedānabhijñena
+parākrameṇa
+
+ārabdham evotsahate na hīnaārabhya madhyastu viṣādameti|parārtham aśrāntaparākramāstenirvāṇamutsṛjya
+samārabhante
+
+prāyeṇa dainyopahato jano'yaṃsvādhīnavīryo'pi gurusvakāryaḥ|ahīnavīryasya tu merusāro'pyakhe-dasādhyaḥ
+parakāryabhāraḥ
+
+saṃsārakoṭyorubhayoḥ samānaiḥprayāmasārairdivasairyadi syuḥ|saṃvatsarāstatpracayātidīrghaiḥkalpaiḥ
+samudrodakabindutulyaiḥ
+
+utpādayeyaṃ yadi bodhicittamekaikametena parākrameṇa|saṃbhāraśeṣaṃ cinuyāṃ tathāpibhūyaḥsamutsāritakhedadainyaḥ
+
+ekaikamevaṃ yadi bodhicittaṃprāpyeta saṃbhāravidhiśca śeṣaḥ|tathāpi bodhiṃ samudānayeyaṃkṛpāsamutsāhitadhairyasāraḥ
+
+saṃsāraduḥkhaṃ svamacintayitvāsaṃnāhadārḍhyaṃ yadacintyamevam|ādyaṃ samādānamidaṃ vadantivīravratānāṃ
+karuṇātmakānām
+
+padbhyāṃ atikramya kukūlakalpāṃkṛtsnāṃ mahīmāyudhasaṃvṛtāṃ vā|yaddraṣṭum apyutsahate munīndrānpātuṃ
+śivaṃ dharmarasāyanaṃ vā
+
+saṃsārapaṅkājjanatā mayeyamuddhṛtya nirvāṇasukhe niveṣyā|utkṣepanikṣepavidhau padānāṃyaccittamevaṃ
+ca samādadāti
+
+yad vā hitārthaṃ kramate parasyapuṇyāni vā lokahitāya cittam|parākramaḥ so'kṣayavikramāṇāṃśrīmatsamādānavidhau
+dvitīyaḥ
+
+puṇyasya cotpādasamānakālaṃsaṃbuddhabhāve pariṇāmanaṃ yat|tadakṣayatvaṃ samudāgamāyaśubhaṃ samādānam
+udāharanti
+
+mahatsu vāmbhaḥsu yathā niṣiktonaivodabinduḥ kṣayamabhyupaiti|saṃbuddhabhāve pariṇāmitasyatathaiva
+puṇyasya na saṃkṣayo'sti
+
+tathā hi kāruṇyaviśuddhabuddhiḥsarvajñabhāvāya phalantyamūni|puṇyāni lokasya carācarasyetyevaṃsa
+tānyārabhate susattvaḥ
+
+mahātrisāhasragataṃ janaughaṃnirvāpayedekadine na kaścit|kalpaṃ tathā naiva ca sattvadhātoste-nāpi
+kiṃ cit paripācitaṃ syāt
+
+śrutvāpi sattvākṣayatāṃ imāṃ yaḥsattvānaśeṣān vininīṣureva|viṣādadoṣānavalīḍhavīryaḥkastasya
+dūrastha ihārthasāraḥ
+
+yaḥ puṇyarāśirjagatāṃ samagrastā-vatpramāṇairdaśabhirjinasya|nivṛttimāgacchati romakūpaekaika
+ekaikasujātaromā
+
+śatena bhūyo guṇitena tenapuṇyena romāspadasaṃśritena|bhavatyanuvyañjanamekamevaśeṣāṇi tasya
+prabhavanti kāye
+
+tāvadguṇādeva ca puṇyarāśesta-smād anuvyañjanasaṃpraviṣṭāt |pratyekaśastasya jinatvaśaṃsinirvartate
+lakṣaṇacitrakarma
+
+sallakṣaṇotpattinimittabhūtātsahasrasaṃkhyāguṇitācca puṇyāt|nirvartate tasya manojñavarṇāsaṃpūrṇacandrasphuṭakāntirūrṇā
+
+ūrṇābhinirvṛttikarmaṃ ca puṇyaṃśatapramāṇairguṇitaṃ sahasraiḥ|karoti tasyānavalokanīyaṃchattarābhamuṣṇīṣalalāmaśīrṣam
+
+ayaṃ mayā puṇyanidhiḥ parārthaṃsaṃceya ityuttamabodhicitte|vīryonmukhe kena mukhena tasmiṃlla-yapravṛttirlabhatāṃ
+praveśam
+
+sarve'pi sattvā yadi lokadhātaupratyekabuddhaiḥ sadṛśā bhaveyuḥ|jñānena tebhyo'bhyadhikaprabhāvaḥkṣāntistha
+eko'pi hi bodhisattvaḥ
+
+tathaiva ca kṣāntibalasthitebhyoviśeṣaṃ āyātyavivartanīyaḥ|aśrāntavīryaḥ kuśalaprayogeyallaukike
+caiva taduttare ca
+
+tebhyaḥ puṇaścādhika eva dūraṃya ekajātipratibaddhabodhiḥ|ka eva vādo dṛḍhavīryavatsuye bodhimūle
+prathamaṃ niṣaṇṇāḥ
+
+tādṛgvidhajñānaviśuddhipūrṇaḥsyād yadyaśeṣena ca lokadhātuḥ|yāyāt kalāṃ so'pi na bodhimūlesthitasya
+mārātikṛtāntyajāteḥ
+
+tādṛgvidhajñānaviśuddhacittāḥsyuryadyaśeṣena ca sarvalokāḥ|balapradeśasya muneratulyāḥkalāpradeśairapi
+te samagrāḥ
+
+ityadbhutajñānasamudramekaḥkṛpātmako nistarituṃ prayāti|avyāhatājñaḥ paracittacāreprajñāvabhāsaṃ
+ca nabho viśālam
+
+sarveṣu sattveṣu ca tasya mātrāsamānahārdā karuṇābhyudeti|saṃbuddhadharmāśca tato'vaśeṣāsta-syādbhutāḥ
+saṃprabhavantyaśeṣāḥ
+
+ebhiḥ samādānaguṇairupetaḥśuddhaśravaiḥ pelavasattvasattvaiḥ|aṣṭābhiraṅgairiva tattvamārgovīryaprakarṣādadhikaṃ
+vibhāti
+
+vīryaṃ tridhā yaḥ kuśalaprayogasta-smācca vākkāyamanoviśeṣāḥ|prasthānaviṣṭhānasamāhitasyavīryaprakarṣasya
+manomayasya
+
+yo bodhicittapraṇayaḥ samaścakṛpā ca nairātmagatau kṣamā ca|caturvikalpo janasaṃgrahaścasarveṣu
+dharmeṣvanavagrahaśca
+
+saṃsārapaṅke yadakhinnatā catraidhātukasyaiva ca nopalabdhiḥ|sarvasvadānaṃ na ca tena mānaḥsamagraśikṣasya
+na śikṣayā ca
+
+parāpakārairavikāri dhairyaṃcittasya cātyantamavikṣatiryā|ārambhadārḍhayaṃ kuśalakriyāsuprītirvivekaikarasā
+ca citte
+
+caturvidhadhyānasamāpanaṃ cacittasya nidhyaptiranātmataśca|atṛptatā ca śrutavistareṇanyāyapraveśastadavekṣaṇācca
+
+yā deśanā caiva yathāśrutānāṃjñānaṃ ca dharmānabhilāpyatāyām|pañcasvabhijñāsu ca yatprabhutvamabhyāsamātrā
+ca taduttarāyām
+
+yadṛddhipādeṣvabhinirhṛtatvaṃpaṭvī na cāyāsamayī kriyā ca|samyakprahāṇeṣu ca yaḥ prayogaḥśubhāśubhādeva
+ca yā vimuktiḥ
+
+yatkauśalaṃ cendriyanirṇayeṣunirindriyān paśyati yacca dharmān|mārgasya saṃbhāravimārgaṇaṃ cana
+cāsya kiṃ cid gamanaṃ kutaścit
+
+ityevamādyaṃ pṛthucitravīryaṃprasthānaviṣṭhānaviśeṣacitram|asyākṣayatvapratipūraṇārthaṃprasthānakarmaiva
+viśeṣahetuḥ
+
+nimittakarmasvapi na pravartatevitiṣṭhate jñānamaye ca karmaṇi|kṛpāguṇādyan na jahāti saṃskṛtaṃna
+coruvīryo'pi patatyasaṃskṛte
+
+apūrvadharmaśrutiralparogatādurāsadetvaṃ śrutadharmadhāraṇam|amānuṣebhyo'pi parigrahodayaḥsamādhigotrapratilambha
+eva ca
+
+vrajantyavandhyā yadaharniśaṃ kriyāguṇairna hāniṃ yadutpaiti mauśalīm|vivṛddha evotpalavacca
+yadguṇairma-nuṣyadharmādadhikaprayojanaiḥ
+
+yaśo viśālam ca sukhaṃ sukhodayaṃvinītakārpaṇyamanastvamuttamam|guṇāśca teṣāmiha dṛṣṭadhārmikābhavanti
+vīryāditi ko'tra vismayaḥ
+
+trailokyapūjyamamitoruguṇaṃsaṃbuddhabhāvamapi yānti yadā|vīryavyāpāśrayadṛḍhāḥ puruṣāna syād
+ataḥ ka iva vīryaparaḥ
+
+|| vīryapāramitāsamāsaḥ ||
+
+## 5. dhyānapāramitāsamāsaḥ
+
+atha dhyānavidhau yogaṃ kuryāj jñānavivṛddhaye|sukhaṃ hi kartuṃ lokānāṃ jñānālokādanugraham
+
+prasīdatyadhikaṃ jñānaṃ dhyānānmanasi nirmale|śaradutsāritaghane nabhasīvendumaṇḍalam
+
+viśuddhaśīlaḥ kalyāṇaiḥ sahāyaiḥ sahitairhitaiḥ|alpakṛtyaḥ praśāntātma smṛtyadhiṣṭhānaveṣṭitaḥ
+
+nivasan vṛkṣamūleṣu śādvalāstīrṇabhūmiṣu|anupaskṛtaramyeṣu vanapuṣpasugandhiṣu
+
+dhyānasācivyadhīreṣu saṃtuṣṭajanaveśmasu|jananirghoṣamūkatvād gambhīrāvasthiteṣviva
+
+pratyaraṇyaniviṣṭeṣu śūnyeṣvāyataneṣu vā|kuñjeṣu ca mahīdhrāṇāṃ siṃhanādānunādiṣu
+
+yatra kva cana vā deśe saṃsargakleśavarjite|paryaṅkena sukhāsīnaḥ śarīram ṛju dhārayan
+
+upasthāpya smṛtimayīṃ rakṣāṃ abhimukhīṃ hṛdi|kṛpayā kuvitarkāṇāṃ kṛtvevākṣaṇaghoṣaṇām
+
+prajñāparicayasyāyāṃ kālo me na tu nirvṛteḥ|na hi sattvān anirvāpya svayaṃ nirvātum utsahe
+
+iti lokahitāvekṣī buddhabhāvagataspṛhaḥ|kuryāt sātatyayogena dhyānārambhasamudyamam
+
+na hi viśramya viśramya mathnannagnimavāpnuyāt|sa eva yogo yoge'pi viśeṣādhigamādṛte
+
+ekatraiva ca badhnīyād dṛḍham ālambane manaḥ|anyānyālambanagrāhaḥ kliśnātyevākulaṃ manaḥ
+
+vidarśanād vīryabalāllīyamānaṃ samuddharet|uddhanyamānaṃ ca manaḥ praśamena nivārayet
+
+samyaggatamupekṣitaṃ samādhibalaniścalam|tatrāpi vā tanmayaḥ syāt sugatajñānalabdhaye
+
+na ca dhyānasukhāsvādaḥ pāratantryamanukramet|na hi svasukhamātrārthamayam ārambhavistaraḥ
+
+śarīrajīvitāpekṣī dainyopahatamānasaḥ|na kuryād vīryaśaithilyamapyādīpte svamūrdhani
+
+lakṣayitvā nimittāni manastasya samādhaye|bhraśyamānaṃ prayuñjīta smṛtyāvahitayā punaḥ
+
+mano nivaraṇebhyaśca vipakṣairvinivartayet|svecchāprayātaṃ dviradam aṅkuśākarṣaṇairiva
+
+atha nīvaraṇavyādhināśaprasvasthamānasaḥ|dāridryādiva nirmukto mahato vyasanādiva
+
+prītiyuktena manasā kāmadoṣān vicārayet|tadviyogopalabhyāṃ ca parāṃ sukhaparamparām
+
+vidyududdyotacapalāḥ phenāṃśukanibhātmakāḥ|svapnavat pelavāsvādā vañcanārthamivoditāḥ
+
+pitṛṇāmapi putreṣu putrāṇāṃ ca pitṛṣvapi|prītisarvasvabhūteṣu suhṛtsu suhṛdāmapi
+
+guṇapracayabaddhasya vyūḍhesu samareṣvapi|darśitasthairyasārasya snehasetorvidāriṇaḥ
+
+iha paryeṣṭiduḥkhasya paratra narakasya ca|hetubhūtā yataḥ kāmāḥ kāmayeta na tān ataḥ
+
+yadāśrayo vitarko'pi prajñācakṣurnimīlanaḥ|ātmano'pi parasyāpi vighātāya pravartate
+
+ātmakāmairapi ca ye sarvathāpi vivarjitāḥ|parārthakāmastān kāmāṃstyaktvā kathamanusmaret
+
+tṛptireṣāṃ na saṃprāptyā nāhanyahani sevayā|naiva saṃnicayenāpi ko'nyo vyādhirataḥ paraḥ
+
+yadāsvādahato naiva svārthamapyavabudhyate|unmattapānapratimān kastān sahṛdayaḥ smaret
+
+ityevaṃ sarvato duṣṭān kāmāṃstasyānupaśyataḥ|tataḥ saṃkucitaṃ cittaṃ naiṣkramye'bhiprasīdati
+
+vivekajaṃ prītisukhaṃ tataḥ prasrabdhilabdhijam|prāpnoti cittasyaikāgryaṃ prathamadhyānasaṃjñitam
+
+sa vitarkavicārāṇāṃ kāmānāmiva duṣṭatām|puṣyāṃstatpraśamānveṣī samādhiprītijaṃ sukham
+
+adhyātmasaṃprasādācca cittaikāgratayā ca tat|dvitīyaṃ dhyānamityāhuradvitīyā maharṣayaḥ
+
+utplavaṃ manaso dṛṣṭvā prīteratha virajya saḥ|tṛtīyaṃ dhyānamāpnoti smṛtyupekṣāsamanvitam
+
+sukhabhogamapi tyaktvā sukhaduḥkhanirākṛtam|viśuddhaṃ smṛtyupekṣābhyāṃ ceturthaṃ dhyānamaśnute
+
+abhijñā labhate pañca sa ca tatrānugāminīḥ|rājyastha iva dharmātmā hrīkīrtiśrīmatidyutīḥ
+
+pratyekajinalabdhāśca śrāvakīyā vyatītya ca|tā bhavantyadhikā dūraṃ parārthasamudāgamāt
+
+sa hi matsariṇastyāge śīle tadvikalānapi|kopanān kṣāntisauratye kusīdān vīryasaṃpadi
+
+vikṣiptacetaso dhyāne prajñāyāṃ tannirākṛtān|niyojayati kāruṇyādaśrāntācāravikramaḥ
+
+ato'cyutābhirdīptābhirbhābhirlokāvabhāsanam|marīcibhirivādityāḥ kurute'nantagocaram
+
+atha pāpakṛtaḥ sattvān patato narakādiṣu|kṣīṇapuṇyāyuṣaścaiva devāñchāśvatamāninaḥ
+
+taistairduḥkhaviśeṣaiśca lokaṃ kāraṇayāhatam|tatra divyaprabhāveṇa cakṣuṣā sā vilokayan
+
+tīvramāyāti kāruṇyaṃ kāruṇyān na pramādyati|parārtheṣvapramattaśca yātyacintyaprabhāvatām
+
+athānyalokadhātusthān sampaśyati tathāgatān|buddhakṣetraguṇavyūhān saṃghasyaiva ca saṃpadaḥ
+
+bodhisattvarṣabhāṇāṃ ca viśuddhācāragocaram|sarvalokahitodarkaṃ śrīmaccaritamīkṣate
+
+tatra ca praṇidhistasya sukhenaiva samṛdhyati|parārthapariṇāmācca śīlasyaiva ca saṃpadaḥ
+
+atimānuṣayā śrutyā divyayārthaviśuddhayā|śṛṇvannuccāvacā vāco vidūre'pyavidūravat
+
+kṛpādūracarairuktāḥ pāruṣyavirasākṣarāḥ|antardīptasya kopāgnerniścarantīrivārciṣaḥ
+
+apsarogītasacivān bhūṣaṇasvanaśībharān|divyatūryaninādāṃśca vināśaikarasānapi
+
+niṣevyamāṇān rāgāndhairamitrānmitrārūpiṇaḥ|vīkṣya vrajati kāruṇyaṃ teṣāṃ vāñcanayā tayā
+
+bhayādduḥkhaviśeṣācca so'vispaṣṭapadākṣaraiḥ|nārakairārtarasitairhṛdīvābhihatastataḥ
+
+paramālambate vīryaṃ majjāgatamahākṛpaḥ|tīkṣṇāgreṇa pratodena sadaśva iva coditaḥ
+
+nānālokasthitebhyo'tha jinebhyo dharmadeśanāḥ|śṛṇoti sarvasattvānāṃ nirvāṇakāṅkṣayākṣayāḥ
+
+tataḥ sa paracitteṣu vijñāyānuśayāśayān|puṇyāṅkurān ropayati jñānasādhanavānnavān
+
+smṛtvā pūrvanivāsaṃ ca kalpakoṭisahasraśaḥ|paśyan puṇyāni lokānāṃ tathendriyabalābalam
+
+tadāśrayavaśādṛddhyā so'nekīkṛtavigrahaḥ|avandhyakathanaṃ yāti yathābhājanadeśanāt
+
+kva cid arkasahasradīptināpya-visaṃvāditakāntisaṃpadā|vapuṣā munirājalakṣaṇaḥsphuṭacitreṇa samantalakṣmaṇā
+
+janayannayanotsavaṃ nṛṇāṃvacasā hlādaviśeṣamācaran|sa karotyamṛtaprakāśanaṃjinabhāvāya jinādhimuktiṣu
+
+praśamottarayā muniśriyākva cid atyārthaviśiṣṭaceṣṭayā|kurute muniśiṣyarūpabhṛdvi-nayaṃ tadvinayārhacetasām
+
+abhisāritapādapaṅkajaḥsuracūḍāmaṇibhirmahendravat|dhanado dhanado yathā kva citkuha cidbrahmavadadbhutadyutiḥ
+
+kva cid unmiṣitatrilocanaḥśaśīlekhāmalamaulibhūṣaṇaḥ|amarādhipabhāsuradyutirbu-jagendraśriyamudvahan
+kva cit
+
+kuliśānalapiṅgalāṅguliḥkuha cid guhyakarājarājavat|amitājinalakṣmavān kva cidguṇaraśmirmunicandramā
+iva
+
+sphuṭakaustubharatnaraśmibhirvi-puloraḥsthalabhāsuradyutiḥ|garuḍadhvajarājadṛk kva citkuha ciccaiva
+halāyudhadyutiḥ
+
+sitaśaktiracintyaśaktimānkuha ciccāruśikhaṇḍivāhanaḥ|udayāstanagendrabhūṣaṇaḥśaśisūryāmalarūpavān
+kva cit
+
+kuha cid dhutabhuṅmarutvatāṃvapuṣānyatra narāśrayāśinām|vāruṇadyutim udvahan kva citkuha cinmanmathacāruvigrahaḥ
+
+lalitāṃ pramadānarākṛtiṃnaranārīratisaṃgalālasaḥ|kva cid eva tapodhanaśriyaṃvidadhat kāmaviraktamānasaḥ
+
+hṛdayāni harannṛṇāṃ kva cidguruśiṣyakṣitipālavṛttibhiḥ|narakeṣvapi ca parabhāvatovidadhadduḥkhavimokṣaṇakṣaṇam
+
+jagatām adhimuktivistarairathaso'nekavidhairviceṣṭitaiḥ|karuṇāguṇasaṃtatastataḥkurute lokahitaṃ
+tatastataḥ
+
+samavāpya viśeṣasaṃpadaṃvipulāṃ dhyānaguṇaśrayādimām|prayateta viśeṣavattaraṃnidhicihneṣvavisaṃvadatsviva
+
+kuśale sthitirapyanūrjitākim ahāniḥ śithilavratocitā|prayateta vivṛddhaye tataḥparihāṇistu viparyayādataḥ
+
+sulabhaśca samādhirudyamādanurakṣā punarasya duṣkarā|sahasā vijigīṣuṇā yathāvijitasya praśamapratikriyā
+
+manasaḥ parivṛttilāghavaṃparamaṃ tatra na viśvasedataḥ|anavāpya mahīmivācalāmacalāṃ bhūmimabhīradurgamām
+
+abhisaṃskṛta[mārgacāriṇaḥ]patanāntā hi samādhivistarāḥ|ata uttamamārgabhāvanāmavalambeta vikalpavarjanāt
+
+sucinityasukhātmakalpanaṃkapaṭam saṃskṛtadambhasaṃbhavām|samavekṣya na bhāvakalpanā-praṇayavyāpṛtamānaso
+bhavet
+
+viśade'pyupalambhasaṃbhavevrajati kleśaśaravyatām ataḥ|vyatiyāti tu māragocaraṃtamanarthaṃ praśamayya
+sarvathā
+
+na hi niśrayadośaduṣitobhavati dhyānavidhirviśuddhaye|calatānugato hi niśrayaḥsakhaṭuṅkastata
+eva kathyate
+
+vyavahāravidhiprasiddhayepratipattadbhavatīti kathyate|na hi kiṃ cid udeti kutra citsadasatsaṃbhavayuktyasaṃbhavāt
+
+gaganena samānamānasastri-bhavādapyu atha vītaniśrayaḥ|avikalpitadhīraceṣṭitovacanenāpratiyatnaśobhinā
+
+kurute sa ca laukikīṃ kriyāṃjagadekāntahitānuvartinīm|na samādhibalācca hīyatevaśavartitvamavāpya
+cetasaḥ
+
+tataḥ paraṃ parahitatatparodyataiḥsamādhibhirvidhivihitaprayojanaiḥ|vivardhate ghanasamaye yathodadhiḥsaridvadhūsamupahṛtairnavāmbubhiḥ
+
+|| dhyānapāramitāsamāsaḥ ||
+
+## 6. prajñāpāramitāsamāsaḥ
+
+puṇyāni dānaprabhṛtīnyamūniprajñāsanāthānyadhikaṃ vibhānti|hiraṇmayānīva vibhūṣaṇānipratyuptaratnadyutibhāsvarāṇi
+
+kriyāsu sāmarthyaguṇaṃ hi teṣāṃprajñaiva vistāriṇamādadhāti|svārthapravṛttau viśadakramāṇāṃyathā
+manaḥsaṃtatirindriyāṇāṃ
+
+kriyāsvayogyāni śarīrayantrāṇyā-yurviyuktāni yathā na bhānti|tathaiva kāryāṇi na bhānti lokeprajñāviyogena
+jadīkṛtāni
+
+śraddhādikānāmapi cendriyāṇāṃprajñāgraṇī buddhirivendriyāṇām|guṇāguṇān vetti hi tatsanāthaḥkleśakṣaye
+naipuṇametyataśca
+
+prajñāviyogāt phalalālasānāṃnaiva svatodānaviśuddhirasti|tyāgaṃ parārthaṃ hi vadanti dānaṃśeṣastu
+vṛddhyārthamiva prayogaḥ
+
+prajñāsamunmīlitacakṣuṣastudattvā svamāṃsānyapi bodhisattvāḥ|naivonnatiṃ nāvanatiṃ prayāntibhaiṣajyavṛkṣā
+iva nirviklapāḥ
+
+evaṃ sa bhūmiṃ prathamāmupaitilokottarasyārthavidhipratiṣṭhām|akrodhanaḥ prītisamṛddhacetādānairmahadbhirjagadarthacetāḥ
+
+prāyeṇa yasyāṃ balacakravartībhavatyasaṃhāryamatiśca bodheḥ|prajñāguṇādeśitasatpatho'thakarmeṇa
+bhūmiṃ vimalāmupaiti
+
+yasyāṃ prakṛtyaiva viśuddhaśīlaśca-turmahādvīpapatiḥ sa bhūtvā|narendracūḍāmaṇisatkṛtājñaḥsūryārhatāmeti
+yathā munīndraḥ
+
+tataḥ paraṃ kāmiṣu daivateṣuloke'pi ca dvitrisahasrasaṃkhye|aiśvaryamāpnoti tataḥ paraṃ cabhūmiṃ
+viśodhya prabhavāṃ prabhāyāḥ
+
+śīlasya śuddhiḥ kuta eva tasyayaḥ prajñayā nāpahṛtāndhakāraḥ|prāyeṇa śīlāni hi tadviyogādāmarṣadoṣaiḥ
+kaluṣīkriyante
+
+nātmārthamapyasti tu yasya śīlaṃprājñasya tasyāsti kathaṃ parārtham|yo dṛṣṭadoṣo bhavabandhanānāṃlokān
+samastāṃstata ujjihīrṣuḥ
+
+prajñāvipakṣairhṛdi soparāgekṣamāguṇaḥ kena dhṛtiṃ labheta|guṇāguṇāavekṣaṇakātarākṣekhyāto guṇairvīrā
+iva kṣitīśe
+
+prajñānvitānāṃ tu parāpakārāḥkṣamāguṇāḥ sthairyakarā bhavanti|bhadrātmakānāmiva vāraṇānāṃkaramāśrayā
+naikavidhā viṣeṣāḥ
+
+niṣkevalaṃ vīryamapi śramāyaprajñāsanāthasya tu tasya kārye|anuttaraḥ siddhiguṇo'bhyudetihartā
+tadutthasya pariśramasya
+
+yasmāt paraṃ sūkṣamataraṃ na kiṃ cidyannaipuṇānāṃ paramaḥ prakarṣaḥ|yatkāmadoṣādibhirāvṛtānāṃmanaḥpathaṃ
+naiva kadā cideti
+
+tad dhyānamekāntasukhābhirāmaṃkathaṃ pravekṣyantyastāṃ manāṃsi|sthūlāni doṣopacayairmahadbhiḥprajñotpathaṃ
+nyāyamivāśritānī
+
+prajñānirudyogamaterhi dṛṣṭirnā-yāti śuddhiṃ tadṛte na śīlam|samyakasmādhis tadṛte na labhyoduḥkhakṣayastadvirahāttathaiva
+
+prājñastu doṣādbhayamīkṣamāṇaḥsukhānubaddhaṃ ca sukhaṃ guṇebhyaḥ|vihāya doṣāñjagadarthakāmoguṇābhirāmeṇa
+pathā prayāti
+
+samudyatastena samādhimetyaprāpnoti vākkāyamanoviśuddhīḥ|ato'navadyena balena yuktaḥpravartate
+lokahitodayeṣu
+
+dānena cābhīpsitabhūyasaivapriyairadīnairvacanāmṛtaiśca|naiṣkāraṇorjasvalayā ca vṛttyāparārthacaryāsu
+samaṃ samantāt
+
+sāmānyamartheṣu ca darśayitvāpremṇā vaśīkṛtya manāṃsi teṣām|karoti nirvāṇasukhe pratiṣṭhāṃprajñāguṇāvyāhatadharmacakraḥ
+
+prajñādyarogaiśca balairamībhira-dhyāsitaṃ nābhyupayātumīsā|ajīvikādurgatimṛtyunindā-śāradyadoṣāśrayaṇī
+bhayārtiḥ
+
+bhayāni sarvāṇi hi doṣajāniprajñā na doṣaiḥ sahavāsameti|śaradvyapoḍhābhragavākṣapakṣābhā bhāskarasyeva
+tamaḥpratānaiḥ
+
+sahasraraśmerudaye'pi yānitamāṃsi rundhanti jagadgatāni|nāmaikaśeṣāṇi karoti tāniprajñāprabhāyāḥ
+prasaraprabhāvaḥ
+
+na tatra bhūyaḥ karaṇīyam astiyatra prabhā sā balatāmupaiti|yugāntakālānalasaṃhṛte hiloke na
+dagdhavyakathāḥ prathante
+
+jyotīṃṣi sarvāṇyapi saṃhitāniprajñāprabhāṃ nālamathopayātum|atastayā nāsti parātivṛddhirga-rīyasī
+vāparihāṇijātiḥ
+
+saṃpūrṇatāṃ yāti sukhena śikṣāśīlāya cittapraśamāya caiva|prajñābhiyuktasya yatastato'syāṃsarvābhisāreṇa
+parākrameta
+
+yā skandhadhātvāyatanapravṛttausatyāśrayā pratyayitā parīkṣā|kālatraye'pyeṣa samāsayuktyāprajñāvadātairviṣayapraveśaḥ
+
+kīrtiṃ vitanvanti jinātmajānāṃprajñāvadātāścaritapradeśāḥ|guṇadvīṣāmapyatiduṣkuhāṇāṃromāñcitā
+vismayapāratantryāt
+
+prajñābalaṃ dīptataraprabhāvaṃnālaṃ prasoḍhuṃ sabalo'pi māraḥ|prajñāṃśavo vibhramayānti cakṣurnadraṣṭum
+īśo hi yataḥ sa eva
+
+kandarpanārācanipātasāhīprajñāmayaṃ varma vitatya citte|vyūḍhāni rūpaprabhṛtīnyanekānyeko-'pi
+nirbhīrabhibhūya yāti
+
+adhīrasātmyaṃ bhayaviklavaṃ vāmūḍhocitaṃ śokaparigrahaṃ vā|svalpātmacitteṣvavagāḍhamūlaṃroṣoparāgaṃ
+parijihmitaṃ vā
+
+dīneṣu kārpaṇyamalīmasatvaṃkṛtāspadaṃ rāgiṣu cāpalaṃ vā|tejovihīneṣvalasatvasattvaṃsamuddhateṣvapraśamātmakatvam
+
+tāṃstāṃśca līnānapi doṣaleśānpṛthagvidhiṣvāśrayagahvareṣu|samudbhavantyeva parākarotiprajñā
+pratijñeva jagaddhitārthā
+
+niveśya doṣakṣayadhīrasaumyāṃbhavasya tasyopari dṛṣṭilakṣmīm|svayaṃ munīndrairabhiṣicyate yatprahlādinā
+vyākaraṇāmṛtena
+
+ūrṇāprabhābhiśca mahāmunīnāṃniśīthacandradyutihāsinībhiḥ|yadājyadhārābhirivādhvaragnirvi-bhāti
+mūrdhanyabhiṣicyamānaḥ
+
+avāpya yasmān muniyauvarājyaṃsamaṃ samantād visṛtātmabhāvaḥ|lokasya duḥkhaṃ praśamatyayatnādrajo
+mahāmegha iva pravṛṣṭaḥ
+
+prajñāprabhāvopanataḥ sa sarvaḥprabhāvisāraḥ sugatātmajānām|ko vismayo vātra sutapriyāyāmātuḥ
+samīyādyadiyaṃ vibhūtiḥ
+
+daśaprakāro'pi yadā munīnāṃtadāśrayādeva balaprakarṣaḥ|udetyasādhāraṇasundaraścaśeṣo'pyasaṃkhyo
+guṇaratnarāśiḥ
+
+śāstrāṇi cakṣuḥpratimāni lokenidhānabhūtāṃśca kalāviśeṣān|mantrān paritrāṇakṛto vicitrāndharmavyavasthāśca
+pṛthagviśeṣāḥ
+
+paryāyacitraṃ ca vimokṣamārgaṃtattacca lokasya hitopapādi|yadbodhisattvāḥ pravidarśayantiprajñāprabhāvābhyudayaḥ
+sa sarvaḥ
+
+divyapratispardhibhirindriyārthai-rnarendrabhāve'pi hi bodhisattvāḥ|na yadvirūpāṃ prakṛtiṃ vrajantiprajñā
+guṇāmātyasanāthatā sā
+
+paropakāraikarasā ca maitrīrāgoparāgaprativarjitā ca|parasya duḥkheṣu parā dayā cana śokabhārālasatāṃ
+gatā ca
+
+anuddhātatvaṃ mudite'pi cittetamonirārambhamupekṣitaṃ ca|te te guṇā<ś>cābhyadhikaṃ vibhāntiprajñāniruddhapratipakṣamārgāḥ
+
+ko nāma lokasya parārthasādhurduḥkhai-kahetūni tamāṃsi hanyāt|avyāhatā jñānaśayāśayeṣuprajñā
+na cet syādatisūryādīptiḥ
+
+tatprāptaye śrutam aśītivikalpacitraṃsaṃceyam āśrayasahaṃ gurumabhyupetya|dvātriṃśatā tadadhigamya
+vivardhayetasamyaṅmanaḥ samavadhānakṛtairviśeṣaiḥ
+
+alpaśruto'ndha iva vetti na bhāvanāyāmārgaṃ vicintayati kāni ca tadvihīnaḥ|tasmācchrutaṃ prati
+yateta tadāśrayā hiprajñā samudbhavati cintanabhāvanābhyām
+
+praśnairavigrahamukhaiśca kathāviśeṣairmī-māṃsayārthagativīkṣaṇayā svayaṃ ca|prajñāvivṛddhimabhitaḥ
+prayateta nityaṃdhyānena tadguṇavivṛddhikareṇa caiva
+
+prajñābhyupāyavidhireṣa samāsatastudhyānaṃ tadarthaniyataḥ śrutivistaraśca|tābhyāṃ samudbhavati
+hi prabhavo guṇānāṃprajñāprabhāsamudayo'gnirivāraṇībhyāṃ
+
+vidvajjanācaritamārgasamāśrayāccasaṃmohahetugahanāni vivarjayeta|tairāvṛto na hi vibhātyudayasthito'pitoyāvalambijaladāntaritaḥ
+śaśīva
+
+ālasyajṛmbhitamatitvam asatsahāyānidrānivṛttiraviniścayaśīlatā ca|jñāne muneriva kutūhalitānivṛttirmithyā-bhimānaparisaṃkucitāśca
+pṛcchāḥ
+
+dainyena cātmaparitāpasamudbhavenavidvajjanābhigamanādarakātaratvam|mithyāvikalpapaṭutā vitathā
+ca dṛṣṭirmohāyatatpraśamanāya tu tadvipakṣāḥ
+
+skandheṣu sāyatanadhātuṣu satyayuktyohetudbhaveṣu śucayānavinirṇaye ca|dharmeṣu kauśalamaśeṣata
+eva yaccaprajñāprayogaviṣayo'ṣṭavikalpa eṣaḥ
+
+niḥsāraphenanicayairaviśeṣi rūpaṃtisro'pi budbudalavā iva vedanāśca|saṃjñāpi kāmaguṇaviprasṛtān
+satṛṣṇānbālān mṛgāniva vilobhayate marīciḥ
+
+saṃskārajātirapi tulyaguṇā kadalyāvijñānato'pi na ca yuktatarāsti māyā|yanniśrayādbhramati naikavikalpaceṣṭaṃbhūtābhibhūtakuṇapapratimaṃ
+śarīram
+
+nātmā tadīyamapi cātra na kiṃ cid astisaṃghāta eṣa vividhāśūcisaṃnidhānaḥ|bālān pralambhayata
+eva ca sattvasaṃjñāsvacchandaceṣṭa iva yantravidhau suyukte
+
+ātmā na cakṣurapi ca kṣaṇabhaṅguratvāttadvan na cakṣuṣi na cātra yathaiva cakṣuḥ|ādhyātmikāyatanaśeṣam
+aśeṣam evamātmīyavastuviṣayo'pi ca tadvivekī
+
+bāhyeṣu dhātuṣu śarīrasamāśritānāṃnālpo'pi lakṣaṇavirodhakṛto'sti bhedaḥ|vijñānadhāturapi ca
+kṣaṇikaḥ sa nātmātasmātparo'pi ca nabhaḥkusumaiḥ samānaḥ
+
+ityetadudbhavati kevalameva duḥkhaṃtṛṣṇāvimūḍhamanaso vigmāttu tasyāḥ|śāntiḥ parā bhavati tarṣaharastu
+mārgaḥśīlaṃ samādhipariśuddhatayā ca dṛṣṭiḥ
+
+tattatpratītya bhavatīti viśuddha-dṛṣṭirnāstyasti veti samupaiti sa naiva kiṃ cit|māyāmayaṃ
+jagadidaṃ pratibhāti tasyatasmāt sukhādiṣu bhavatyavikāradhīraḥ
+
+āsīdbhaviṣyati ca yat tad apīdṛgevakaḥ saṃbhavo yadasukhaṃ na bhaved bhavebhyaḥ|evaṃ vyatītaviṣayeṣvapi
+vītarāgonaivābhinandati bhavāṃśca bhaviṣyato'pi
+
+ākārabhedaparuṣe puruṣo'parādhīko nāma gūḍhanakharasphuṭadṛṣṭicihne|tatpraiṣyavṛttikapaṭānyanucintya
+rajyedviśvāsameva ca yathocitamatra yāyāt
+
+evaṃ vimuktamatirapyanukampakastukleśāntaraṃ jagadanāthamavekṣamāṇaḥ|hīneṣu niṣpraṇayabuddhirudārabhāvānnirvātumicchati
+na buddhaguṇānalabdhvā
+
+lokārthasādhanavidhāvasamartharūpaṃyānadvayaṃ samavādhūya sa pūrvameva|kāruṇyadeśitapatho munirājayānamātasthivān
+parahitaikarasasvabhāvam
+
+hīnociteṣu na matirnamati praṇītāsaṃtiṣṭhate mahati nāmahatī kadā cit|saṃsyandate śucibhireva
+śucisvabhāvaṃtulyaistathānyadapi śāsvata eṣa yogaḥ
+
+svapnopamāni vigaṇayya sukhāsukhānisaṃmohadoṣakṛpaṇāṃ janatāṃ ca teṣu|ātmārtha eva gurutāṃ katham
+asya yāyādvyāpārabhāramavadhūya parārtharamyam
+
+yaḥ sarvalokahitakāraṇasarvaceṣṭastya-ktvātmadṛṣṭiviṣayaṃ vitathābhimānam|sarvatra śāntamatiradvayamārgacārīso'tyadbhutaścaritanirvṛta
+eva loke
+
+prajñāviśuddhikaramuttamayānametatsarvajñatā tadudayā hi mahāmunīnām|lokasya yā nayanatāmiva
+saṃprayātidīptāṃśumaṇḍalatalotpatitā prabheva
+
+saṃsāradoṣabharanirmathito'pi naivaprajñāvivecanatayā parikhīdyate yaḥ|nātmābhikhedapariviklavatāṃ
+sa yātiyānasya buddhaguṇasaṃjananasya loke
+
+paśyanti cābhutamayaṃ sugataprabhāvaṃromāñcakañcukitasarvaśarīradeśāḥ|tadgāminaṃ pariharanti
+ca yānamārgaṃkiṃ nāma kāraṇamṛte śaṭhaceṣṭitebhyaḥ
+
+ko nāma mārakalinānabhibhūtacetāḥsaṃbuddhadharmaguṇaratnanidhānabhūtam|sarvajñayānamapayānam
+anarthapaṅkādākroṣṭumarhati na cejjagato'sya vairam
+
+lokārthasādhanapare jinarājavaṃśeprajñānimīlitanayeṣu pariskhalatsu|cittaṃ narasya karuṇāmṛdu
+kasya na syāttanmohadoṣaśamanāya dṛḍhaṃ ca vīryam
+
+prajñāyā janayati yaḥ parāṃ viśuddhiṃnirmokṣaḥ kathamiva tasya dūrataḥ syāt|naivāsmātparataramasti
+śīlam anyattattasmād bhajata vimokṣakāṅkṣiṇo hi
+
+|| prajñāpāramitāsa[māsa]ścāyaṃ pāramitāsamāsaḥ ||viśuddhamaunīndramanastaḍāga-prasūtasūtrāntasaroruhebhyaḥ|ādāya
+śurabhramareṇa samyagmadhūrjitaṃ pāramitāsamāse ||

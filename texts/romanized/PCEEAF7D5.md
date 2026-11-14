@@ -1,0 +1,444 @@
+---
+title: "Pañcaśatikā prajñāpāramitā"
+bdrc_id: PCEEAF7D5
+script: iast
+original_collection: DSBC
+editor: "Li Xuezhu and Fujita Yoshimichi"
+publisher: "China Tibetology Publishing House"
+year: "2017"
+source_repository: "https://github.com/Openpecha-Data/PCEEAF7D5"
+---
+# Pañcaśatikā prajñāpāramitā
+
+namo bhagavatyā āryaprajñāpāramitāyai||evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati
+sma| gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhaṃ mahatā ca bodhisattvagaṇena|tatra
+bhagavān subhūtim āmantrayate sma||rūpaṃ subhūte abhā vo nābhāvaḥ sadbhāvaḥ| vedanā saṃjñā
+saṃskārā vijñānaṃ subhūte abhāvo nābhāvaḥ sadbhāvaḥ| cakṣū rūpāṇi ca cakṣurvijñānaṃ śrotraṃ
+śabdāḥ śrotravijñānaṃ ghrāṇaṃ gandhā ghrāṇavijñānaṃ jihvā rasā jihvāvijñānaṃ kāyaḥ
+spraṣṭavyāni kāyavi jñānaṃ mano dharmāḥ manovijñānaṃ subhūte abhāvo nābhāvaḥ sadbhāvaḥ||evaṃ
+tad rūpaṃ triparivartena bālapṛthagjanā yathābhūtam aprajānantas tad rūpam abhiniviśante'bhinirvartayantyavacchādayanti|
+te tad rūpam abhiniviśanto'bhinirvartayanto'vacchādayantaḥ
+śrāvakayānena pratyekabu-(1)ddhayānena vā tāvan na niryāsyanti| kaḥ punar vādo mahāyānena|
+tathābhiniviśanto'bhinirvartayanto'vacchādayanto dīrghakālaṃ jarāmaraṇaṃ pratyanubhavanti|
+yaduta narakeṣu tiryakṣu preteṣu deveṣu manuṣyeṣu||evaṃ vedanā saṃjñā saṃskārā vijñānaṃ
+subhūte abhāvo nābhāvaḥ sadbhāvaḥ| cakṣū rūpāṇi ca cakṣurvijñānaṃ śrotraṃśabdāḥ śrotravijñānaṃ
+ghrāṇaṃ gandhā ghrāṇavijñānaṃjihvā rasā jihvāvijñānaṃ kāyaḥ spraṣṭavyāni kāyavijñānaṃmano
+dharmāḥ manovijñānaṃ subhūte abhāvo nābhāvaḥ sadbhāvaḥ| evaṃ tan manovijñānaṃ triparivartena
+bālapṛthagjanā yathābhūtam aprajānantas tan manovijñānam abhiniviśante'bhinirvartayanty
+avacchādayanti|te tad vijñānam abhiniviśanto'bhinirvartayanto'vacchādayantaḥ|srāvakayānena
+pratyekabuddhayānena vā tāvan na niryāsyanti| kaḥ punar vādo mahāyānena| tathābhiniviśanto(2)'bhinirvartayanto'vacchādayanto
+dīrgharātraṃ jarāmaraṇaṃpratyanubhavanti| yad
+uta narakeṣu tiryakṣu preteṣu deveṣumanuṣyeṣu||evaṃ ca tad rūpaṃ triparivartena paṇḍitā yathābhūtaṃ
+prajānanto nābhiniviśante nābhinirvartayanti prakāśayanti| anabhiniviśanto'nabhinirvartayantaḥ
+prakāśayanto mahāyānenatāvan niryānti| kaḥ punar vādaḥ śrāvakayānenapratyekabuddhayānena
+vā| evaṃ cānabhiniviśanto'nabhinirvartayantaḥ prakāśayanto jarāmaraṇaṃ na pratyanubhavanti|
+yad uta narakeṣu tiryakṣu preteṣu deveṣu manuṣyeṣu||evaṃ vedanāṃ saṃjñāṃ
+saṃskārān vijñānaṃ ca triparivartenapaṇḍitā yathābhūtaṃ prajānanto nābhiniviśante nābhinirvartayantiprakāśayanti|
+anabhiniviśanto'nabhinirvartayantaḥ prakāśayanto mahāyānena tāvan
+niryānti| kaḥ punar vādaḥ śrāvakayānena pratyekabuddhayānena vā| evaṃ cānabhiniviśanto'nabhinirvartayantaḥ
+prakāśayanto na jarā-(3)maraṇaṃ pratyanubhavanti| yad uta narakeṣu tiryakṣu
+preteṣu deveṣu manuṣyeṣu||rūpaṃ subhūte utpadyate ca vyayate ca| yo rūpasyotpā do'nutpādaḥ
+sa rūpasya| yo rūpasyotpādo'nutpādaprakṛtiḥ sārūpasya| tāṃ punar anutpādaprakṛtiṃ rūpasya
+yathābhūtaṃprajānato bodhisattvasya yo rūpasyānutpādaḥ sa saṃpadyate||evaṃ vedanā saṃjñā
+saṃskārā vijñānaṃ subhūte utpadyate ca vyayate ca| yo vijñānasyotpādo'nutpādaḥ sa vijñānasya|
+yo vijñānasyotpādo'nutpādaprakṛtiḥ sā vijñānasya| tāṃ punar anutpādaprakṛtiṃ vijñānasya
+yathābhūtaṃ prajānato bodhisattvasya yo vijñānasyānutpādaḥ sa saṃpadyate||1 yaḥ kaścit
+subhūte evaṃ vaded rūpam ātmā vātmīyaṃ veti tam ahaṃ bāhyaṃ pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ
+vadāmi||yaḥ kaścit subhūte evaṃ vaded vedanā saṃjñā saṃskārā vijñānam ātmā vātmīyaṃ
+veti tam apy ahaṃ bāhyaṃ pṛthagjana-(4)pakṣāvasthitaṃ mithyādṛṣṭikaṃ vadāmi||2 yo'pi
+subhūte evaṃ vaded rūpaṃ pūrvakṛtahetukaṃ veśvaranirmāṇahetukaṃ vāhetupratyayaṃ vā tam apy
+ahaṃ bāhyaṃ pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ vadāmi||yaḥ kaścit subhū te evaṃ vaded
+vedanā saṃjñā saṃskārāvijñānaṃ pūrvakṛtahetukaṃ veśvaranirmāṇahetukaṃ vāhetupratyayaṃ vā
+tam apy ahaṃ bāhyaṃ pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ vadāmi||3 yo'pi subhūte evaṃ
+vaded rūpaṇālakṣaṇaṃ rūpam anubhavalakṣaṇā vedanā saṃjānanālakṣaṇā saṃjñā abhisaṃskāralakṣaṇāḥ
+saṃskārā vijā nanālakṣaṇaṃ vijñānaṃtam apy ahaṃ bāhyād bāhyaṃ pṛthagjanapakṣāvasthitaṃmithyādṛṣṭikaṃ
+vadāmi||4 yo'pi subhūte evaṃ vaded rūpaṃ duḥkham apraśāntaṃ rūpanirodhaḥ
+sukhaṃ śāntam iti tam apy ahaṃ bāhyād bāhyaṃ(5)pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ vadāmi||yo'pi
+subhūte evaṃ vaded vedanā saṃjñā saṃskārā vijñānaṃduḥkham apraśāntaṃ vijñānanirodhaḥ
+sukhaṃ śāntam iti tam apy ahaṃ bāhyād bāhyaṃ pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ
+vadāmi||5 yo'pi subhūte evaṃ vaden nāsty eva rūpam iti tam apy ahaṃ bāhyād bāhyaṃ pṛthagjanapakṣāvasthitaṃ
+mithyādṛṣṭikaṃvadāmi||yo'pi subhūte evaṃ vaden nāsty eva vedanā saṃjñā saṃskārāvijñānam
+iti tam apy ahaṃ bāhyād bāhyaṃ pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ vadāmi||6
+yo'pi subhūte evaṃ vaded yā rūpasya niḥsvabhāvatā bhagavatā deśitānutpādo'nirodha ādiśāntatā
+prakṛtiparinirvṛtatā sarvā sā deśanā nirabhisaṃdhikā nirabhiprāyā(6)yathārutam eva
+jñeyeti tam apy ahaṃ bāhyād bāhyaṃ pṛthagjanapakṣāvasthitaṃ mithyādṛṣṭikaṃ vadāmi||yo'pi
+subhūte evaṃ vaded yā vedanāyāḥ saṃjñāyāḥ saṃskārāṇāṃ vijñānasya niḥsvabhāvatā bhagavatā
+deśitānutpādo'nirodha ādiśāntatā prakṛtiparinirvṛtatā sarvā sā deśanā nirabhisaṃdhikā nirabhiprāyā
+yathārutam eva jñeyeti tam apy ahaṃ bāhyād bāhyaṃ pṛthagjanapakṣāvasthitaṃmithyādṛṣṭikaṃ
+vadāmi||asti subhūte rūpaṃ yad rūpasyānabhiniveśāyānutpādāyānabhi- saṃkhyānāya saṃvartate|
+asti tad rūpaṃ yad rūpasya saṃkleśāyasaṃniśrayāya saṃpraveśāya saṃvartate| asti
+tad rūpaṃyad rūpasya vyavadānāya vittatvāya saṃvartate||asti subhūte vedanā saṃjñā saṃskārā
+vijñānaṃ yad vijñanasyānabhiniveśāyānutpādāyānabhisaṃkhyānāya saṃvartate| asti subhūte vedanā
+saṃjñā saṃskārā vijñānaṃ yadvijñānasya saṃkleśāya saṃniśrayāya saṃpraveśāya saṃvartate|
+asti vedanā saṃjñā saṃskārā vijñānaṃ yad vijñānasya vyavadānāya vittatvāya saṃvartate||(7)asti
+subhūte rūpaṃ yad bodhisattvānāṃ prahīṇaṃ parijñātaṃ deśanāya vittatvāya saṃvartate|
+asti subhūte rūpaṃ yat prahīṇaṃ parijñātaṃ saṃdarśanavittatvāya saṃvartate| asti subhūte
+rūpaṃ yat prahīṇaṃ parijñātaṃ śukladharmasamanvayāya dharmavaśavartitvāya mahāsukhavihārāya
+saṃvartate||asti subhūte vedanā saṃjñā saṃskārā vijñānaṃ yad bodhisattvānāṃ prahīṇaṃ
+parijñātaṃ deśanāya vittatvāya saṃvartate| asti subhūte vedanā saṃjñā saṃskārā vijñānaṃyat
+prahīṇaṃ parijñātaṃ saṃdarśanavittatvāya saṃvartate|asti subhūte vedanā saṃjñā saṃskārā vijñānaṃ
+yad bodhisattvānāṃ prahīṇaṃ parijñātaṃ śukladharmasamanvayāyadharmavaśavartitvāya
+mahāsukhavihārāya saṃvartate||yaḥ kaścit subhūte bodhisattvo rūpe rūpamātraṃ duḥkhamātraṃ
+na samanupaśyati sa rūpa ātmānam upalabhate| yo rūpa ātmānam upalabhate sa rūpa ātmadṛṣṭim
+upalabhate| yo rūpa ātmadṛṣṭim upalabhate sa rūpe sarvam upalabhate| yo rūpe sarvam upalabhate
+sa rūpe sarvaṃ nopalabhate| yo rūpe sarvam upalabhamānaḥ sarvaṃ nopalabhate sa tasya
+bha-(8)vaty upalambhaḥ pariniṣpannaḥ| sa tam upalambhaṃ niśritya śrāvakayānena pratyekabuddhayānena
+vā tāvan na niryāti| kaḥ punar vādo mahāyānena||yaḥ kaścit subhūte bodhisattvo
+vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne vijñānamātraṃ duḥkhamātraṃ na samanupaśyati sa vijñāna
+ātmānam upalabhate| yo vijñāna ātmānam upalabhate sa vijñāna ātmadṛṣṭim upalabhate| yo
+vijñāna ātmadṛṣṭim upalabhate sa vijñāne sarvam upalabhate|yo vijñāne sarvam upalabhate sa
+vijñāne sarvaṃ nopalabhate| yo vijñāne sarvam upalabhamānaḥ sarvaṃ nopalabhate sa tasya
+bhavaty upalambhaḥ pariniṣpannaḥ| sa tam upalambhaṃ niśritya śrāvakayānena pratyekabuddhayānena
+vā tāvan na niryāti| kaḥ punar vādo mahāyānena||yaḥ punaḥ subhūte rūpe rūpamātraṃ duḥkhamātraṃ
+samanupaśyati sa rūpa ātmānaṃ nopalabhate| yo rūpa ātmānaṃnopalabhate sa rūpa ātmadṛṣṭiṃ
+nopalabhate| yo rūpa ātmadṛṣṭiṃ nopalabhate sa rūpe sarvaṃ nopalabhate| yo rūpesarvaṃ
+nopalabhate sa rūpe sarvaṃ upalabhate| yo rūpe sarvam anupalabhamānaḥ sarvam upalabhate
+sa tasya bhavaty upalambhaḥ pariniṣpannaḥ| sa tam upalambhaṃ niśrityaśrā vakayānena vā
+pratyekabuddhayānena vā niryāti no tumahāyānena||(9)yaḥ punaḥ subhūte vedanāyāṃ saṃjñāyāṃ
+saṃskāreṣu vijñāne vijñānamātraṃ duḥkhamātraṃ samanupaśyati sa vijñāna ātmānaṃ nopalabhate|
+yo vijñāna ātmānaṃ nopalabhate sa vijñāna ātmadṛṣṭiṃ nopalabhate| yo vijñāna ātmadṛṣṭiṃ
+nopalabhate sa vijñāne sarvaṃ nopalabhate| yo vijñāne sarvaṃnopalabhate sa vijñāne sarvaṃ
+upalabhate| yo vijñā ne sarvamanupalabhamānaḥ sarvam upalabhate sa tasya bhavaty upalambhaḥ
+pariniṣpannaḥ| sa tam upalambhaṃ niśritya śrāvakayānenavā pratyekabuddhayānena vā niryāti
+no tu mahāyānena||yaḥ kaścit subhūte rūpe'bhūtaparikalpamātraṃ bhrāntimātraṃna samanupaśyati
+sa rūpe rūpam upalabhate| yo rūpe rūpamupalabhate sa rūpe rūpadṛṣṭim upalabhate| yo
+rūpe rūpadṛṣṭimupalabhate sa rūpe sarvam upalabhate| yo rūpe sarvam upalabhate sa rūpe sarvaṃ
+nopalabhate| yo rūpe sarvam upalabhamānaḥ sarvaṃ nopalabhate sa tasya bhavaty upalambhaḥ
+pariniṣpannaḥ| sa tam upalambhaṃ niśritya śrāvakayānena pratyekabuddhayānena vā tāvan na
+niryāti| kaḥ punar vādo mahāyānena||yaḥ kaścit subhūte vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne(10)'bhūtaparikalpamātraṃ
+bhrāntimātraṃ na samanupaśyati savijñāne vijñānam upalabhate|
+yo vijñāne vijñānam upalabhatesa vijñāne vijñānadṛṣṭim upalabhate| yo vijñāne vijñānadṛṣṭim
+upalabhate sa vijñāne sarvam upalabhate| yo vijñāne sarvam upalabhate sa vijñāne sarvaṃ
+nopalabhate| yo vijñāne sarvam upalabhamānaḥ sarvaṃ nopalabhate sa tasya bhavatyupalambhaḥ
+pariniṣpannaḥ| sa tam upalambhaṃ niśritya śrāvakayānena vā pratyekabuddhayānena vā tāvan
+na niryāti| kaḥ punar vādo mahāyānena||yas tu subhūte rūpe'bhūtaparikalpamātraṃ bhrāntimātraṃ
+samanupaśyati sa rūpe rūpaṃ nopalabhate| yo rūpe rūpaṃnopalabhate sa rūpe rūpadṛṣṭiṃ
+nopalabhate| yo rūpe rūpadṛṣṭiṃ nopalabhate sa rūpe sarvaṃ nopalabhate| yo rūpesarvam nopalabhate
+sa rūpe sarvam upalabhate| yo rūpesarvam anupalabhamānaḥ sarvam upalabhate sa tasya
+bhavatyupalambhaḥ pariniṣpannaḥ| sa tam upalambhaṃ niśritya mahāyānena tāvan niryāti|
+kaḥ punar vādaḥ śrāvakayānena pratyekabuddhayānena vā||yas tu vedanāyāṃ saṃjñāyāṃ saṃskāreṣu
+vijñāne subhūteabhūtaparikalpamātraṃ bhrāntimātraṃ samanupaśyati sa vijñānevijñānaṃ nopalabhate|
+yo vijñāne vijñānaṃ nopala-(11)bhate sa vijñāne vijñānadṛṣṭiṃ nopalabhate| yo vijñāne
+vijñānadṛṣṭiṃ nopalabhate sa vijñāne sarvaṃ nopalabhate|yo vijñāne sarvaṃ nopalabhate
+sa vijñāne sarvam upalabhate| yo vijñāne sarvam anupalabhamānaḥ sarvam upalabhate sa tasya
+bhavaty upalambhaḥ pariniṣpannaḥ| sa tam upalambhaṃ niśritya mahāyānena tāvan niryāti|
+kaḥ punar vādaḥ śrāvakayānena pratyekabuddhayānena vā||rūpe subhūte bodhisattvasya yathārutābhiniveśavyāhārasamudācāraḥsatkāyadṛṣṭisamudācāraḥ
+punarbhavatṛṣṇāsamudācārovibhavaparyeṣṭisamudācāro
+rūpe'parijñātaliṅgam||evaṃ vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvasya
+yathārutābhiniveśavyāhārasamudācāraḥ satkāyadṛṣṭisamudācāraḥ punarbhavatṛṣṇāsamudācāro
+vibhavaparyeṣṭisamudācāro vijñāne'parijñātaliṅgam||rūpe subhūte bodhisattvasya yathārutābhiniveśavyāhārāsamudācāraḥsatkāyadṛṣṭyasamudācāraḥ
+punarbhavatṛṣṇāsamudācārovibhavaparyeṣṭyasamudācāro
+rūpe parijñātaliṅgam||evaṃ vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūtebodhisattvasya
+yathārutābhiniveśavyāhārāsamudācāraḥsatkāyadṛṣṭyasamudācāraḥ| punarbhavatṛṣṇāsamudācāro(12)vibhavaparyeṣṭyasamudācāro
+vijñāne parijñātaliṅgam||trīṇīmāni subhūte
+rūpe bodhisattvasya cittabījāni yani pratyayagṛhītāni vyavadānāya saṃvartante| adhimukticittabījam
+udvegacittabījam avipraṇāśacittabījaṃ ca||trīṇīmāni subhūte vedanāyāṃ saṃjñāyāṃ
+saṃskāreṣu vijñāne subhūte bodhisattvasya cittabījāni yāni pratyayagṛhītānivyavadānāya saṃvartante|
+adhimukticittabījam udvegacittabījamavipraṇāśacittabījaṃ ca||trīṇīmāni subhūte rūpe
+bodhisattvena cittāny utpādayitavyāni| anabhiniveśacittaṃ visaṃyogacittaṃ pariśodhanacittaṃ
+ca| sacet punaḥ subhūte bodhisattvaḥ tadrūpe cittotpādam(13)anutpādaṃ mahotpādaṃ samanupaśyati
+sa evaṃ samanupaśyan kṣipram anuttarāṃ samyaksaṃbodhim abhisaṃbhotsyate||trīṇīmāni
+subhūte vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne bodhisattvena cittāny utpādayitavyāni|
+anabhiniveśacittaṃvisaṃyogacittaṃ pariśodhanacittaṃ ca| sacet punaḥ subhūte bodhisattvaḥ tadvijñāne
+cittotpādam anutpādaṃ mahotpādaṃsamanupaśyati sa evaṃ samanupaśyan kṣipram anuttarāṃ
+samyaksaṃbodhim abhisaṃbhotsyate||rūpaṃ sacet subhūte bodhisattvo'stitayā tathāstitayā
+nāstitayāvā samanupaśyaty atattvajño bodhisattva iti veditavyaḥ|evaṃ vedanāṃ samjñāṃ saṃskārān
+vijñānaṃ sacet subhūtebodhisattvo'sti tayā tathāstitayā nāstitayā vā samanupaśyatyatattvajño
+bodhisattva iti veditavyaḥ||rūpaṃ sacet subhūte bodhisattvo'nastitayātathāstitayānasti-(14)nāstitayā
+samanupaśyati tattvajño bodhisattva iti veditavyaḥ||vedanāṃ saṃjñāṃ saṃskārān
+vijñānaṃ sacet subhūte bodhisattvo'nastitayātathāstitayānastinā stitayā samanupaśyatitattvajño
+bodhisattva iti veditavyaḥ||rūpe subhūte bodhisattvasya cittaṃ samādhātukāmasya
+rūpamadhimucyamānasya tac cittaṃ rūpa uccalati saṃcalati vicalati duradhimokṣo bodhisattvo
+veditavyaḥ||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvasya cittaṃ samādhātukāmasya
+vijñānam adhimucyamānasya vijñāne tac cittam uccalati saṃcalati vicalatiduradhimokṣo
+bodhisattvo veditavyaḥ||rūpe subhūte bodhisattvaś cittaṃ samādhātukāmas tac ca rūpamadhimucyamāno
+rūpe cittaṃ na badhnāti na saṃbadhnāti na vibadhnāti svadhimokṣo bodhisattvo
+veditavyaḥ||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūtebodhisattvaś cittaṃ samādhātukāmas
+tac ca vijñānamadhimucyamāno vijñāne cittaṃ na badhnāti na saṃbadhnāti na vibadhnāti
+svadhimokṣo bodhisattvo veditavyaḥ||(15)rūpe subhūte alakṣaṇadharmaparijñāyai duḥkhapraśamāyanirvāṇānaikāntikatvāya
+ca pratipanno bodhisattvaḥ samyakpratipannoveditavyaḥ| evaṃ ca
+samyakpratipanno bodhisattvaḥ kṣipram anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte alakṣaṇadharmaparijñāyai duḥkhapraśamāya nirvāṇānaikāntikatvāya
+ca pratipanno bodhisattvaḥ samyakpratipanno veditavyaḥ| evaṃ ca samyakpratipanno
+bodhisattvaḥ kṣipram anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate||alakṣaṇaparijñāyaiduḥkhasyopaśamāya
+ca|anaikānte śāntatāyaibodhisattvaḥ prapadyate
+
+rūpe subhūte nirālokaṃ samantālokaṃ tadāśrayaṃ tatpraveśaṃca dharmaṃ yathābhūtaṃ prajānan bodhisattvaḥ
+kṣipram anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu
+vijñāne subhūte nirālokaṃ samantālokaṃ tadāśrayaṃ tatpraveśaṃ ca dharmaṃ(16)yathābhūtaṃ
+prajānan bodhisattvaḥ kṣipram anuttarāṃ samyaksaṃbodhim abhisambudhyate||nirālokaś ca yo
+dharmaḥsamantāloka eva ca|tadāśrayapraveśaṃ cajñātvā tāṃ bodhim āpnute
+
+rūpe subhūte rūpaṃ parimārgamāṇo bodhisattvaḥ tac cānupalabhamāno rūpam anābhāsīkṛtya rūpadharmasamatāṃ
+ca prati vidhya kṣipram anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate||vedanāyāṃ saṃjñāyāṃ
+saṃskāreṣu vijñāne subhūte vijñānaṃ parimārgamāṇo bodhisattvaḥ tac cānupalabhamāno
+vijñānam anābhāsīkṛtya vijñānadharmasamatāṃ ca pratividhya kṣipram anuttarāṃ samyaksaṃbodhim
+abhisaṃbudhyate||pragṛhyālabhya dharmāgryaṃvastvanābhā sacaitasaḥ|abhijño dharmatāyāṃ
+cadhīmān bodhiṃ nigacchati
+
+rūpe subhūte abhāvakuśalo bodhisattvo rūpavibhavena samanvāgato rūpadharmadhātuniścalaḥ kṣipram
+anuttarāṃsamyaksaṃbodhim abhisaṃbudhyate||(17)vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte
+abhāvakuśalo bodhisattvo vijñānavibhavena samanvāgatovijñānadharmadhātuniścalaḥ kṣipram
+anuttarāṃ samyaksaṃbodhim abhisaṃbudhyato||abhāvakuśalo dhīmānvibhāvanasamanvitaḥ|niścalo
+dharmadhātoś casarvajñatvaṃ nigacchati
+
+rūpe subhūte nirartham apārthaṃ mahārthaṃ yathābhūtaṃ prajānan bodhisattvaḥ kṣipram anuttarāṃ
+samyaksaṃbodhiṃ abhisaṃbudhyate||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte nirarthamapārthaṃ
+mahārthaṃ yathābhūtaṃ prajānan bodhisattvaḥ kṣipram anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate||nirarthaṃ
+cāpy anarthaṃ camahārthaṃ tathyam ity api|saṃbuddho vai bodhisattvaḥsa
+hi bodhiṃ nigacchati
+
+(18)rūpe subhūte bodhisattvena pañca rāgān parijñāya parivarjayitavyāḥ vitarkarāgaḥ pratarkarāgo
+vikalparāgo rāgo mahārāgaś ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvena
+pañca rāgān parijñāya parivarjayitavyāḥ| vitarkarāgaḥ pratarkarāgo vikalparāgo rāgo
+mahārāgaś ca||rūpe subhūte bodhisattva imān pañca rāgān parivarjayitvārūpasvabhāvaṃ nopalabhate|
+rūpasvabhāvam anupalabhamāno rūpe rūpaṃ nopalabhate| rūpe rūpam anupalabhamānorūpe
+rūpam upalabhate| yo rūpe rūpopalambhaḥ sa eva rūpe rūpānupalambhaḥ| sa tena rūpopalambhānupalambhena
+sarvaprakāraṃ rūpam abhibhūya niryāti yad utānuttarāyaisamyaksaṃbodhaye||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattva imān pañca rāgān parivarjayitvā vijñānasvabhāvaṃnopalabhate|
+vijñānasvabhāvam anupalabhamāno vijñānevijñānaṃ nopalabhate| vijñāne
+vijñānam anupalabhamānovijñāne vijñānam upalabhate| yo vijñāne vijñānopalambhaḥ sa eva
+vijñāne vijñānānupalambhaḥ| sa tena vijñāno palambhānupalambhena sarvaprakāraṃ vijñānam
+abhibhūya niryāti yad utānuttarāyai samyaksaṃbodhaye||rūpe subhūte bodhisattvena pañca dveṣān
+parijñāya parivarjayitavyāḥ| vitarkavicāradveṣaḥ pratarkavicāradveṣo(19)vikalpavicāradveṣo
+dveṣo mahādveṣaś ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne sūbhūte bodhisattvena pañca
+dveṣān parijñāya parivarjayitavyāḥ| vitarkavicāradveṣaḥ pratarkavicāradveṣo vikalpavicāradveṣo
+dveṣomahādveṣaś ca||rūpe subhūte bodhisattva imān pañca dveṣān parivarjayitvārūpasvabhāvaṃ
+nopalabhate| rūpasvabhāvam anupalabhamānorūpe rūpaṃ nopalabhate| rūpe rūpam anupalabhamāno
+rūpe rūpam upalabhate| yo rūpe rūpopalambhaḥ sa evarūpe rūpānupalambhaḥ| sa tena
+rūpopalambhānupalambhena sarvaprakāraṃ rūpam abhibhūya niryāti yad utānuttarāyaisamyaksaṃbodhaye||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattva imān pañca dveṣān parivarjayitvā
+vijñānasvabhāvaṃnopalabhate| vijñānasvabhāvam anupalabhamāno vijñāne vijñānaṃ nopalabhate|
+vijñāne vijñānam anupalabhamāno vijñāne vijñānam upalabhate| yo vijñāne vijñānopalambhaḥ
+saeva vijñāne vijñānānupalambhaḥ| sa tena vijñānopalambhānupalambhena sarvaprakāraṃ
+vijñānam abhibhūya niryāti yad utānuttarāyai samyaksaṃbodhaye||rūpe subhūte bodhisattvena
+pañca mohān parijñāya parivarjayitavyāḥ| bhrāntimoho bhrāntinimittamoho'bhrāntinimittamoho
+moho mahāmohaś ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bo-(20)dhisattvena
+pañca mohān parijñāya parivarjayitavyāḥ| bhrāntimohobhrāntinimittamoho'bhrāntinimittamoho
+moho mahāmohaś ca||rūpe subhūte bodhisattva imān pañca mohān parivarjayitvā rūpasvabhāvaṃ
+nopalabhate| rūpasvabhāvam anupalabhamānorūpe rūpaṃ nopalabhate| rūpe rūpam anupalabhamāno
+rūpe rūpam upalabhate| yo rūpe rūpopalambhaḥ sa eva rūpe rūpānupalambhaḥ| sa tena rūpopalambhānupalambhena
+sarvaprakāraṃ rūpam abhibhūya niryāti yad utānuttarāyai samyaksaṃbodhaye||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattva imān pañca mohān parivarjayitvā
+vijñānasvabhāvaṃnopalabhate| vijñānasvabhāvam anupalabhamāno vijñāne vijñānaṃ nopalabhate|
+vijñāne vijñānam anupalabhamāno vijñāne vijñānam upalabhate| yo vijñāne vijñānopalambhaḥsa
+eva vijñāne vijñānānupalambhaḥ| sa tena vijñānopalambhānupalambhena sarvaprakāraṃ vijñānam
+abhibhūya niryāti yad utānuttarāyai samyaksaṃbodhaye||rūpe subhūte bodhisattvena pañca
+mānān parijñāya parivarjayitavyāḥ| bāhuśrutyamāno'bhyudayamāno'bhimāno māno mahāmānaś
+ca||vedanāyāṃ saṃjñāyaṃ saṃskāreṣu vijñāne subhūte bodhisattvena pañca mānān parijñāya parivarjayitavyāḥ|
+bāhuśrutyamāno'bhyudayamāno'bhimāno māno mahāmānaś ca||rūpe subhūte bodhisattva
+imān pañca mānān parivarjayitvārūpasvabhāvaṃ nopalabhate| rūpasvabhāvam anupalabhamānorūpe
+rūpaṃ nopalabhate| rūpe rūpam anupalabhamāno(21)rūpe rūpam upalabhate| yo rūpe rūpopalambhaḥ
+sa evarūpe rūpānupalambhaḥ| sa tena rūpopalambhānupalambhenasarvaprakāraṃ rūpam
+abhibhūya niryāti yad utānuttarāyaisamyaksaṃbodhaye||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne
+subhūte bodhisattva imān pañca mānān parivarjayitvā vijñānasvabhāvaṃ nopalabhate| vijñānasvabhāvam
+anupalabhamāno vijñāne vijñānaṃ nopalabhate| vijñāne vijñānam anupalabhamāno vijñāne
+vijñānam upalabhate| yo vijñāne vijñāno palambhaḥsa eva vijñāne vijñānānupalambhaḥ|
+sa tena vijñānopalambhānupalambhena sarvaprakāraṃ vijñānam abhibhūya niryāti yad utānuttarāyai
+samyaksaṃbodhaye||rūpe subhūte bodhisattvena pañca dṛṣṭīḥ parijñāya parivarjayitavyāḥ|
+svabhāvaviparyāsadṛṣṭir astītidṛṣṭir apavādadṛṣṭir dṛṣṭir mahādṛṣṭiś ca||vedanāyāṃ saṃjñāyāṃ
+saṃskāreṣu vijñāne subhūte bodhisattvena pañca dṛṣṭīḥ parijñāya parivarjayitavyāḥ|  svabhāvaviparyāsadṛṣṭir
+astītidṛṣṭir apavādadṛṣṭir dṛṣṭir mahādṛṣṭiś ca||rūpe subhūte bodhisattva
+imāḥ pañca dṛṣṭīḥ parivarjayitvārūpasvabhāvaṃ nopalabhate| rūpasvabhāvam anupalabhamānorūpe
+rūpaṃ nopalabhate| rūpe rūpam anupalabhamānorūpe rūpam upalabhate| yo rūpe rūpopalambhaḥ
+sa eva rūpe rūpānupalambhaḥ| sa tena rūpopalambhānupalambhenasarvaprakāraṃ rūpam abhibhūya
+niryāti yad utānuttarāyai samyaksaṃbodhaye||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne
+subhūte bodhi-(22)sattva imāḥ pañca dṛṣṭīḥ parivarjayitvā vijñānasvabhāvaṃ nopalabhate|
+vijñānasvabhāvam anupalabhamāno vijñāne vijñānaṃ nopalabhate| vijñāne vijñānam anupalabhamāno
+vijñāne vijñānam upalabhate| yo vijñāne vijñānopalambhaḥ sa eva vijñāne vijñānānupalambhaḥ|
+sa tena vijñānopalambhānupalambhena sarvaprakāraṃ vijñānam abhibhūya niryāti yad utānuttarāyai
+samyaksaṃbodhaye||rūpe subhūte bodhisattvena pañca vimatīḥ parijñāya parivarjayitavyāḥ|dharmavimatir
+gatiduḥkhavimatir nirvāṇabuddhabodhisattvadharmavimatir vimatir mahāvimatiś
+ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenapañca vimatīḥ parijñāya
+parivarjayitavyāḥ| dharmavimatir gatiduḥkhavimatir nirvāṇabuddhabodhisattvadharmavimatir
+vimatir mahāvimatiś ca|rūpe subhūte bodhisattva imāḥ pañca vimatīḥ parivarjayitvā rūpasvabhāvaṃ
+nopalabhate| rūpasvabhāvam anupalabhamāno rūpe rūpaṃ nopalabhate| rūpe rūpam anupalabhamāno
+rūpe rūpam upalabhate| yo rūpe rūpopalambhaḥ sa eva rūpe rūpānupalambhaḥ| sa
+tena rūpopalambhānupalambhena sarvaprakāraṃ rūpam abhibhūya niryāti yad utānuttarāyai samyaksaṃbodhaye||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattva imāḥ pañca vimatīḥ
+parivarjayitvā vijñānasvabhāvaṃ nopalabhate| vijñānasvabhāvam anupalabhamāno vijñāne(23)vijñānaṃ
+nopalabhate| vijñāne vijñānam anupalabhamāno vijñāne vijñānam upalabhate| yo vijñāne
+vijñānopalambhaḥ sa eva vijñāne vijñānānupalambhaḥ| sa tena vijñānopalambhānupalambhena
+sarvaprakāraṃ vijñānam abhibhūya niryāti yad utānuttarāyai samyaksaṃbodhaye||rūpe subhūte
+bodhisattvaḥ paryeṣan rūpaṃ dharmaṃ deśayan rūpe kāyavāṅmanaskarma pariśodhayaṃs tad rūpaṃ
+yathārutaṃ yathādṛṣṭi yathākhyātaṃ paryeṣate dharmaṃ deśayati| tasmiṃś ca kāyavāṅmanaskarma
+pariśodhayati| rūpe'paryeṣako bodhisattvo'samyagvākkarmakathitā veditavyaḥ| tasmiṃś ca
+rūpe'pariśuddhakāyavāṅmanaskarmā bodhisattvo veditavyaḥ||rūpe subhūte bodhisattvaḥ paryeṣan
+rūpaṃ dharmaṃ deśayan rūpe kāyavāṅmanaskarma pariśodhayaṃs tad rūpam ayathārutam ayathādṛṣṭi
+ayathākhyātaṃ paryeṣate dharmaṃ deśayati| tasmiṃś ca kāyavāṅmanaskarma pariśodhayati|
+rūpe suparyeṣako bodhisattvaḥ samyagvākkarmakathitā veditavyaḥ| tasmiṃś ca rūpe pariśuddhakāyavāṅmanaskarmā
+bo-(24)dhisattvo veditavyaḥ||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte
+bodhisattvaḥ paryeṣan vijñānaṃ dharmaṃ deśayan vijñāne kāyavāṅmanaskarma pariśodhayaṃs
+tad vijñānaṃ yathārutaṃ yathādṛṣṭi yathākhyātaṃ paryeṣate dharmaṃ deśayati| tasmiṃś ca
+kāyavāṅmanaskarma pariśodhayati| vijñāne'paryeṣako bodhisattvo'samyagvākkarmakathitā veditavyaḥ|
+tasmiṃś ca vijñāne'pariśuddhakāyavāṅmanaskarmā bodhisattvo veditavyaḥ||vijñāne subhūte
+bodhisattvaḥ paryeṣan vijñānaṃ dharmaṃ deśayan vijñāne kāyavāṅmaskarma pariśodhayaṃs
+tad vijñānam ayathārutam ayathādṛṣṭi ayathākhyātaṃ paryeṣate dharmaṃ deśayati| tasmiṃś ca
+kāyavāṅmanaskarma pariśodhayati| vijñāne suparyeṣako bodhisattvaḥsamyagvākkarmakathitā veditavyaḥ|
+tasmiṃś ca vijñāne(25)pariśuddhakāyavāṅmanaskarmā bodhisattvo veditavyaḥ||rūpe subhūte
+bodhisattvaś cittaṃ samādhātukāmaḥ tac ca rūpam adhyātmam adhimucyamāno dvaye dvayam
+upalabhate| adhimokṣyarūpam adhimokṣarūpaṃ ca| tatra yo bodhisattvo rūpe yathādhimokṣyam
+adhimokṣam avavadate yathādhimokṣaṃ vādhimokṣyam avavadate rūpe'samyagavavaditābodhisattvo
+veditavyaḥ||tat kasya hetoḥ| na hi subhūte adhimokṣyarūpam adhi-(26)mokṣarūpāt pṛthaglakṣaṇaṃ
+vidyate| sacet subhūte adhimokṣyarūpamadhimokṣarūpāt pṛthaglakṣaṇaṃ vidyate nānādhi muktānāṃ
+sattvānāṃ samādhimokṣye'bhinnāni darśanāny upalabhyeran| na ca svapnādiṣv anālambanādhimokṣa
+upalabhyeta|bālapṛthagjanāś ca rūpe tattvadarśino bhaveyuḥ| na ca siddhe yukte
+nirvikalpādhimokṣe cādhimokṣyarūpam anuvarteta| yasmāt tarhi subhūte nānādhimuktānāṃ sattvānāṃ
+samādhimokṣye bhinnāni darśanāni pravartante|svapnādiṣu cānālambanādhimokṣa upalabhyate|
+na ca bālapṛthagjanā rūpe tattvadarśino bhavanti| siddhe yukte nirvikalpādhimokṣe cādhimokṣyarūpam
+anuvartate| tasmād adhimokṣyarūpam apṛthaglakṣaṇam adhi-(27)mokṣarūpād bodhisattvena
+draṣṭavyam| nānyatra sanimitadṛṣṭiko rūpādhimokṣas tathā yathā samutpannaṃ tad adhimokṣyarūpam|
+tasmād artho'nyaḥ khyāti||evaṃ paśyan bodhisattvo'dhimokṣyarūpasaṃjñāṃ vibhāvayati|
+tasyaivaṃ bhavaty adhimokṣyarūpe saty adhimokṣarūpaṃ yujyate nāsatīti viditvādhimokṣarūpabhrāntim
+upalabhate| adhimokṣarūpasaṃjñām api vibhāvayati|sa dvayarūpasaṃjñāṃ vibhāvayitvā
+sarvarūpaṃ nopalabhate| sarvaṃ rūpam anupalabhamāno rūpabhrāntim upalabhate|rūpabhrāntim
+upalabhamāno rūpabhrāntinimittam upalabhate| rūpabhrāntinimittam upalabhamāno rūpe'bhrāntidharmān
+samudānayati| rūpe'bhrāntidharmān samudānayan rūpe'bhrāntiniṣyandān dharmān
+samudānayati| pūrvam eva cānena rūpabhrāntyabhrāntidharmāḥ samudānītā bhavanti| sa rūpe'bhrāntidharmān
+abhrāntiniṣyandadharmāṃś ca niśritya sarvabuddhadharmān bhāvayati| sattvāṃś
+ca paripācayati| bu-(28)ddhakṣetraṃ ca pariśodhayati| kṣipraṃ cānuttarāṃ samyaksaṃbodhimabhisaṃbudhyate|
+evaṃ rūpe'vavadamāno bodhisattvo mahāsattvaḥ samyagavavaditā bhavati||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvaś cittaṃ samādhātukāmaḥ tac ca vijñānam
+adhyātmam adhimucyamāno dvaye dvayam upalabhate| adhimokṣyavijñānam adhimokṣavijñānaṃ ca|
+tatra yo bodhisattvo vijñāne yathādhimokṣyam adhimokṣam avavadate yathādhimokṣaṃ vādhimokṣyam
+avavadate vijñāne'samyagavavaditā bodhisattvo veditavyaḥ||tat kasya hetoḥ| na hi subhūte
+adhimokṣyavijñānam adhimokṣavijñānāt pṛthaglakṣaṇaṃ vidyate| sacet subhūte adhimokṣyavijñānam
+adhimokṣavijñānāt pṛthaglakṣaṇaṃ vidyate nānādhimuktānāṃ sattvānāṃ samādhimokṣye'bhinnāni
+darśanāny upalabhyeran| na ca svapnādiṣv anālambanādhimokṣa upalabhyeta| bālapṛthagjanāś
+ca vijñāne(29)tattvadarśino bhaveyuḥ| na ca siddhe yukte nirvikalpādhimokṣe cādhimokṣyavijñānam
+anuvarteta| yasmāt tarhi subhūte nānādhimuktānāṃ sattvānāṃ samādhimokṣye bhinnāni
+darśanāni pravartante| svapnādiṣu cānālambanādhimokṣa upalabhyate| na ca bālapṛthagjanā
+vijñāne tattvadarśino bhavanti| siddhe yukte nirvikalpādhimokṣe cādhimokṣyavijñānam anuvartate|
+tasmād adhimokṣyavijñānam apṛthaglakṣaṇam adhimokṣavijñānād bodhisattvenadraṣṭavyam|
+nānyatra sanimittadṛṣṭiko vijñānādhimokṣas tathā yathā samutpannaṃ tad adhimokṣyavijñānam|
+tasmād artho'nyaḥ khyāti||evaṃ paśyan bodhisattvo'dhimokṣyavijñānasaṃjñāṃ vibhāvayati|
+tasyaivaṃ bhavaty adhimokṣyavijñāne saty adhimokṣavijñānaṃ yujyate nāsatīti viditvādhimokṣavi-(30)jñānabhrāntim
+upalabhate| adhimokṣavijñānasaṃjñām api vibhāvayati| sa dvayavijñānasaṃjñāṃ
+vibhāvayitvā sarvavijñānaṃ nopalabhate| sarvavijñānam anupalabhamāno vijñāne bhrāntim
+upalabhate| vijñānabhrāntim upalabhamāno vijñānabhrāntinimittam upalabhate| vijñānabhrāntinimittam
+upalabhamāno vijñāne'bhrāntidharmān samudānayati| vijñāne'bhrāntidharmān
+samudānayitvā vijñāne'bhrāntiniṣyandadharmān samudānayati| pūrvam eva cānena vijñānabhrāntyabhrāntidharmāḥ
+samudānītā bhavanti| sa vijñāne'bhrāntidharmān abhrāntiniṣyandadharmāṃś ca
+niśritya sarvabuddhadharmān bhāvayati| sattvāṃś ca paripācayati| buddhakṣetraṃ ca pariśodhayati|
+kṣipraṃ cānuttarāṃ samyaksaṃbodhim abhisaṃbudhyate|evaṃ vijñāne'vavadamāno bodhisattvaḥ
+samyagavavaditā veditavyaḥ||rūpe subhūte bodhisattvena mahāsattvena pañcākārā maitrī
+bhāvayitavyā| saddharmopasaṃhārā maitrī laukikasukhopasaṃhārāmaitrī lokottarasukhopasaṃhārā
+maitrī maitrī mahāmaitrī ca||(31)vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenamahāsattvena
+pañcākārā maitrī bhāvayitavyā| saddharmopasaṃhārā maitrī laukikasukhopasaṃhārā
+maitrī lokottarasukhopasaṃhārā maitrī maitrī mahāmaitrī ca||rūpe subhūte bodhisattvena
+mahāsattvena pañcākārā karuṇā bhāvayitavyā| asaṃgrahakaruṇā saṃyogakaruṇāpy asaṃyogakaruṇā
+karuṇā mahākaruṇā ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenamahāsattvena
+pañcākārā karuṇā bhāvayitavyā| asaṃgrahakaruṇā saṃyogakaruṇāpy asaṃyogakaruṇā
+karuṇā mahākaruṇā ca||rūpe subhūte bodhisattvena mahāsattvena pañcākārā muditā bhāvayitavyā|
+saddharmaprasādābhiṣyandanā nugrahānumodanā muditā laukikasukhābhiṣyandanānugrahānumodanā
+muditā lokottarasukhābhiṣyandanānugrahānumodanā muditā muditā mahāmuditā ca||vedanāyāṃ
+samjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenamahāsattvena pañcākārā muditā bhāvayitavyā|
+saddharmaprasādābhiṣyandanānugrahā numodanā muditā laukikasukhābhiṣyandanānugrahānumodanā
+muditā lokottarasukhābhiṣyandanānugrahānumodanā muditā muditā mahāmuditāca||rūpe subhūte
+bodhisattvena mahāsattvena pañcakāropekṣā bhāvayitavyā| asaddṛṣṭyasaṃkleśopasaṃhāropekṣā
+sarvadoṣaparivarjanāsaṃkleśopasaṃhāropekṣā sarvaguṇaparigrahāsaṃkleśopasaṃhāropekṣopekṣā
+mahopekṣā ca||(32)vedānāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenamahāsattvena
+pañcākāropekṣā bhāvayitavyā| asaddṛṣṭyasaṃkleśopasaṃhāropekṣā sarvadoṣaparivarjanāsaṃkleśopasaṃhāropekṣā
+sarvaguṇaparigrahāsaṃkleśopasaṃhāropekṣopekṣā mahopekṣā ca||rūpe subhūte
+dānapāramitāyāṃ prayuktena bodhisattvena mahāsattvena pañcākāraṃ dānaṃ bhāvayitavyam pratijñādānam
+āmiṣābhayapratipattidānaṃ dharmapratipattidānaṃ dānaṃ mahādānaṃ ca||vedanāyāṃ saṃjñāyāṃ
+saṃskāreṣu vijñāne subhūte dānapāramitāyāṃ prayuktena bodhisattvena mahāsattvena pañcākāraṃ
+dānaṃ bhāvayitavyam| pratijñādānaṃ āmiṣābhayapratipattidānaṃdharmapratipattidānaṃ
+dānaṃ mahādānaṃ ca||rūpe subhūte śīlapāramitāyāṃ prayuktena bodhisattvena mahāsattvena pañcākāraṃ
+śīlaṃ bhāvayitavyam| samādānasāṃketikaśīlaṃ dhyānasaṃvaraśīlam anāsravasaṃvaraśīlaṃ
+śīlaṃ mahāśīlaṃ ca||(33)vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte śīlapāramitāyāṃ
+prayuktena bodhisattvena mahāsattvena pañcākāraṃ śīlaṃ bhāvayitavyam| samādānasāṃketikaśīlaṃ
+dhyānasaṃvaraśīlam anāsravasaṃvaraśīlaṃ śīlaṃ mahāśīlaṃ ca||rūpe subhūte kṣāntipāramitāyāṃ
+prayuktena bodhisattvenamahāsattvena pañcākārā kṣāntir bhāvayitavyā| sattvāpakāramarṣaṇā
+kṣāntir duḥkhādhivāsanakṣāntir dharmanidhyānakṣāntiḥ kṣāntir mahākṣāntiś ca||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte kṣāntipāramitāyāṃ prayuktena bodhisattvena mahāsattvena
+pañcākārā kṣāntir bhāvayitavyā| sattvāpakāramarṣaṇā kṣāntir duḥkhādhivāsanakṣāntir dharmanidhyānakṣāntiḥ
+kṣāntir mahākṣāntiś ca||rūpe subhūte vīryapāramitāyāṃ prayuktena bodhisattvena
+mahāsattvena pañcākāraṃ vīryaṃ bhāvayitavyam| uddeśasvādhyāyacittavīryaṃ sarvadoṣaparivarjanavīryaṃ
+sarvaguṇaparigrahavīryaṃ vīryaṃ mahāvīryaṃ ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu
+vijñāne subhūte(34)vīryapāramitāyāṃ prayuktena bodhisattvena mahāsattvena pañcākāraṃ
+vīryaṃ bhāvayitavyam| uddeśasvādhyāyacittavīryaṃ sarvadoṣaparivarjanavīryaṃ sarvaguṇaparigrahavīryaṃ
+vīryaṃ mahāvīryaṃ ca||rūpe subhūte dhyānapāramitāyāṃ prayuktena bodhisattvena mahāsattvena
+pañcākāraṃ dhyānaṃ bhāvayitavyam| vyañjanasāpekṣakuśaladhyānaṃ vyañjananirapekṣādiviśuddhalaukikakuśaladhyānaṃ
+lokottarakuśaladhyānaṃ dhyānaṃ mahādhyānaṃ ca||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte dhyānapāramitāyāṃ prayuktena bodhisattvena mahāsattvena
+pañcākāraṃ dhyānaṃ bhāvayitavyam| vyañjanasāpekṣa kuśaladhyānaṃ vyañjananirapekṣādiviśuddhalaukikakuśaladhyānaṃ
+lokottarakuśaladhyānaṃ dhyānaṃ mahādhyānaṃ ca||rūpe subhūte prajñāpāramitāyāṃ
+prayuktena bodhisattvena mahāsattvena pañcākārā prajñā bhāvayitavyā| vyañjanasāpekṣakuśaladhyānāśritā
+prajñā vyañjananirapekṣādiviśuddhalaukikadhyānāśritā prajñā lokottaradhyānāśritā
+prajñā prajñā mahāprajñā ca||(35)vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte
+prajñāpāramitāyāṃ prayuktena bodhisattvena mahāsattvena pañcākārā prajñā bhāvayitavyā|
+vyañjanasāpekṣakuśaladhyānāśritā prajñā vyañjananirapekṣādiviśuddhalaukikadhyānāśritā prajñā
+lokottaradhyānāśritā prajñā prajñā mahāprajñā ca||rūpe subhūte kalyāṇamitrasevāprayuktena
+bodhisattvena mahāsattvena pañcākārayā kalyāṇamitrasevayā kalyāṇamitraṃ sevitavyam|
+śravaṇasevayopasthānaparicaryāśikṣānuvidhānasevayā pratipattyārādhanasevayā sevayā mahāsevayā
+ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte kalyāṇamitrasevāprayuktena bodhisattvena
+mahāsattvena pañcākārayākalyāṇamitrasevayā kalyāṇamitraṃ sevitavyam| śravaṇasevayopasthānaparicaryāśikṣānuvidhānasevayā
+pratipattyārādhanasevayā sevayā mahāsevayā ca||evaṃ kalyāṇamitraṃ
+sevamāno bodhisattvo mahāsattvo vimokṣopāyaṃ ca parigṛhṇāti| bahu ca puṇyaṃ prasūyate|
+kṣipram anuttarāyai samyaksaṃbodhaye niryāti||(36)rūpe subhūte tathāgatapūjāprayuktena
+bodhisattvena mahāsattvena pañcākārayā tathāgatapūjayā tathāgataḥ pūjayitavyaḥ| vicitrastotropahārapūjayā
+lābhasatkāropasaṃhārapūjayā pratipattyārādhanapūjayā pūjayā mahāpūjayā
+ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte tathāgatapūjāprayuktena bodhisattvena
+mahāsattvena pañcākārayā tathāgatapūjayā tathāgataḥ pūjayitavyaḥ| vicitrastotropahārapūjayālābhasatkāropasaṃhārapūjayā
+pratipattyārādhanapūjayā pūjayā mahāpūjayā ca||evaṃ tathāgatapūjāyāṃ
+prayuktasya bodhisattvasya mahāsattvasyānantāparyanteṣu daśasu dikṣu lokadhātuṣu
+buddhabodhisattvā varṇaṃ bhāṣante| sadevamānuṣāsurāc ca lokāl lābhasatkāraṃ pratilabhate|
+apramāṇāṃś ca sattvān paripācayati| buddhakṣetraṃ ca pariśodhayati| kṣipraṃ cānuttarāṃ samyaksaṃbodhim
+abhisaṃbudhyate||rūpe subhūte dānapāramitāyāṃ prayukto bodhisattvo mahāsattvaḥ
+sanimittaṃ dānaṃ bhāvayan na kṣipraṃ dānapāramitāṃ paripūrayati| animittaṃ tu dānaṃ bhāvayan
+kṣipraṃ dānapāramitāṃ paripūrayati| kathaṃ ca subhūte(37)bodhisattvo rūpe sanimittaṃ
+dānaṃ bhāvayaty animittaṃ vā| sacet subhūte bodhisattvo rūpe dānam adhimucyamāno'dhimokṣyadānaṃ
+vopalabhate'dhimokṣadānaṃ vā sanimittaṃ bodhisattvo rūpe dānaṃ bhāvayatīti veditavyam|
+rūpe subhūte bodhisattvo dānam adhimucyamāno nādhimokṣyadānam upalabhate nādhimokṣadānaṃ
+vā yad uta rūpasvabhāvānupalambhena tathābhāvānupalambhena prakṛtyanupalambhena rūpe'nimittaṃ
+bodhisattvo dānaṃ bhāvayatītiveditavyam||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte
+dānapāramitāyāṃ prayukto bodhisattvaḥ sanimittaṃ dānaṃ bhāvayanna kṣipraṃ dānapāramitāṃ
+paripūrayati| animittaṃ tu dānaṃ bhāvayan kṣipraṃ dānapāramitāṃ paripūrayati| kathaṃ ca
+subhūte bodhisattvo vijñāne sanimittaṃ dānaṃ bhāvayaty animittaṃ vā| sacet subhūte bodhisattvovijñāne
+dānam adhimucyamāno'dhimokṣyadānaṃ vopalabhate'dhimokṣadānaṃ vā sanimittaṃ dānaṃ
+bodhisattvo vijñāne bhāvayatīti veditavyam| vijñāne subhūte bodhisattvo dānam adhimucyamāno
+nādhimokṣyadānam upalabhate nādhimokṣadānaṃ vā yad uta vijñānasvabhāvānupalambhena tathābhāvānupalambhena
+prakṛtyanupalambhena vijñāne'nimittaṃ bodhisattvo dānaṃ bhāvayatīti
+veditavyam||(38)evaṃ śīle kṣāntau vīrye dhyāne prajñāyāṃ ca peyālaṃ kartavyam||rūpe subhūte
+bodhisattvena śūnyatāsamādhiḥ parijñeyaḥ| katamaś ca subhūte rūpe śūnyatāsamādhiḥ| yā subhūte
+rūpe'bhāva śūnyatāṃ tathābhāvaśūnyatāṃ prakṛtiśūnyatāṃ cālambanīkṛtya cittasyaikāgratāyaṃ
+rūpe śūnyatāsamādhiḥ| evaṃ ca bodhisattvena rūpe śūnyatāsamādhiḥ parijñeyaḥ||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenaśūnyatāsamādhiḥ parijñeyaḥ| katamaś ca
+subhūte vijñāneśūnyatāsamādhiḥ| yā subhūte vijñāne'bhāvaśūnyatāṃ tathābhāvaśūnyatāṃ prakṛtiśūnyatāṃ
+cālambanīkṛtyacittasyaikāgratāyaṃ vijñāne śūnyatāsamādhiḥ| evaṃ ca bodhisattvenavijñāne
+śūnyatāsamādhiḥ parijñeyaḥ||rūpe subhūte bodhisattvenānimittaḥ samādhiḥ parijñeyaḥ|
+katamaś ca subhūte rūpe'nimittasamādhiḥ| yā subhūte bodhisattvasya rūpe'bhāvaśūnyatāṃ
+tathābhāvaśūnyatāṃ prakṛtiśūnyatām evaṃ ca manasikurvato nirud-(39)dhe nimitte'bhāvanimittānusārivijñānavirahitā
+tathābhāvanimittānusārivijñānavirahitā bhāvābhāvanimittānusārivijñānavirahitā
+cittasyaikāgratāyaṃ subhūte rūpe'nimittaḥ samādhiḥ| evaṃ ca bodhisattvena rūpe'nimittaḥ
+samādhiḥ parijñeyaḥ||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenānimittaḥ
+samādhiḥ parijñeyaḥ| katamaś casubhūte vijñāne'nimittaḥ samadhiḥ| yā subhūte bodhisattvasya
+vijñāne'bhāvaśūnyatāṃ tathābhāvaśūnyatāṃ prakṛtiśūnyatāmevaṃ ca manasikurvato niruddhe
+nimitte'bhāvanimittānusārivijñānavirahitā tathābhāvanimittānusārivijñānavirahitā bhāvābhāvanimittānusārivijñānavirahitā
+cittasyaikāgratāyaṃsubhūte vijñāne'nimittaḥ samādhiḥ|
+evaṃ ca bodhisattvena vijñāne'nimittaḥ samādhiḥ parijñeyaḥ||rūpe subhūte bodhisattvenāpraṇihitaḥ
+samādhiḥ parijñeyaḥ| katamaś ca subhūte rūpe'praṇihitaḥ samādhiḥ| yā subhūte rūpe
+śūnyatānimittasamādhilābhino rūpe'bhāva-(40)nimittapratikūlālambanā tathābhāvanimittapratikūlālambanā
+bhāvābhāvanimittapratikūlālambanā cittasyaikāgratāyaṃ subhūte rūpe'praṇihitasamādhiḥ|
+evaṃ ca bodhisattvena rūpe'praṇihitaḥ samādhiḥ parijñeyaḥ||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu
+vijñāne subhūte bodhisattvenāpraṇihitasamādhiḥ parijñeyaḥ| katamaś ca subhūte vijñāne'praṇihitasamādhiḥ|
+yā subhūte vijñāne śūnyatānimittasamādhilābhino vijñāne'bhāvanimittapratikūlālambanātathābhāvanimittapratikūlālambanā
+bhāvābhāvanimittapratikūlālambanācittasyaikāgratāyaṃ
+subhūte vijñāne'praṇihitasamādhiḥ| evaṃ ca bodhisattvena vijñāne'praṇihitasamādhiḥ
+parijñeyaḥ||(41)rūpe subhūte bodhisattvena tribhir arthair anityatā parijñeyā| asadarthena
+vināśārthena samalāmalārthena ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte
+bodhisattvenatribhir arthair anityatā parijñeyā| asadarthena vināśārthena samalāmalārthena
+ca||rūpe subhūte bodhisattvena tribhir arthair duḥkhatā parijñeyā| abhiniveśārthena trividhalakṣaṇārthena
+sambandhārthena ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenatribhir
+arthair duḥkhatā parijñeyā| abhiniveśārthena trividhalakṣaṇārthena sambandhārthena
+ca||rūpe subhūte bodhisattvena tribhir arthair anātmatā parijñeyā| abhāvānātmārthena
+tathābhāvānātmārthena prakṛtyanātmārthena ca||vedanāyāṃ saṃjñāyāṃ saṃskāreṣu vijñāne subhūte
+bodhi-(42)sattvena tribhir arthair anātmatā parijñeyā| abhāvānātmārthena tathābhāvānātmārthena
+prakṛtyanātmārthena ca||rūpe subhūte bodhisattvena tribhir arthair nirvāṇaśāntatāparijñeyā|
+abhāvātyantaśāntyarthena tathābhāvaśāntyarthenaprakṛtiviśuddhiśāntyarthena ca||vedanāyāṃ
+saṃjñāyāṃ saṃskāreṣu vijñāne subhūte bodhisattvenatribhir arthair nirvāṇaśāntatā
+parijñeyā| abhāvātyantaśāntyarthenatathābhāvaśāntyarthena prakṛtiviśuddhiśāntyarthena ca||idam
+avocad bhagavān āttamanāḥ sthavirasubhūtis tāś ca bhikṣubhikṣuṇyupāsakopāsikāḥ sadevamānuṣāsuragandharvaś
+ca loko bhagavato bhāṣitam abhyanandann iti||āryabhagavatī prajñāpāramitā
+svabhāvapraveśikā pañcaśatikāsamāptā||(43)

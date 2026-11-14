@@ -1,0 +1,57 @@
+---
+title: "Bauddha Stotra Saṃgraha"
+bdrc_id: P333EE6AA
+script: iast
+original_collection: DSBC
+editor: "Pandey, Janardan Shastri"
+publisher: "Motilal Banarsidass"
+year: "1994"
+source_repository: "https://github.com/Openpecha-Data/P333EE6AA"
+---
+# Bauddha Stotra Saṃgraha
+
+vajradevīstotramācāryanāgārjunaviracitamom namaḥ śrīyoginīdevyaiḍākī yā sarvabuddhā sakalabhayaharā
+vyāpinī viśvamātāekāsyā raktavarṇā trinayanamuditā khecarī śreṣṭhaśobhā |prajvālī
+divyadehā gagaṇakṛtapadā dvibhujā muktakeśākhaṭvāṅgaṃ vāmapāṇau dahinakaratikādhāriṇī svargarupā
+
+nagnāṅgā grīvamālyā naraśirasahitā bhūṣaṇaṃ pañcamudrāsattvānāṃ mārgamokṣā'nuttaravaradā jñānasiddhipradātā
+(trī) |śrīdevī prāṇirakṣākṛtajagatahitā yoginī vajradīpti-stvatpādau padmarūpau
+praṇamitaśirasā naumi vidyādharīśe
+
+bhagavatī mahādevī bhavatyāḥ śaraṇaṃ vajre |vande pādāmbuje nityaṃ bhajāmi tvāṃ prasīda me
+
+jananī sarvabuddhānāṃ tvameva bodhidāyinī |sarveṣāṃ bodhisattvānāṃ mātā hitānupālinī
+
+sarvahitārthasaṃbhartrī sarvapāpaviśodhinī |duṣṭamāragaṇān kṣobhya mahānandasukhapradā
+
+saddharmasādhanotsāhe balavīryaguṇapradā |niḥkleśastimitadhyānasamādhisukhadāyinī
+
+prajñāguṇamahāratnaśrīsamṛddhipradāyinī |bhagavatyāḥ padāmbhoje śaraṇastho bhajāmyaham
+
+namāmi vajravārāhīṃ sarvapāpapramocanīm |māravidhvaṃsinīṃ devīṃ buddhatvaphaladāyinīm
+
+naumi śrīvajravārāhīṃ mantramūrtiṃ jineśvarīm |atyantavaradāṃ devīṃ ṛddhisiddhivarapradām
+
+vairocanakulodbhūtāṃ muktakeśīṃ trilocanām |sandhyāsindūravarṇābhāṃ vande tvāṃ kuliśeśvarīm
+
+pañcamudraśiraḥśobhāṃ skandhe khaṭvāṅgadhāriṇīm |kare vajrakaroṭasthāṃ vande vajravilāsinīm
+
+mudrāpañcadharāṃ dehe muṇḍamālāvibhūṣitām |līlāhāsyamukhāmbhojāṃ vande trailokyasundarīm
+
+bhairavādyāṃ trimukhīṃ ca vikrāntikaṇṭhacarcikām |vidveṣaghanaghorāṃ ca vande bhīmabhayaṅkarīm
+
+rāgavirāgayormadhye bhāvābhāvavikhaṇḍitām |samudbhūtāṃ sadā devīṃ vande tāṃ jñānaḍākinīm
+
+pañcāmṛtasurāpānapañcaśālisubhojinīm |gītavādyaratāṃ nityaṃ vande tvāṃ suravanditām
+
+sadaiva sahajānandāṃ nityabhūtāṃ sarvālayām |raṇaccaraṇanūpuryāṃ vande nṛtyaparāyaṇām
+
+tvāṃ devīṃ siddhidātrīṃ ca yogācārasadāratām |buddhanirvāṇadātrīṃ tvāṃ vande buddhasya mātaram
+
+raktāṅgīṃ vajravārāhīṃ divyarūpasvarūpiṇīm |krāntimūrtidayādevīṃ namāmi vajrayoginīm
+
+bandhūkapuṣpasaṅkāśāṃ śāntarūpāṃ jineśvarīm |ṛddhisiddhipradāṃ devīṃ namāmi vajrayoginīm
+
+dvādaśavarṣasampannāṃ navanṛtyasvarūpiṇīm |trailokyavyāpinīṃ devīṃ namāmi vajrayoginīm
+
+śrīnāgārjunapādācāryaviracitaṃvajradevīstotraṃ samāptam |

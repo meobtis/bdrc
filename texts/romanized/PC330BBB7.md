@@ -1,0 +1,140 @@
+---
+title: "Bauddha Stotra Saṃgraha"
+bdrc_id: PC330BBB7
+script: iast
+original_collection: DSBC
+editor: "Pandey, Janardan Shastri"
+publisher: "Motilal Banarsidass"
+year: "1994"
+source_repository: "https://github.com/Openpecha-Data/PC330BBB7"
+---
+# Bauddha Stotra Saṃgraha
+
+daśabhūmīśvaro nāma mahāyānasūtraratnarājastotramśamadamaniratānāṃ śāntadāntāśayānāṃkhagapathasadṛśānāmantarīkṣasamānām|khilamalavidhutanāṃ
+mārgajñānasthitānāṃśṛṇuta varaviśeṣaṃ bodhisattvāṃśca
+śreṣṭhān
+
+kuśalasatasahasraṃ saṃcitaṃ kalpakoṭayāsubuddhaśatasahasraṃ pūjayitvā gṛhītam|pratyekajinavarānvai
+pūjayitvā tvanantānsakalajagahitāya jāyate bodhicittam
+
+uta tapatapitānāṃ kṣāntipāraṃgatānāṃhṛtaśritacaritānāṃ puṇyajñānodgatānām|vipulagatimatīnāṃ
+puṇyajñānāśayānāṃdaśabalasamatulyaṃ jāyate bodhicittam
+
+pramuditasumatīnāṃ dānadharme ratānāṃsakalajagahitārthaṃ nityamevodyatānām|jinaguṇaniratānāṃ
+sattvarakṣāvratānāṃtribhuvanahitakartṛ jāyate bodhicittam
+
+akuśalaviratānāṃ śuddhamārge sthitānāṃvrataniyamaratānāṃ śāntasaumyendriyāṇām|jinaśaraṇagatānāṃ
+bodhicaryāśayānāṃtribhuvanahitasādhyaṃ jāyate bodhicittam
+
+anugatakuśalānāṃ kṣāntisvārasyabhājāṃviditaguṇarasānāṃ tyaktamānotsavānām|nihitaśubhamatīnāṃ
+dānasaumyāśayānāṃsakalahitavidhānaṃ jāyate bodhicittam
+
+pracalati śubhakārye dhīravīryāḥ sahāyānikhilajanahitārthaṃ prodyate mānasiṃhaḥ|avirataguṇasādhyā
+nirjitakleśasaṃdhājhaṭiti manasi teṣāṃ jāyate bodhicittam
+
+susamavahitacittā dhvastamohāndhakārāvigalitamadamānā tyaktasaṃkliṣṭamārgāḥ|samasukhaniratā
+ye tyaktasaṃsārasaṃgājhaṭiti manasi teṣāṃ jāyate bodhicittam
+
+vimalakhasamacittā jñānavijñānavijñānihatanamucimārā vāntakleśābhimānāḥ|jinapadaśaraṇasthā labdhatattvārthakāyesapadi
+manasi teṣāṃ jāyate bodhicittam
+
+tribhuvanaśivasādhyopāyavijñānadhīrāḥkaribalaparihāropāyavidṛddhimantaḥ|sugataguṇasamīhā ye
+ca puṇyānurāgāsapadi manasi teṣāṃ jāyate bodhicittam
+
+tribhuvanahitakāmā bodhisaṃbhārapūrtyaipraṇihitamanasā ye duṣkare'pi caranti|avirataśubhakarma
+prodyatāṃ bodhisattvāḥsapadi manasi teṣāṃ jāyate bodhicittam
+
+daśabalaguṇakāmā bodhicaryānuraktāvijitakaribalaughāstyaktamānānuṣaṅgāḥ|anugataśubhamārgā labdhadharmārthakāmājhaṭiti
+manasi teṣāṃ jāyate bodhicittam
+
+iti gaṇitaguṇāṃśā bodhicaryāścarantujinapadapraṇidhānā satsamṛddhiṃ labhantu|tribhuvanapariśuddhā
+bodhicittaṃ labhantutriśaraṇapariśuddhā bodhisattvā bhavantu
+
+daśapāramitāḥ pūrya daśabhūmīśvaro bhavet|bhūyo'pi kathyate hyetacchṛṇutaivaṃ samāsataḥ
+
+bodhicittaṃ yadāsādya saṃpradānaṃ karoti yaḥ|tadā pramuditāṃ prāpto jambūdvīpeśvaro bhavet
+
+tatrasthaḥ pālayet sattvān yathecchapratipādanaiḥ|svayaṃ dāne pratiṣṭhitvā parāṃścāpi niyojayet
+
+sarvān bodhau pratiṣṭhāpya saṃpūrṇadānapāragaḥ|etatkarmānubhāvena saṃvaraṃ samupācaret
+
+sampacchīlaṃ samādhāya saṃvaraṃ kuśalī bhavet|tataḥ sa vimalāṃ prāptaścāturdvīpeśvaro bhavet
+
+tatrasthaḥ pālayet sattvānakuśalaṃ nivārayet|svayaṃ śīle pratiṣṭhitvā parāṃścāpi niyojayet
+
+sarvān bodhau pratiṣṭhāpya sampūrṇakuśalī bhavet|etaddharmavipākena kṣāntivratamupāśrayet
+
+samyak kṣāntivrataṃ dhṛtvā kṣāntibhṛt kuśalī bhavet|tataḥ prābhākarīṃ prāptastrayastriṃśādhipo
+bhavet
+
+tatrasthaḥ pālayet satvān kleśamārganivāraṇaiḥ|svayaṃ kṣāntivrate sthitvā parāṃścāpi niyojayet
+
+sattvān bodhau pratiṣṭhāpya śāntipāraṃgato bhavet|etatpuṇyavipākena vīryabalamupāśrayet
+
+samyag vīryaṃ samādhāya vīryabhṛtkuśalī bhavet|tataścārciṣmatīṃ prāpya sudhāmādhipatirbhavet
+
+tatrasthaḥ pālayan sarvān kudṛṣṭīḥ saṃnivārayet|samyagdṛṣṭau pratiṣṭhāya bodhayitvā prayatnataḥ
+
+svayaṃ dhyānavrate sthitvā parāṃścāpi niyojayet|sarvān bodhau pratiṣṭhāpya dhyānapāraṃgato bhavet
+
+etatpuṇyavipākena dhyānapāraṃ samārabhet|sarvakleśān vinirjitya samādhisusthito bhavet
+
+samyagdhyānaṃ samādhāya samādhikuśalī bhavet|tataḥ sudurjayāṃ prāptaḥ sa tuṣitādhipo bhavet
+
+tatrasthaḥ pālayetsattvāṃstīrthyamārganivāraṇaiḥ|sattvadharmaṃ pratiṣṭhāpya bodhayitvā prayatnataḥ
+
+svayaṃ dhyānavrate sthitvā parāṃścāpi niyojayet|sarvān bodhau pratiṣṭhāpya dhyānapāraṃgato bhavet
+
+etatpuṇyavipākena prajñāvratamupāśrayet|sarvānmārān vinirjitya prajñābhijñāsamṛddhimān
+
+samyak prajñāṃ samādhāya svābhijñākuśalī bhavet|tataścābhimukhīṃ prāptaḥ sunirmitādhipo bhavet
+
+tatrasthaḥ pālayet sattvānabhimānanivāraṇaiḥ|śūnyatāṃ supratiṣṭhāpya bodhayitvā prayatnataḥ
+
+svayaṃ prajñāvrate sthitvā parāṃścāpi niyojayet|sarvān bodhau pratiṣṭhāpya prajñāpāraṃgato bhavet
+
+etatpuṇyavipākaiśca samupāyavrataṃ caret|sarvaduṣṭān vinirjitya saddharmakuśalī sudhīḥ
+
+samupāyavidhānena sattvān bodhau niyojayet|tato dūraṅgamāṃ prāpto vaśavartīśvaro bhavet
+
+tatrasthaḥ pālayetsattvānabhisamayabodhanaiḥ|bodhisattvaniyāmeṣu pratiṣṭhāya prabodhayet
+
+tatropāye svayaṃ sthitvā parāṃścāpi niyojayet|sarvān bodhau pratiṣṭhāpya upāyapārago bhavet
+
+etatpuṇyānubhāvaśca supraṇidhīnupāśrayet|mithyādṛṣṭiṃ vinirjitya samyagdṛṣṭiḥ kṛto budhaiḥ
+
+supratiṣṭhitacittena samyagbodhau pratiṣṭhitaḥ|tataścāpyacalāṃ prāpto buddhayā sāhasrikādhipaḥ
+
+tatrasthaḥ pālayetsattvān tripānaṃ saṃpibet śanaiḥ|lokadhātau parijñāne pratiṣṭhāpya prabodhayet
+
+supraṇidhau svayaṃ sthitvā parāṃścāpi niyojayen|sarvān bodhau pratiṣṭhāpya prāṇiṣu pārago bhavet
+
+etatpuṇyānusāraiśca balavratamupāśrayet|sarvaduṣṭān vinirjitya sambodhikṛtaniścayaḥ
+
+samyagyatnasamutsāhaiḥ sarvatīrthyān vinirjayet|tataḥ sādhumatīṃ prāpto mahābrahmā bhavet kṛtī
+
+tatrasthaḥ pālayan sattvān buddhayānopadeśanaiḥ|sattvāsamaparijñāne samyagbodhau prabodhayet
+
+svayaṃ bale pratiṣṭhitvā parāṃścāpi niyojayet|sarvān bodhau pratiṣṭhāpya balapāraṃgato bhavet
+
+etatpuṇyavipākaiśca jñānavratamupāśrayet|caturmārān vinirjitya bodhisattvaguṇākaraḥ
+
+samyagjñānaṃ samādhāya saddharmakuśalo bhavet|dharmameghāṃ tataḥ prāpto maheśvaro bhavet kṛtī
+
+tatrasthaḥ pālayan sarvān sarvākārānubodhanaiḥ|sarvākāravare jñāne pratiṣṭhāpya prabodhayet
+
+svayaṃ jñāne pratiṣṭhitvā parāṃścāpi niyojayet|sarvān bodhau pratiṣṭhāpya jñānapāraṃgato bhavet
+
+etatpuṇyānubhāvaiśca daśabhūmīśvaro jinaḥ|sarvākāraguṇādhāraḥ sarvajño dharmalābhavit
+
+iti matvā bhuvabhiśca sambuddhapadalabdhaye|daśapāramitārūpe caritavyaṃ samāhitaiḥ
+
+tathā bodhiṃ śivāṃ prāpya caturmārān vinirjayet|sarvān bodhau pratiṣṭhāpya nirvṛtiṃ samavāpsyatha
+
+etajjñātvā paricchāyāṃ caradhvaṃ bodhiśāsane|nirvidhnaṃ bodhimāsādya labhadhvaṃ saugataṃ padam
+
+etāstā khalvāha jinaputro daśabodhisattvabhūmayaḥ samāsato nirdiṣṭāḥ sarvākāravaropetāḥ sarvajñānānugatā
+draṣṭavyāḥ| tasyāṃ velāyāmayaṃ trisāhasralokadhātuṣaḍvikāraṃ prākampata vividhāni
+ca puṇyāni viyatto nyapatan| divyamānuṣakāṇi ca bhūtāni saṃpravāditānyabhūvan, anumodanāṃśagena
+ca yāvadakaniṣṭhabhuvanaṃ vijñaptamabhūt||śrībodhisattvacaryāprasthānād daśabhūmīśvaro
+nāmamahāyānasūtraratnarājastotraṃ samāptam|

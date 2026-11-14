@@ -1,0 +1,70 @@
+---
+title: "Tattvaratnāvalokaḥ"
+bdrc_id: PF9D94CA8
+script: iast
+original_collection: DSBC
+editor: "Pandey, Janardan"
+publisher: "Central Institute of Higher Tibetan Studies"
+year: "1997"
+source_repository: "https://github.com/Openpecha-Data/PF9D94CA8"
+---
+# Tattvaratnāvalokaḥ
+
+tattvaratnāvalokaḥom namaḥ śrīsadgurupādebhyaḥ|anupamasukharūpī śrīnivāso'nivāsonirupamadaśadevīrūpavidyaḥ
+savidyaḥ|tribhuvanahitasaukhyaprāptikāro'vikārojayati kamalapāṇiryāvadāśāvikāsāḥ
+
+śrīmantranītigatacārucaturthaseka-rūpaṃ vidanti nahi ye sphuṭaśabdaśūnyam|nānopadeśagaṇasaṃkulasaptabhedai-steṣāṃ
+sphuṭāvagataye kriyate prayatnaḥ
+
+saṃbhrāntabodhā nikhilā hi tīrthyā-stattvasya sādhyasya ca rūpavittau|tebhyaḥ prakṛṣṭaḥ kila
+tattvavettāvedāntavādīti [jana] pravādaḥ
+
+ānandarūpaṃ svavidaprakampyaṃvedāntinaḥ sādhyamuṣanti sāntam|saśrāvakākhaḍgajināśca sādhya-micchanti
+rūpādyupadhervirāmam
+
+ākāraśūnyaṃ gaganendurūpaṃpratyātmavedyaṃ karuṇārasaṃ ca|sallakṣaṇairbhūṣitamarthakāridānādiniṣyandamapetasaukhyam
+
+sānandasallakṣaṇamaṇḍitāṅgaṃsaṃbhujyamānaṃ daśabhūmisaṃsthaiḥ|sattvārthakāri pravadanti sādhyaṃdānadiṣaṭpāramitānayasthā
+
+saṃpūrya dānādiguṇānaśeṣānsaṃbuddhya kṛtyaṃ sakalaṃ ca kṛtvā|yabhdūtakoṭeḥ karaṇaṃ ca sākṣātsādhyaṃ
+tadapyasti nirodharūpam
+
+svābhāṅgaṇā(nā)śleṣi tadarthakāriduḥkhaiḥ sukhaiścaiva vimuktirūpam|aśītyanuvyañjanabhūṣitāṅga-mapetakalpaṃ
+pravadanti sādhyam
+
+svadevatākāraviśeṣaśūnyaṃprāgeva saṃbhāvya sukhaṃ sphuṭaṃ sat|mahāsukhākhyaṃ jagadarthakāricintāmaṇiprakhyamuvāca
+kaścit
+
+kṛtvā sākṣāt svādhipaṃ sātarūpaṃpaścāt tyaktvā sātamātraṃ phalaṃ syāt|śuddhaṃ sākṣācchakyate
+naiva kartuṃtenākāro bhāvitaḥ svādhipasya
+
+gagaṇasamaśarīraṃ lakṣaṇairbhūṣitāṅgaṃnirupamasukhapūrṇaṃ svābhayā saṃgataṃ ca|sphuradamitamunīndraḥ
+sarvasattvārthakāripravadati punaranyaḥ sādhyamucchedaśūnyam
+
+kṛtvā sākṣāt svādhipaṃ sātarūpaṃbhāvopekṣājñānamātraṃ phalaṃ syāt|āsaṃsārasthāyi sattvārthakāricintāratnaprakhyamekāntaśāntam
+
+kṛtvā sākṣānmaṇḍalaṃ sātarūpaṃpaścāttasya svecchayā nirvṛtiṃ ca|sattvārthasyāpyastyabhāvo na
+vāsminprādurbhāvo nirvṛtādasti yasmāt
+
+kṛtvā sphuṭaṃ rūpamabhīṣṭameṣāṃpaścānnirodhaṃ phalamāha kaścit|abhinnarūpaśca yato nirodhona
+pakṣabhede'pi tato'sti bhedaḥ
+
+prajñājñānāduttaraṃ bodhicittā-svādasturyaṃ seṣa(ka)māhāvaraṃ tat|yasmāt sarvo bhāvanāsu prayāsovyarthaḥ
+prāptastatphalasya prasiddheḥ
+
+prajñājñānāduttaraṃ prāptarāmā-svādasturyaṃ sekamāhādhamaṃ tat|yasmāt sarvo bhāvanādau prayatnobuddhoddiṣṭo
+niṣphalaḥ saṃprasaktaḥ
+
+dambholibījaśrutidhautaśuddha-pāthojña(ja)bhūtāṅkurabhūtapuṣṭi|turīyaśasyaṃ paripākameta(ti)sphuṭaṃ
+caturthaṃ viduṣo'pi gūḍham
+
+pañcapradīpāmṛtabinducandra-bhrūmadhyabindudbhavamaṇḍalāni|vāyoḥ svarūpaṃ galaśuṇḍikādya-matattvarūpaṃ
+svayamūhanīyam
+
+svapnendrajālapratibimbamāyā-marīcigandharvapurāmbucandraiḥ|anyaiśca sarvairupamābhidheyai-rnaivā'sti
+sādhyaṃ kathitādihānyat
+
+gambhīraśūnyapratibhāsamātra-śāntātisūkṣmānabhilāpyaśabdaiḥ|nirlepanī[rū]panirañjanādyai-rbhrāntirna
+kāryā'parasādhyasattve
+
+||tattvaratnāvalokaḥ samāptaḥ||kṛtiriyaṃ paṇḍitavāgīśvarakīrtipādānām||

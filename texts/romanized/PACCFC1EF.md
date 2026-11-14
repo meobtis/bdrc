@@ -1,0 +1,434 @@
+---
+title: "Mahāyāna-sūtra-saṃgrahaḥ ( part 1)"
+bdrc_id: PACCFC1EF
+script: iast
+original_collection: DSBC
+editor: "Vaidya, P.L"
+publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sanskrit"
+year: "1961"
+source_repository: "https://github.com/Openpecha-Data/PACCFC1EF"
+---
+# Mahāyāna-sūtra-saṃgrahaḥ ( part 1)
+
+dharmasaṃgrahaḥdharmasaṃgrahaḥ||| namo ratnatrayāya||ratnatrayaṃ namaskṛtya sarvasattvahitodayam|kathyate
+mohanāśāya dharmasārasamuccayaḥ||
+
+tatra prathamaṃ tāvat trīṇi ratnāni| tathadyā- buddho dharmaḥ saṃghaśceti||
+
+trīṇi yānāni| [tadyathā-] śrāvakayānam, pratyekabuddhayānam, mahāyānaṃ ceti||
+
+pañca buddhāḥ| tadyathā-vairocanaḥ, akṣobhyaḥ, ratnasaṃbhavaḥ, amitābhaḥ, amoghasiddhiśceti||
+
+catasro devyaḥ| tadyathā- rocanī, māmakī, pāṇḍurā, tārā ceti||
+
+pañca rakṣā| tadyathā- pratisarā, sāhasrapramardanī, mārīcī, mantrānusāriṇī, śīlavatī ceti||
+
+sapta tathāgatāḥ| tadyathā-vipaśyī, śikhī, viśvabhūḥ, krakucchandaḥ, kanakamuniḥ, kāśyapaḥ,
+śākyamuniśceti||
+
+catvāro lokapālāḥ| tadyathā-dhṛtarāṣṭraḥ, virūpākṣaḥ, virūḍhakaḥ, kuberaśceti||
+
+aṣṭau lokapālāḥ| tadyathā-indraḥ, yamaḥ, varaṇaḥ, kuberaḥ, īśānaḥ, agniḥ, nairṛtaḥ, vāyuriti||
+
+daśa lokapālāḥ| aṣṭalokapālādhikamūrdhvaṃ brahmā adhaḥ kṛṣṇaḥ||
+
+caturdaśa lokapālāḥ| tadyathā-daśalokapālasakalam, candraḥ, sūryaḥ, pṛthvī, asuraḥ||
+
+daśa krodhāḥ| tadyathā-yamāntakaḥ, prajñāntakaḥ, padmāntakaḥ, vighnāntakaḥ, acaraṭarkirājaḥ,
+nīladaṇḍaḥ, mahābalaḥ, uṣṇīṣaḥ, cakravartī, sambharājaśceti||
+
+aṣṭau bodhisattvāḥ| tadyathā-maitreyaḥ, gaganagañjaḥ, samantabhadraḥ, vajrapāṇiḥ, mañjuśrīḥ,
+sarvanivaraṇaviṣkambhī, kṣitigarbhaḥ, khagarbhaśceti||
+
+ṣaḍyoginyaḥ| tadyathā-vajravārāhī, yāminī, saṃcāraṇī, saṃtrāsanī, cāṇḍikā ceti||
+
+saptavidhā anuttarapūjā| tadyathā-vandanā, pūjanā, pāpadeśanā, anumodanā, adhyeṣaṇā, bodhicittotpādaḥ,
+pariṇāmanā ceti||
+
+trīṇi kuśalamūlāni| bodhicittotpādaḥ, āśayaviśuddhiḥ, ahaṃkāramamakāraparityāgaśceti||
+
+catvāro brahmavihārāḥ| maitrī, karuṇā, muditā, upekṣā ceti||
+
+ṣaṭ pāramitāḥ| dānapāramitā, śīlapāramitā, kṣāntipāramitā, vīryapāramitā, dhyānapāramitā, prajñāpāramitā
+ceti||
+
+daśa pāramitāḥ| ṣaṭpāramitāsakalam, upāyam, praṇidhiḥ, balam, jñānaṃ ceti||
+
+catvāri saṃgrahavastūnī| dānam, priyavacanam, arthacaryā, samānārthatā ceti||
+
+pañcābhijñāḥ| divyacakṣuḥ, divyaśrotram, paracittajñānam, pūrvanivāsānusmṛtiḥ, ṛddhiśceti||
+
+catvāryāryasatyāni| tadyathā-duḥkham, samudayaḥ, nirodhaḥ mārgaśceti||
+
+pañca skandhāḥ| rūpam, vedanā, saṃjñā, saṃskārā, vijñānaṃ ceti||
+
+lokottarapañcaskandhāḥ| śīlasamādhiprajñāvimuktivimuktijñānadarśanaskandhā iti||
+
+dvādaśāyatanāni| cakṣuḥśrotraghrāṇajihvākāyamanaāyatanāni rūpagandhaśabdarasasparśadharmāyatanāni
+ceti||
+
+aṣṭādaśa dhātavaḥ|| cakṣuḥśrotraghrāṇajihvākāyamanorūpagandhaśabdarasasparśadharmadhātavaḥ cakṣurvijñānaśrotravijñānaghrāṇavijñānajihvāvijñānakāyavijñānamanovijñānaghātavaśceti||
+
+tatraikādaśa rūpaskandhāḥ|| cakṣuḥ, śrotram, ghrāṇam, jihvā, kāyaḥ, rūpam, śabdaḥ, gandhaḥ,
+rasaḥ, sparśaḥ vijñaptiśceti||
+
+vedanā trividhā| sukhāḥ, duḥkhā, aduḥkhāsukhā ceti||
+
+saṃjñāskandhaḥ| nimittodgahaṇātmikā||
+
+saṃskārā dvividhāḥ| tatra cittasaṃprayuktasaṃskārāḥ, cittaviprayuktasaṃskārāśceti||
+
+cittasaṃprayuktasaṃskārāścatvāriṃśat| tadyathā-vedanā, saṃjñā, cetanā, chandaḥ, sparśaḥ, matiḥ,
+smṛtiḥ, manaskāraḥ, adhimokṣaḥ, samādhiḥ, śraddhā, apramādaḥ, prasrabdhiḥ, upekṣā, hrīḥ,
+apatrapā, alobhaḥ, adveṣaḥ, ahiṃsā, vīryam, mohaḥ, pramādaḥ, kausīdyam, aśrāddhyam, styānam,
+auddhatyam, ahrīkatā, anapatrapā, krodhaḥ, upanāhaḥ, śāṭhyam, īrṣyā, pradānaḥ, mrakṣaḥ,
+mātsaryam, māyā, madaḥ, vihiṃsā, vitarkaḥ, vicāraśceti||
+
+tatra cittaviprayuktasaṃskārāsrayodaśa| prāptiḥ, aprāptiḥ, sabhāgatā, asaṃjñikam, samāptiḥ,
+jīvitam, jātiḥ, jarā, sthitiḥ, anityatā, nāmakāyaḥ, padakāyaḥ, vyañjanakāyaśceti||
+
+trīṇyasaṃskṛtāni| tadyathā-ākāśaḥ, pratisaṃkhyānirodhaḥ, apratisaṃkhyānirodhaśceti||
+
+ṣaḍ viṣayāḥ| tadyathā-rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaḥ, dharmaśceti||
+
+tatra rūpaṃ viṣayasvabhāvam| nīlam, pītam, lohitam, avadātam, haritam, dīrgham, hrasvam, parimaṇḍalam,
+unnatam, avanatam, sātam, visātam, accham, dhūmaḥ, rajaḥ, mahikā, chāyā, ātapaḥ,
+ālokaḥ, andhakāraśceti||
+
+aṣṭāviṃśatividhaḥ śabdaḥ| sapta puruṣavākśabdāḥ, sapta puruṣahastādiśabdāḥ| eta eva (manojñā)manojñabhedenāṣṭāviṃśatiḥ||
+
+rasaḥ ṣaḍvidhaḥ| tadyathā-madhuraḥ, amlaḥ, lavaṇaḥ, kaṭuḥ, tiktaḥ, kaṣāyaśceti||
+
+catvāro gandhāḥ| tadyathā-sugandhaḥ, durgandhaḥ, samagandhaḥ, viṣamagandhaśceti||
+
+ekādaśa spraṣṭavyāni| pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ślakṣṇatvam, karkaśatvam, laghutvam, gurutvam,
+śītam, jighatsā pipāsā ceti||
+
+pañca mahābhūtāni| pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ākāśceti||
+
+pañca bhautikāni| rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaśceti||
+
+viṃśatiḥ śūnyatāḥ| tadyathā-adhyātmaśūnyatā, bahirdhāśūnyatā, adhyātmabahirdhāśūnyatā, śūnyatāśūnyatā,
+mahāśūnyatā, paramārthaśūnyatā, saṃskṛtaśūnyatā, asaṃskṛtaśūnyatā, atyantaśūnyatā,
+anavarāgraśūnyatā, anavakāraśūnyatā, prakṛtiśūnyatā, sarvadharmaśūnyatā, lakṣaṇaśūnyatā,
+alakṣaṇaśūnyatā, bhāvaśūnyatā, abhāvaśūnyatā, svabhāvaśūnyatā, abhāvasvabhāvaśūnyatā, parabhāvaśūnyatā
+ceti||
+
+dvādaśāṅgapratītyasamutpādaḥ| avidyā, saṃskārāḥ, vijñānam, nāmarūpam, ṣaḍāyatanam, sparśaḥ,
+vedanā, tṛṣṇā, upādānam, bhavaḥ, jātiḥ, jarāmaraṇam, śokaparidevaduḥkhadaurmanasyopāyāsāśceti||
+
+saptatriṃśadbodhipākṣikā dharmāḥ| catvāri smṛtyupasthānāni||4|| catvāri samyakprahāṇāni||8||
+catvāra ṛddhipādāḥ||12|| pañcendriyāṇi||17|| pañca balāni||22|| sapta bodhyaṅgāni||29|| āryāṣṭāṅgikamārgaśceti||37||
+
+tatra katamāni smṛtyupasthānāni ? tadyathā-kāye kāyānudarśasmṛtyupasthānam, vedanāyāṃ vedanānudarśasmṛtyupasthānam,
+citte cittānudarśasmṛtyupasthānam, dharme dharmānudarśasmṛtyupasthānam||
+
+katamāni catvāri samyakprahāṇāni ? tadyathā-utpannānāṃ kuśalamūlānāṃ saṃrakṣaṇam| anutpannānāṃ
+samutpādaḥ| utpannānāmakuśalānāṃ dharmāṇāṃ prahāṇam| anutpannānāṃ punaranutpādaśceti||
+
+catvāraḥ ṛddhipādāḥ| tadyathā-chandasamādhiprahāṇāya saṃskārasamanvāgata ṛddhipādaḥ| evaṃ cittaṛddhipādaḥ|
+vīryaṛddhipādaḥ| mīmāṃsāsamādhiprahāṇāya saṃskārasamanvāgataṛddhipādaśceti||
+
+pañcendriyāṇi| tadyathā- śraddhāsamādhivīryasmṛtiprajñendriyaṃ ceti||
+
+pañca balāni| śraddhāvīryasmṛtisamādhiprajñābalaṃ ceti||
+
+sapta bodhyaṅgāni| tadyathā-smṛtisaṃbodhyaṅgam, dharmavicayasaṃbodhyaṅgam, vīryasaṃbodhyaṅgam,
+prītisaṃbodhyaṅgam, prasrabdhisaṃbodhyaṅgam, samādhisaṃbodhyaṅgam, upekṣāsaṃbodhyaṅgamiti||
+
+āryāṣṭāṅgikamārgaḥ|| samyagdṛṣṭiḥ, samyaksaṃkalpaḥ, samyagvāk, samyakkarmāntaḥ, samyagvyāyāmaḥ,
+samyaksmṛtiḥ, samyaksamādhiśceti| ete saptatriṃśabdodhipākṣikā dharmāḥ||
+
+catasraḥ pratisaṃvidaḥ| tadyathā-dharmapratisaṃvit, arthapratisaṃvit, niruktipratisaṃvit, pratibhānapratisaṃvicceti||
+
+catasro dhāraṇyaḥ| tadyathā-ātmadhāraṇī, granthadhāraṇī, dharmadhāraṇī, mantradhāraṇī ceti||
+
+catvāri pratiśaraṇāni| tadyathā-arthapratiśaraṇatā na vyañjanapratiśaraṇatā| jñānapratiśaraṇatā
+na vijñānapratiśaraṇatā| nītārthapratiśaraṇatā na neyārthapratiśaraṇatā| dharmapratiśaraṇatā
+na pudgalapratiśaraṇatā ceti||
+
+ṣaḍanusmṛtayaḥ| buddhānusmṛtiḥ, dharmānusmṛtiḥ, saṃghānusmṛtiḥ, tyāgānusmṛtiḥ, śīlānusmṛtiḥ,
+devānusmṛtiśceti||
+
+catvāri dharmapadāni| tadyathā-anityāḥ sarvasaṃskārāḥ| duḥkhāḥ sarvasaṃskārāḥ| nirātmānaḥ sarvasaṃskārāḥ|
+śāntaṃ nirvāṇaṃ ceti||
+
+daśākuśalāni| tadyathā-prāṇātipātaḥ, adattādānam, kāmamithyācāraḥ, mṛṣāvādaḥ, paiśunyam, pāruṣyam,
+saṃbhinnapralāpaḥ, abhidhyā, vyāpādaḥ, mithyādṛṣṭiśceti||
+
+gatayaḥ ṣaṭ| tadyathā-narakaḥ, tiryak, pretaḥ, asuraḥ, manuṣyaḥ, devaśceti||
+
+ṣaḍ dhātavaḥ| pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ākāśaḥ, vijñānaṃ ceti||
+
+aṣṭau vimokṣāḥ| tadyathā-rūpī rūpāṇī paśyati śūnyam| ādhyātmārūpasaṃjñī bahirdhārūpāṇi paśyati
+śūnyam| ākāśānantyāyatanaṃ paśyati śūnyam| vijñānānantyāyatanaṃ paśyati śūnyam| ākiṃcanyāyatanaṃ
+paśyati śūnyam| naivasaṃjñānāsaṃjñāyatanaṃ paśyati śūnyam| saṃjñāvedayitanirodhaṃ
+paśyati śūnyaṃ ceti||
+
+pañcānantaryāṇi| tadyathā-mātṛvadhaḥ, pitṛvadhaḥ arhadvadhaḥ, tathāgataduṣṭacittarudhirotpādaḥ,
+saṃghabhedaśceti||
+
+aṣṭau lokadharmāḥ|| lābhaḥ, alābhaḥ, sukham, duḥkham, yaśaḥ, ayaśaḥ, nindā, praśaṃsā ceti||
+
+navāṅgapravacanāni| tadyathā-sūtram, geyam, vyākaraṇam, gāthā, udānam, jātakam, vaipulyam, adbhutadharmaḥ,
+upadeśaśceti||
+
+dvādaśa dhūtaguṇāḥ| paiṇḍapātikaḥ, traicīvarikaḥ, khalupaścādbhaktikaḥ, naiṣadyikaḥ, yathāsaṃstarikaḥ,
+vṛkṣamūlikaḥ, ekāsanikaḥ, ābhyavakāśikaḥ, āraṇyakaḥ, śmāśānikaḥ, pāṃśūkūlikaḥ,
+nāmantikaśceti||
+
+daśa bhūmayaḥ| pramuditā, vimalā, prabhākarī, arciṣmatī, sudurjayā, abhimukhī, dūraṃgamā, acalā,
+sādhumatī, dharmameghā ceti||
+
+samantaprabhā, nirupamā, jñānavatī| etāḥ sahitāsrayodaśa bhūmayaḥ||
+
+pañca cakṣūṃṣī| māṃsacakṣuḥ, dharmacakṣuḥ, prajñācakṣuḥ, divyacakṣuḥ, buddhacakṣuśceti||
+
+ṣaṭ kleśāḥ| rāgaḥ, pratighaḥ, mānaḥ, avidyā, kudṛṣṭiḥ, vicikitsā ceti||
+
+pañca dṛṣṭayaḥ| satkāyadṛṣṭiḥ, antagrāhadṛṣṭiḥ, mithyādṛṣṭiḥ, dṛṣṭiparāmarśaḥ, śīlaparāmarśaḥ||
+
+catuviṃśatirupakleśāḥ| tadyathā-krodhaḥ, upanāhaḥ, mrakṣaḥ, pradāśaḥ, īrṣyāḥ, mātsaryam, śāṭhyam,
+māyā, madaḥ, vihiṃsā, hrīḥ, anapatrapā, styānam, aśrāddhyam, kausīdyam, pramādaḥ, muṣitasmṛtiḥ,
+vikṣepaḥ, asaṃprajanyam, kaukṛtyam, middham, vitarkaḥ, vicāraśceti||
+
+pañcāhārāḥ| dhyānāhārāḥ, kavalīkārāhārāḥ, pratyāhārāḥ, sparśāhārāḥ, saṃcetanikāhārāśceti||
+
+pañca bhayāni| ājīvikābhayam, śokabhayam, maraṇabhayam, durgatibhayam, parṣadasādyabhayaṃ ceti||
+
+catvāri dhyānāni| tadyathā-savitarkaṃ savicāraṃ vivekajaṃ prītisukhamiti prathamadhyānam| adhyātmapramodanātprītisukhamiti
+dvitīyam| upekṣāsmṛtisaṃprajanyaṃ sukhamiti tṛtīyam| upekṣāsmṛtipariśuddhiraduḥkhāsukhā
+vedaneti caturthaṃ dhyānamiti||
+
+trayo vimokṣāḥ| śūnyatā, animittaḥ, apraṇihitaśceti||
+
+bodhisattvānāṃ daśa vaśitāḥ| āyurvaśitā, cittavaśitā, pariṣkāravaśitā, dharmavaśitā, ṛddhivaśitā,
+janmavaśitā, adhimuktivaśitā, praṇidhānavaśitā, karmavaśitā, jñānavaśitā ceti||
+
+bodhisattvānāṃ daśa balāni| tadyathā-adhimuktibalam, pratisaṃkhyānabalam, bhāvabalam, kṣāntibalam,
+jñānabalam, prahāṇabalam, samādhibalam, pratibhānabalam, puṇyabalam, pratipattibalaṃ
+ceti||
+
+tathāgatasya daśa balāni| tadyathā-sthānāsthānajñānabalam, karmavipākajñānabalam, nānādhātujñānabalam,
+nānadhimuktijñānabalam, sattvendriyaparāparajñānabalam, sarvatragāminīpratipattijñānabalam,
+dhyānavimokṣasamādhisamāpattisaṃkleśavyavadānavyutthānajñānabalam, pūrvanivāsānusmṛtijñānabalam,
+cyutyutpattijñānabalam, āsravakṣayajñānabalaṃ ceti||
+
+catvāri vaiśāradyāni| tadyathā-abhisaṃbodhivaiśāradyam, āsravakṣayajñānavaiśāradyam, nairvāṇikamārgāvataraṇavaiśāradyam
+[antarāyikadharmānanyathātvaniścitavyākaraṇavaiśāradyaṃ] ceti||
+
+pañca mātsaryāṇi| dharmamātsaryam, lābhamātsaryam, āvāsamātsaryam, kuśalamātsaryam, varṇamātsaryaṃ
+ceti||
+
+aṣṭādaśāveṇikā buddhadharmāḥ| tadyathā-nāsti tathāgatasya skhalitam| nāsti ravitam| nāsti muṣitasmṛtitā|
+nāstyasamāhitacittam| nāsti nānātvasaṃjñā| nāstyapratisaṃkhyāyopekṣā| nāsti chandaparihāṇiḥ|
+nāsti vīryaparihāṇiḥ| nāsti smṛtiparihāṇiḥ| nāsti samādhiparihāṇiḥ| nāsti
+prajñāparihāṇiḥ| nāsti vimuktiparihāṇiḥ| nāsti vimuktijñānadarśanaparihāṇiḥ| sarvakāyakarmajñānapūrvagamajñānānuparivṛttiḥ|
+sarvavākkarmajñānapūrvaṃgamajñānānuparivṛttiḥ| sarvamanaskarmajñānapūrvaṃgamajñānānuparivṛttiḥ|
+atīte'dhvanyasaṅgamapratihatajñānam| pratyutpanne'dhvanyasaṅgamapratihatajñānadarśanaṃ
+ceti||
+
+catvāro mārāḥ| tadyathā-skandhamāraḥ, kleśamāraḥ, devaputramāraḥ, mṛtyumāraśceti||
+
+catvāri śraddhāṅgāni| tadyathā- āryasatyam, triratnam, karma, karmaphalaṃ ceti||
+
+navānupūrvasamādhisamāpattayaḥ| tadyathā-catvāri dhyānāni, catasra ārūpyasamāpattayaḥ, nirodhasamāpattiśceti||
+
+dvātriṃśallakṣaṇāni| tadyathā-cakrāṅkitapāṇipādatalatā| supratiṣṭhitapāṇipādatalatā| jālābalabaddhā(vanaddhā
+?)ṅgulipāṇipādatalatā| mṛdutaruṇahastapādatalatā| saptotsadatā| dīrghāṅgulitā|
+āyatapārṣṇitā| ṛjugātratā| utsaṅgapādatā| urdhvāgraromatā| aiṇejayaṅghatā| pralambabāhutā|
+koṣagatabastiguhyatā| suvarṇavarṇatā| śuklacchavitā| pradakṣiṇāvartaikaromatā| ūrṇālaṃkṛtamukhatā|
+siṃhapūrvāntakāyatā| susaṃvṛttaskandhatā| citāntarāṃsatā| rasarasāgratā| nyagrodhaparimaṇḍalatā|
+uṣṇīṣaśiraskatā| prabhūtajivhatā| siṃhahanutā| śuklahanutā| samadantatā|
+haṃsavikrāntagāmitā| aviraladantatā| samacatvāriṃśaddantatā| abhinīlanetratā| gopakṣanetratā
+ceti||
+
+aśītyanuvyañjanāni| tadyathā-tāmranakhatā| srigdhanakhatā| tuṅganakhatā| chatrāṅgulitā| citrāṅgulitā|
+anupūrvāṅgulitā| gūḍhaśiratā| nigranthiśiratā| gūḍhagulphatā| aviṣamapādatā| siṃhavikrāntagāmitā|
+nāgavikrāntagāmitā| haṃsavikrāntagāmitā| vṛṣabhavikrāntagāmitā| pradakṣiṇagāmitā|
+cārugāmitā| avakragāmitā| vṛttagātratā| mṛṣṭagātratā| anupūrvagātratā| śucigātratā|
+mṛdugātratā| viśuddhagātratā| paripūrṇavyañjanatā| pṛthucārumaṇḍalagātratā| samakramatā|
+viśuddhanetratā| sukumāragātratā| adīnagātratā| utsāhagātratā| gambhīrakukṣitā| prasannagātratā|
+suvibhaktāṅgapratyaṅgatā| vitimiraśuddhālokatā| vṛttakukṣitā| mṛṣṭakukṣitā| abhugnakukṣitā
+kṣāmakukṣitā| pradakṣiṇāvartanābhitā| samantaprāsādikatā| śucisamudāratā| vyapagatatilakagātratā|
+tūlasadṛśasukumārapāṇitā| snigdhapāṇilekhatā| gambhīrapāṇilekhatā| āyatapāṇilekhatā|
+nātyāyatavacanatā| bimbapratibimboṣṭhatā| mṛdujivhatā| tanujivhatā| raktajihvatā|
+meghagarjitaghoṣatā| madhuracārumañjusvaratā| vṛttadaṃṣṭratā| tīkṣṇaṃdaṃṣṭratā| śūkladaṃṣṭratā|
+samadaṃṣṭratā| anupūrvadaṃṣṭratā| tuṅganāsatā| śucināsatā| viśālanayanatā| citrapakṣmatā|
+sitāsitakamaladalanayanatā| āyatabhrūkatā| śuklabhrūkatā| susnigdhabhrūkatā| pīnāyatabhujalatā|
+samakarṇatā| anupahatakarṇendriyatā| avimlānalalāṭatā| pṛthulalāṭatā| suparipūrṇottamāṅgatā|
+bhramarasadṛśakeśatā| citrakeśatā| guḍākeśatā| asaṃmuṇitakeśatā| aparuṣakeśatā|
+surabhikeśatā| śrīvatsamuktikanandyāvartalakṣitapāṇipādatalatā ceti||
+
+cakravartināṃ sapta ratnāni| tadyathā-cakraratnam, aśvaratnam, hastiratnam, maṇiratnam, strīratnam,
+khaṅgaratnam, pariṇāyakaratnaṃ ceti||
+
+tatra trayo'dhvānaḥ| tadyathā-atīto'dhvā, anāgato'dhvā, pratyutpanno'dhvā ceti||
+
+catvāraḥ kalpāḥ| tadyathā-antarakalpāḥ, mahākalpāḥ, śūnyakalpāḥ, sārakalpāśceti||
+
+catvāri yugāni| tadyathā-kṛtayugam, tretāyugam, dvāparam, kaliyugaṃ ceti||
+
+lokadvayam| tadyathā-sattvalokaḥ, bhājanalokaśceti||
+
+catvāro yonayaḥ| tadyathā-aṇḍajaḥ, saṃsvedajaḥ, jarāyujaḥ, upapādukaśceti||
+
+pañca kaṣāyāḥ| tadyathā-kleśakaṣāyaḥ, dṛṣṭikaṣāyaḥ, sattvakaṣāyaḥ, āyuḥkaṣāyaḥ, kalpakaṣāyaśceti||
+
+trayaḥ sattvādhyāḥ| tadyathā-pūrvāntakoṭiparijñāyāḥ, aparāntakoṭiparijñāyāḥ, caturmārakoṭiparijñāyāśceti||
+
+daśa jñānāni| tadyathā-duḥkhajñānam, samudayajñānam, nirodhajñānam, mārgajñānam, dharmajñānam,
+anvayajñānam, saṃvṛtijñānam, paracittajñānam, kṣayajñānam, anutpādajñānaṃ ceti||
+
+pañca jñānāni| tadyathā-ādarśanajñānam, samatājñānam, pratyavekṣaṇājñānam, kṛtyānuṣṭhānajñānam,
+suviśuddhadharmadhātujñānaṃ ceti||
+
+dve satye| tadyathā-saṃvṛtisatyam, paramārthasatyaṃ ceti||
+
+caturāryasatyeṣu ṣoḍaśa kṣāntijñānalakṣaṇāḥ| tadyathā-duḥkhe dharmajñānakṣāntiḥ, duḥkhe dharmajñānam,
+duḥkhe'nvayajñānakṣāntiḥ, duḥkhe'nvayajñānam| samudaye dharmajñānakṣāntiḥ, samudaye
+dharmajñānam, samudaye'nvayajñānakṣāntiḥ, samudaye'nvayajñānam| nirodhe dharmajñānakṣāntiḥ,
+nirodhe dharmajñānam, nirodhe'nvayajñānakṣāntiḥ, nirodhe'nvayajñānam| mārge dharmajñānakṣāntiḥ,
+mārge dharmajñānam, mārge'nvayajñānakṣāntiḥ, mārge'nvayajñānaṃ ceti||
+
+tatra duḥkhasatye catvāra ākārāḥ| tadyathā-anityataḥ, duḥkhataḥ, śūnyataḥ, anātmataśceti||
+
+samudayasatye catvāra ākārāḥ| tadyathā-hetutaḥ, samudayataḥ, prabhavataḥ, pratyayataśceti||
+
+nirodhasatye catvāra ākārāḥ| tadyathā-nirodhataḥ, śāntataḥ, praṇītataḥ, niḥsaraṇataśceti||
+
+mārgasatye catvāra ākārāḥ| tadyathā-mārgataḥ, nyāyataḥ, pratipattitaḥ, nairyāṇika(ta)śceti||
+
+catvāraḥ samādhayaḥ| tadyathā-ālokasamādhiḥ, vṛtāsamādhiḥ, ekādaśapratiṣṭhasamādhiḥ, ānantaryasamādhiśceti||
+
+tatrāṣṭau [puruṣa]-pugdalāḥ| tadyathā-srotaāpannaphalapratipannakaḥ, srotaāpannaḥ, sakṛdāgāmiphalapratipannakaḥ,
+sakṛdāgāmī, anāgāmiphalapratipannakaḥ, anāgāmī, arhatphalapratipannakaḥ,
+arhaṃśceti||
+
+tathāṣṭau pratipugdalāḥ| tadyathā-śraddhānusārī, dharmānusārī, srotaāpannaḥ, devakulaṃkulaḥ,
+manuṣyakulaṃkulaḥ, sakṛdāgāmiphalaḥ, śraddhavimuktirdṛṣṭiprāpta ekavīcīko'nāgāmyantarāparinirvāyī
+upahatyaparinirvāyī abhisaṃskāraparinirvāyī pluto'rddhaplutaḥ sarvāstānapluto dṛṣṭadharmasamaḥ
+kāyasākṣī khaṅgaśceti||
+
+[tadanu dvādaśākaradharmacakrapravartakaṃ(naṃ) katamat ? tadyathā-idaṃ duḥkhamāryasatyamiti
+bhikṣavaḥ pūrvamanuśrutya teṣu dharmeṣu yoniśo manasiṃgavataḥ(?) cakṣurudapādi| jñānamutpādi
+cintotpādi| cutrirudapādi| ityekaparicatakaḥ 1 idaṃ duḥkhamārya sa tatra khalvabhijñātaṃ
+iti bhikṣavaḥ| ityādi pūrvavaditiyaḥ|| idaṃ duḥkhasamudayamāryasatvaṃ tava khalvabhijñāya
+prahīṇamiti hityādi tṛtīyaḥ| tathā idaṃ duḥkhanirodha āryasatyamiti hipratyekaḥ|| idaṃ duḥkhanirodhaāryyasatyaṃ
+tatra khalvabhijñāya śākṣāt kartavyamiti hitya dvitīyaḥ| idaṃ duḥkhanirodhaāryasatya
+tatra khalu bhijñāya śākṣāt dvitīya| tadyathā idaṃ duḥkhamārgagāminī pratipadāryasatyemiti
+tyeka|| idaṃ duḥkhamokṣagāmini pratipa ityāryyasatyaṃ tatra khalu bhijñāya
+bhāvayitavyamiti hi bhikṣava ityādi tṛtīyaḥ| parivarta ityeva dvādaśākāradharmacakrapravarttanamiti||]Ms.
+C.tadanu dvādaśākāradharmacakrapravartakaḥ| katamat| idaṃ duḥkhamāryasatyamiti
+bhikṣavaḥ| pūrvamanuśrutya teṣu dharmeṣu yoniśo manasigavataḥ cakṣurudapādi| jñānamutpādi
+cittotpādi| cutrirutpādi|| ityekaparivartaka idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya
+parijñātamiti hi bhikṣavaḥ| pūrvamanuśruya teṣu yoniso manasiṅgarvutaḥ|| iti dvitīyaḥ||
+idamāryasatyaṃ tatra khalvabhijñātaṃ iti bhikṣavaḥ| ityādi pūrvavaditi yaḥ||idaṃ duḥkhasamudayamāryasatyaṃ
+tava khalvabhijñāya prahīṇamiti hītyādi tṛtīyam||tathā idaṃ duḥkhanirodha
+āryasatyamiti hi pratyekaḥ|| idaṃ duḥkhanirodha āryasatyaṃ tatra khalvabhijñāya sākṣāt
+kartavyamiti hityādi| dvitīyaḥ| idaṃ duḥkhanirodha āryasatyaṃ tatra khalvabhijñāya sākṣāt
+kṛtamiti dvitīyaḥ|tathā idaṃ duḥkhamārgagāmini pratipadāryasatyamiti pratyeka| idaṃ duḥkhamokṣagāminī
+pratipat|| ityāryasatyaṃ tatra khalvabhijñāya bhātavyamiti hi bhikṣavaḥ ityādi
+tṛtīyaḥ| parivartta ityevaṃ dvādaśākāradharmacakrapravartanamiti|| ||Restored Text.tadatra
+dvādaśākāradharmacakrapravartakaṃ (naṃ ?) katamat ? idaṃ duḥkhamāryasatyamiti (me)
+bhikṣavaḥ pūrvamananuśruteṣu dharmeṣu yoniśo manasikurvataḥ cakṣurudapādi jñānamudapādi vidyodapādi
+bhūrirudapādītyekaṃ parivartakam| idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti
+hi (me) bhikṣavaḥ pūrvamananuśruteṣu dharmeṣu yoniśo manasikurvata iti dvitīyam|
+idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti bhikṣavaḥ ityādi pūrvavaditi
+tṛtīyam||[tathedaṃ duḥkhasamudayamāryasatyamiti pratyekam| idaṃ duḥkhasamudayamāryasatyaṃ
+tatra khalvabhijñāya prahātavyamiti dvitīyam|] idaṃ duḥkhasamudayamāryasatyaṃ tatra khalvabhijñāya
+prahīṇamiti hītyādi tṛtīyam|tathedaṃ duḥkhanirodhamāryasatyamiti hi pratyekam| idaṃ
+duḥkhanirodhamāryasatyaṃ tatra khalvabhijñāya sākṣātkartavyamiti hītyādi dvitīyam| idaṃ
+duḥkhanirodhamāryasatyaṃ tatra khalvabhijñāya sākṣātkṛtamiti tṛtīyam||tatheyaṃ duḥkhamārgagāminī
+pratipadityāryasatyamiti pratyekam| iyaṃ duḥkhamokṣagāminī pratipadityāryasatyaṃ tatra
+khalvabhivijñāya bhāvayitavyamiti hi bhikṣava ityādi dvitīyam|[idaṃ duḥkhamokṣagāminī
+pratipadityāryasatyaṃ tatra khalvabhijñāya bhāvitamiti tṛtīyam||]
+
+tatra dānaṃ trividham| tadyathā-dharmadānam, āmiṣadānam, maitrīdānaṃ ceti||
+
+śīlaṃ trividham| tadyathā- saṃbhāraśīlam, kuśalasaṃgrāhaśīlam, sattvārthakriyāśīlaṃ ceti||
+
+kṣāntistrividhā| tadyathā-dharmanidhyānakṣāntiḥ, duḥkhādhivāsanākṣāntiḥ, paropakāradharmakṣāntiśceti||
+
+vīryaṃ trividham| tadyathā-saṃnāhavīryam, prayogavīryam, para(ri)niṣṭhāvīryaṃ ceti||
+
+dhyānaṃ trividham| tadyathā-sadoṣāpakarṣadhyānam, sukhavaihārikadhyānam, aśeṣavaibhūṣitadhyānaṃ
+ceti||
+
+prajñā trividhā| tadyathā-śrutamayī, cintāmayī, bhāvanāmayī ceti||
+
+upāyastrividhaḥ| tadyathā-sarvasattvāvabodhakaḥ, sattvārthābhāvakaḥ, kṣiprasukhābhisaṃbodhiśceti||
+
+praṇidhānaṃ trividham| tadyathā-susthānaprābandhikam, sattvārthaprabandhikam, buddhakṣetrapariśodhakaṃ
+ceti||
+
+balaṃ trividham| tadyathā-karmavyāvartakam, kleśāpakarṣakam, mānapramādādivyāvartakaṃ ceti||
+
+jñānaṃ trividham| tadyathā-avikalpakam, vikalpasamabhāvabodhakam, satyārthopāyaparokṣaṃ ceti||
+
+tatrāvaraṇe dve| tadyathā-kleśavaraṇam, jñeyāvaraṇaṃ ceti||
+
+nairātmyaṃ dvividham| tadyathā-dharmanairātmyam, pugdalanairātmyaṃ ceti||
+
+saṃbhāro dvividhaḥ| tadyathā-puṇyasaṃbhāraḥ, jñānasaṃbhāraśceti||
+
+tatra ṣaṭ samādhyāvaraṇāni| tadyathā-kausīdyam, mānam, śāṭhyam, auddhatyam, anābhogaḥ, satyābhogaśceti||
+
+tatra pratipattyāṣṭau prahāṇasaṃskārāḥ| tadyathā-śraddhā, buddhaḥ(ddhiḥ), vyāyāmaḥ, prasrabdhiḥ,
+smṛtiḥ, saṃprajanyam, cetanā, upekṣā ceti||
+
+tatra catvāro dvīpāḥ| tadyathā-pūrvavidehaḥ, jambudvīpaḥ, aparagodāniḥ(nīyaḥ), uttarakurudvīpaśceti||
+
+aṣṭāvuṣṇanarakāḥ| tadyathā-saṃjīvaḥ, kālasūtraḥ, saṃghātaḥ, rauravaḥ, mahārauravaḥ, tapanaḥ,
+pratāpanaḥ, avīciśceti||
+
+aṣṭau śītanarakāḥ| tadyathā-arbudaḥ, nirarbudaḥ, aṭaṭaḥ, apapaḥ, hāhādharaḥ, utpalaḥ, padmaḥ,
+mahāpadmaśceti||
+
+sapta pātālāni| tadyathā-dharaṇītalaḥ, acalaḥ, mahācalaḥ, āpaḥ, kāñcanaḥ, saṃjīvaḥ, narakaśceti|
+
+dvau cakravālau| tadyathā-cakravālamahācakravālau ceti||
+
+aṣṭāṅgaparvatāḥ| tadyathā-yugaṃdharaḥ, īśādharaḥ, khadirakaḥ, sudarśanaḥ, vinatakaḥ, aśvakarṇaḥ,
+nemiṃdharagiriḥ, sumeruśceti||
+
+sapta sāgarāḥ| tadyathā-kṣāraḥ, kṣīraḥ, dadhi, udadhiḥ, ghṛtam, madhuḥ, surā ceti||
+
+tatra ṣaṭ kāmāvacarā devāḥ| tadyathā-cāturmahārājakāyikāḥ, trāyastriṃśāḥ, tuṣitāḥ, yāmāḥ, nirmāṇaratayaḥ,
+paranirmitavaśavartinaśceti||
+
+aṣṭādaśa rūpāvacarā devāḥ| tadyathā-brahmakāyikāḥ, brahmapurohitāḥ, brahmapārṣadyāḥ, mahābrahmāṇaḥ,
+parīttābhāḥ, apramāṇābhāḥ, ābhāsvarāḥ, parīttaśubhāḥ, śubhakṛtsnāḥ, anabhrakāḥ, puṇyaprasavāḥ,
+bṛhatphalāḥ, asaṃjñisattvāḥ, avṛhāḥ, atapāḥ, sudṛśāḥ, sudarśanāḥ, akaniṣṭhāśceti||
+
+catvāro'rūpāvacarā devāḥ| ākāśānantyāyatanopagāḥ, vijñānānantyāyatanopagāḥ, ākiṃcanyāyatanopagāḥ,
+naivasaṃjñānāsaṃjñāyatanopagāśceti||
+
+trividhā ālaṅghanāḥ| tadyathā-satyālaṅghanā, dharmālaṅghanā, anālaṅghanā ceti||
+
+trividhā mahāmaitrī| tadyathā-satyālaṅgha(mba)nā, dharmalaṅgha(rmālamba)nā, anālaṅgha(mba)nā
+ceti||
+
+trividhaṃ karma| tadyathā-dṛṣṭadharmavedanīyam, utpadyavedanīyam, aparavedanīyaṃ ceti||
+
+trividhaṃ prātihāryam| tadyathā-ṛddhiprātihāryam, ādeśanāprātihāryam, anuśāsanīprātihāryaṃ ceti||
+
+aṣṭāvakṣaṇāḥ| tadyathā-narakopapattiḥ, tiryagupapattiḥ, yamalokopapattiḥ, pratyantajanapadopapattiḥ,
+dīrghāyuṣadevopapattiḥ, indriyavikalatā, mithyādṛṣṭiḥ, cittotpādavirāgitatā ceti||
+
+trividhā vikalpāḥ| tadyathā-anusmaraṇavikalpaḥ, saṃtirana(tīraṇa)vikalpaḥ, sahajavikalpaśceti||
+
+catvāraḥ samādhayaḥ| tadyathā-śūraṃgamaḥ, gaganagañjaḥ vimalaprabhaḥ, siṃhavikrīḍitaśceti|
+
+caturdaśāvyākṛtavastūni| tadyathā-śāśvato lokaḥ, aśāśvato lokaḥ, śāśvataścāśāśvataśca, naiva
+śāśvato nāśāśvataśca| antavāllokaḥ, anantavāllokaḥ, antavāṃścānantavāllokaśca, naivāntavānnānantavāṃśca|
+bhavati tathāgataḥ paraṃ maraṇāt, na bhavati tathāgataḥ paraṃ maraṇāt,
+bhavati na ca bhavati ca tathāgataḥ paraṃ maraṇāt, naiva bhavati na bhavati tathāgataḥ paraṃ
+maraṇāt| sa jīvastaccharīram, anyo jīvo'nyaccharīraṃ ceti||
+
+trīṇi kuśalamūlāni| tadyathā-adveṣaḥ, alobhaḥ, amohaśceti||
+
+etadviparyayāntrīṇyakuśalamūlāni| tadyathā-lobhaḥ, mohaḥ, dveṣaśceti||
+
+tisraḥ śikṣāḥ| tadyathā-adhicittaśikṣā, adhiśīlaśikṣā, adhiprajñāśikṣā ceti||iti nāgārjunapādaviracito'yaṃ
+dharmasaṃgrahaḥ samāptaḥ||

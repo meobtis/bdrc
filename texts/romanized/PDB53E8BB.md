@@ -1,0 +1,88 @@
+---
+title: "Bauddha Stotra Saṃgraha"
+bdrc_id: PDB53E8BB
+script: iast
+original_collection: DSBC
+editor: "Pandey, Janardan Shastri"
+publisher: "Motilal Banarsidass"
+year: "1994"
+source_repository: "https://github.com/Openpecha-Data/PDB53E8BB"
+---
+# Bauddha Stotra Saṃgraha
+
+ratnamālāstotramācāryavanaratnapādaviracitamlokeśvaraṃ vimalaśūnyakṛpārdracittaṃmārgajñatāprathitadeśanayārthavācam
+|sarvajñatādiparipūrṇaviśuddhadehaṃjñānādhikāralalitaṃ śirasā namāmi
+
+vaineyabhedavaśato bahudhāvabhāsai-reko'pi pātragajaleṣu śaśīva yasmāt |saṃlakṣase parahitānugataiva
+tasmādbuddhistvaho paramavismayanīyarūpā
+
+saṃpūrṇacandravadane lalito lalāṭa-deśādvinirgatamaheśvaradevaputraḥ |vaineyaśāmbhavajanapratibodhanārthaṃdevādhidevapratimānuja
+īśvarastvam
+
+vaineyakomalabhavapratibodhanāyakiṃ dhāma saṃbhṛta mahāśubhalakṣaṇaṃ te |niryāta eva hi pitāmahadevapūjāṃlokeśvareśvaraparaṃ
+śirasā namāmi
+
+vaineyavaiṣṇavajanapratibodhanāyarājīvapāṇihṛdayāt pratiniḥsṛto'sau |nārāyaṇo'pi bhuvaneśvara
+eva tasmātpuṃsāṃ tvameva paramottama eva nānyaḥ
+
+candrārkasādarabalāhitabhaktibhājāṃsaṃdarśanārthamibhanīlasulocanābhyām |yanniḥsṛtau śaśiravī
+bhuvi locanābhyāṃdhvastāntarālatamasaṃ tamahaṃ namāmi
+
+sārasvatīvinayayojitabhaktibhājāṃbodhāya vai bhagavatīha sarasvatīyam |dṛṣṭāgratastava jinātmajapaprasūtāprajñābhilāṣiphaladaṃ
+tamahaṃ namāmi
+
+vaineyavāyujanitākṣaramārgasiddhyaiyo lokanātha sugato'tha viniḥsṛto'sau |devaḥ samīraṇavaro
+bhuvi janmabhājā-mīryāpathārthaphaladaṃ tamahaṃ namāmi
+
+vaineyavāruṇaśivāyanamīpsitānāṃsaṃbodhanārthamudarātsugatātmajānām |yanniḥsṛto varuṇadevavaro'pyakasmā-daiśvaryasiddhi
+phaladaṃ tamahaṃ namāmi
+
+vaineyasaṃmataphalādyabhilāṣiṇo vaisaṃsiddhaye pravaralakṣaṇapādapadme |yanniḥsṛtā bhagavatī
+dharaṇī prasiddhātrailokyanāthamasamaṃ satataṃ namāmi
+
+saṃsāramuktamapi susthitameva tatrakāruṇyataśca bhavacāriṇi sattvavarge |bhūyāt sthitirmama
+sadāsthirasā bhavanta-mevaṃ mahāśayavaraṃ paramaṃ namāmi
+
+ekena pādatalakena bhavatsvakenacakrāntasaṃvaramanantaralokadhātau |kalpāntadagdhabhuvane jvalitogravahni-rniḥśvāsavāyubalatastava
+nirvṛtaḥ syāt
+
+svāṃ tarjanīṃ mukhadhṛto'hitatarjanenasaṃcālitāśca bahumerugaṇā nakhasya |koṣoddhṛtaṃ jaladhitoyamaśeṣataḥ
+syātsāmarthyamīdṛśamaho bhavataḥ kuto'nyat
+
+kvedaṃ ca śaiśavaparaṃ nanu cārurupaṃsaṃdarśanīyavarakomalabālacandram |durvāramāramathanaṃ
+ca mayaikasahyaṃvikrāntaduḥsahaparaṃ kva ca ceṣṭitaṃ te
+
+eṣā batāñjananibhorujanāvalī sākauṭilyacāruvikaṭā svaśiroruhāgre |kleśendhane jvalitavisphuritatvavahne-rdhūmāvalīva
+vimalā nanu lakṣyate te
+
+tvatkāntileśavimalā daśadikpratānaiḥpakṣāsitakṣayakṛśā sakalā suśobhā |paryanta iṣṭaśaśino bhavaneṣu
+yattemanye virāji nikhilaṃ tava kāntileśāt
+
+bandhurhi ko mārgikasaṃmataṃ mataṃ naro narī sā sa ca satpathaṃ patham |parārthasaṃpāditasaṃvaraṃ
+varaṃ namāmi bhūmīśvararājinaṃ jinam
+
+anityanirvāṇapade sthitaṃ sthitaṃ prabhāsvarādhiṣṭhitasaṃhitaṃ hitam |śamīkṛtāśeṣajanaṃ śivaṃ
+śivaṃ namāmi bhūmīśvararājinaṃ jinam
+
+gabhastimālāmitasaṃkulaṃ kulaṃ tatra svapāṇau dhṛtapaṅkajaṃ kajam |ratānugāśobhitasaṃrataṃ rataṃ
+namāmi bhūmīśvararājinaṃ jinam
+
+svadharmadhātuṃ karuṇāparaṃ paraṃ śubhādisaṃbhārasusaṃbhṛtaṃ bhṛtam |vikalpahīnaṃ dhvanideśakaṃ
+śakaṃ namāmi bhūmīśvarājinaṃ jinam
+
+tathatātathatādvayaśātaśataṃ sadasatparipūritadharmakatham |kathanīyavirājitasatyaparaṃ praṇame
+dharaṇīśvararājavaram
+
+varavārijarūpi jagatprasaraṃ sarasīruhalocanacārutaram |tarasāpi rasatvaviśuddhiparaṃ praṇame
+dharaṇīścarājavaram
+
+varanirmitabhogaparārtharataṃ rataśūnyanirañjanadharmadharam |dharaṇīndravibhūṣitasiddhiparaṃ
+praṇame dharaṇīśvararājavaram
+
+varasatsahajodadhicandramukhaṃ sukhabhāṣitasattvavimuktipadam |padabhūṣaṇalakṣaṇatānuparaṃ praṇame
+dharaṇīśvararājavaram
+
+lokeśvareyaṃ (māṃ) tava ratnamālāmacīkaracchrīvanaratnapādaḥ |avāpi yattena śubhapraviṣṭaṃ tenaiva
+loko'stu samantabhadraḥ
+
+śrīmadāryāvalokiteśvarabhaṭṭārakasyaratnamālāstotraṃ samāptam |

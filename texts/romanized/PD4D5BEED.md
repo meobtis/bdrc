@@ -1,0 +1,87 @@
+---
+title: "Bauddha Stotra Saṃgraha"
+bdrc_id: PD4D5BEED
+script: iast
+original_collection: DSBC
+editor: "Pandey, Janardan Shastri"
+publisher: "Motilal Banarsidass"
+year: "1994"
+source_repository: "https://github.com/Openpecha-Data/PD4D5BEED"
+---
+# Bauddha Stotra Saṃgraha
+
+ṣaṭtriṃśatsaṃvarastutiḥśrīsaṃvaraṃ mahāvīraṃ vārāhīṃ cāpi yoginīm |namāmi sarvabhāvena yoginījālanāyakam
+
+ḍākinīṃ ca tathā lāmāṃ khaṇḍarohāṃ ca rūpiṇīm |caturo'mṛtabhāṇḍāṃśca bodhicittena pūritān
+
+pullīramalayodbhūtaṃ khaṇḍakapālasaṃvaram |pracaṇḍāliṅgaṇaṃ vīraṃ namāmi śirasi sthitam
+
+jālandharātsamutpannaṃ mahākaṃkālasaṃvaram |caṇḍālyāliṅgaṇaṃ vīraṃ śikhādeśe sthitaṃ name
+
+oḍiyānātsamudbhūtaṃ kaṃkālanāma saṃvaram |prabhāvatīsamāpannaṃ savyakarṇasthitaṃ name
+
+arbudapīṭhamadhyasthaṃ saṃvaraṃ vikaṭadaṃṣṭriṇam |mahānāsāsamāpannaṃ pṛṣṭhadeśe sthitaṃ name
+
+godāvarīsamudbhūtaṃ surāvīriṇasaṃvaram |saṃpuṭaṃ vīramatyākhyā vāmakarṇasthitaṃ name
+
+rāmeśvarodbhavaṃ vīraṃ amitābhākhyasaṃvaram |kharvarosaṃpuṭaṃ nāthaṃ bhruvormadhyasthitaṃ name
+
+devīkoṭodbhavaṃ nāthaṃ vajraprabhākhyasaṃvaram |laṅkeśvarīsamāpannaṃ namāmi netrakoṇagam
+
+māravākhyātsamutpannaṃ vajradehākhyasaṃvaram |drumacchāyāsamāpannaṃ namāmi skandhadeśagam
+
+kāmarūpodbhavaṃ vīraṃ aṅgulikākhyasaṃvaram |airāvatīsamāpannaṃ namāmi kakṣadeśagam
+
+okārasthānasaṃjātaṃ vajrajaṭilasaṃvaram |bhairavāliṅgaṇaṃ vīraṃ tanuyugodbhavaṃ name
+
+triśakunyadbhavaṃ nāthaṃ mahāvīrākhyasaṃvaram |vāyuvegāsamāpannaṃ nābhideśasthitaṃ name
+
+kauśalāyāṃ samudbhūtaṃ vajrahūkārasaṃvaram |surābhakṣīsamāpannaṃ namāmi nāsikāgrajam
+
+kaliṅgapīṭhasaṃjātaṃ suprabhānāma saṃvaram |śyāmādevī samāpannaṃ namāmi mukhabhāgajam
+
+lampākasthānasaṃbhūtaṃ vajraprabhākhyasaṃvaram |subhadrāliṅgaṇaṃ vīraṃ kaṇṭhadeśodbhavaṃ name
+
+kāñcyākhyapīṭhasaṃjātaṃ mahābhairavasaṃvaram |hayakarṇāsamāpannaṃ namāmi hṛdimadhyagam
+
+himālayodbhavaṃ vīraṃ virūpākṣākhyasaṃvaram |khagānanāsamāpannaṃ meḍhrasthānagataṃ name
+
+pretapuryāṃ samudbhūtaṃ mahābalākhyasaṃvaram |cakravegāsamāpannaṃ liṅgasthānagataṃ name
+
+guhadeśātsamudbhūtaṃ ratnavajrākhyasaṃvaram |khaṇḍarohāsamāpannaṃ namāmi gudamadhyagam
+
+saurāṣṭradeśasaṃbhūtaṃ hayagrīvākhyasaṃvaram |śauṇḍinyāliṅgaṇaṃ vīraṃ namāmi urumadhyagam
+
+suvarṇadvīpasaṃjātam ākāśagarbhasaṃvaram |cakravarmiṇīsamāpannaṃ jaṅghāmadhyagataṃ name
+
+nagarapīṭhamadhyasthaṃ śrīherukākhyasaṃvaram |suvīrāliṅgaṇaṃ vīraṃ namāmyaṅgulivartinam
+
+sindhudeśasamudbhūtaṃ padmanṛtyākhyasaṃvaram |mahābalāsamāpannaṃ pādapṛṣṭhagataṃ name
+
+marutīpīṭhasaṃjātaṃ vairocanākhyasaṃvaram |cakravartinīsamāpannaṃ namāmyaṅguṣṭhamadhyagam
+
+kulatāyāḥ samudbhūtaṃ vajrasattvākhyasaṃvaram |mahāvīryāsamāpannaṃ jānudvayagata name
+
+pūrvadvāre sthitaṃ vīraṃ vajracaṇḍākhyasaṃvaram |kākāsyāliṅgaṇaṃ vīraṃ namāmi suranāyakam
+
+uttaradvāramadhyasthaṃ vajrānalākhyasaṃvaram |ulūkāsyāsamāpannaṃ namāmi yakṣanāyakam
+
+paścimadvāramadhyasthaṃ vajroṣṇīṣākhyasaṃvaram |śvānāsyāsampuṭaṃ vīraṃ namāmi pannagādhipam
+
+dakṣiṇadvāramadhyasthaṃ vajrakuṇḍalisaṃvaram |śūkarāsyāsamāpannaṃ namāmi yamanāyakam
+
+āgneyadigvimātrasthaṃ vajrayakṣākhyasaṃvaram |yamadāḍhīsamāpannaṃ namāmi vahnināyakam
+
+nairṛtyadigvibhāṣasthaṃ vajrakīlākhyasaṃvaram |yamadūtīsamāpannaṃ namāmi rākṣasādhipam
+
+vāyavyadigvibhāgasthaṃ vajramahābalāhvayam |yamadaṃṣṭrīsamāpannaṃ namāmi pavanādhipam
+
+īśānadigvibhāgasthaṃ vajrabhīṣaṇasaṃvaram |yamamathanīsamāpannaṃ namāmi bhūtanāyakam
+
+etāndevān namasyāmi digvidikṣu susaṃsthitān |vīrān vīreśvarīḥ sarvā herukaṃ parameśvaram
+
+sahajānandātmakaṃ devaṃ viśuddhaṃ tāṇḍavānvitam |ḍākinījālamadhyasthaṃ pratyātmavedyagocaram
+
+stutvedaṃ devatīcakraṃ yanmayopārjitaṃ śubham |tena puṇyena loko'stu vajraḍākaparāyaṇaḥ
+
+śrī ṣaṭtriṃśatsaṃvaragaṇacakramaṇḍalastutiḥ samāptāḥ ||
