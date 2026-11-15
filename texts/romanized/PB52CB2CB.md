@@ -9,6 +9,7 @@ publisher: "Central University of Tibetan Studies"
 year: "1986"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB52CB2CB"
+plain: true
 ---
 # Dhīh Journal
 

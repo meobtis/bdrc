@@ -9,6 +9,7 @@ publisher: "The Asiatic Society"
 year: "1989"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB4FBD6C9"
+plain: true
 ---
 # Nyāyabindu Prakaraṇam-kārikā
 

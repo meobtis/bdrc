@@ -8,6 +8,7 @@ sanskrit_lines: 9713
 total_lines: 969565
 source_repository: "https://github.com/Openpecha-Data/PB3CDCC7F"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # degetengyur

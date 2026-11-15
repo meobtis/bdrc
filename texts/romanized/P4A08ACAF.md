@@ -8,6 +8,7 @@ editor: "Atul Bhosekar"
 year: "2017"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4A08ACAF"
+plain: true
 ---
 # Dhāraṇī Saṃgraha
 

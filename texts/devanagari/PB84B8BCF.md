@@ -7,6 +7,7 @@ original_collection: DSBC
 editor: "Daniel M. Stuart"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB84B8BCF"
+plain: true
 ---
 # Saddharmasmṛtyupasthānasūtram
 

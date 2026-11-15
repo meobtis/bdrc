@@ -8,6 +8,7 @@ sanskrit_lines: 1300
 total_lines: 94260
 source_repository: "https://github.com/Openpecha-Data/PAE2834EB"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # matipanchen

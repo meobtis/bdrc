@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PB9AD9E4B"
+plain: true
 ---
 # Tarkatāṇḍava with Rāghavendratīrtha's Nyāyadīpa
 

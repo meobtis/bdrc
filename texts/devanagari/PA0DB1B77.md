@@ -9,6 +9,7 @@ publisher: "Istituto Italiano Per Il Medio Ed Estremo Oriente"
 year: "1978"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA0DB1B77"
+plain: true
 ---
 # The Gilgit Manuscript of the Sayanasanavastu and the Adhikaranavastu
 

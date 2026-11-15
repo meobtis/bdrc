@@ -8,6 +8,7 @@ publisher: "Academie Imperial des Sciences"
 year: "1909"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P029F7DFF"
+plain: true
 ---
 # Nyāyabinduṭīkāṭippaṇī
 

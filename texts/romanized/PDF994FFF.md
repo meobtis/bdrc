@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies,"
 year: "1997"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDF994FFF"
+plain: true
 ---
 # Bauddhalaghugrangtha-sangraha
 

@@ -9,6 +9,7 @@ publisher: "China Tibetology Publishing House"
 year: "2013"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4BD475FE"
+plain: true
 ---
 # The Buddhakapālatantra Chapters 9 to 14
 

@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "1999"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9B24E4DE"
+plain: true
 ---
 # Saundaranandam Mahākāvyam
 

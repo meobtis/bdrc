@@ -8,6 +8,7 @@ publisher: "Savitri Prakashan"
 year: "2013"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P20EBE0E3"
+plain: true
 ---
 # Pārājikā (Texts from Nepal)
 

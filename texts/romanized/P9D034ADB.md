@@ -9,6 +9,7 @@ publisher: "The Asiatic Society"
 year: "1989"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9D034ADB"
+plain: true
 ---
 # Six Buddhist Nyaya tracts in Sanskrit
 

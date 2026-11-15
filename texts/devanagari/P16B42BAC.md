@@ -6,6 +6,7 @@ script: deva
 original_collection: DSBC
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P16B42BAC"
+plain: true
 ---
 # वज्रयान दर्शन मीमांसा
 

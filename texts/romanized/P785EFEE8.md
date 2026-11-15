@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P785EFEE8"
+plain: true
 ---
 # MSV 6,02: Vinītakā
 

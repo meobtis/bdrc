@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Sadanori Ishitobi"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PAAAAC2DB"
+plain: true
 ---
 # Bhagavadgītābhāṣya
 

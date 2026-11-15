@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Peter Schreiner"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P3BEDB9D7"
+plain: true
 ---
 # Nārāyaṇīya (Mahābhārata 12.321-339)
 

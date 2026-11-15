@@ -9,6 +9,7 @@ publisher: "Istituto Italiano Per L’africa E L’Oriente"
 year: "2001"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2B1B4ABF"
+plain: true
 ---
 # The Laghutantraṭīkā by Vajrapāṇi
 

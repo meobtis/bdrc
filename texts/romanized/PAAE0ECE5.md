@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PAAE0ECE5"
+plain: true
 ---
 # MSV 6,06: Nidāna
 

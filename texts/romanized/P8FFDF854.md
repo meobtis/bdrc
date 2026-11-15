@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P8FFDF854"
+plain: true
 ---
 # Tarkasaṃgraha with autoentary (Dīpikā), Nīlakaṇṭha's Dīpikāprakāśikā and
 

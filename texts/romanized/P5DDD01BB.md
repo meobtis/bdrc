@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5DDD01BB"
+plain: true
 ---
 # MSV 1,14: Poṣadhasthāpanavastu
 

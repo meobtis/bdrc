@@ -9,6 +9,7 @@ publisher: "Calcutta Oriental Book Agency"
 year: "1957"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5B6DDC1F"
+plain: true
 ---
 # Sphuṭārthā Abhidharmakośa Vyākhyā (Vol 2)
 

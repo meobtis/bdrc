@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Takahiro Kato"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PEE7B1EA2"
+plain: true
 ---
 # Bhagavadāśayānusaraṇabhāsya
 

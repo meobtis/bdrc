@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9ACDB0AF"
+plain: true
 ---
 # Nāgārjuna: Ratnāvalī
 

@@ -8,6 +8,7 @@ sanskrit_lines: 7127
 total_lines: 614101
 source_repository: "https://github.com/Openpecha-Data/P1E4C99CE"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # jiangkangyur

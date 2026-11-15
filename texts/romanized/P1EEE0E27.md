@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1EEE0E27"
+plain: true
 ---
 # MSV 1,05: Carmavastu
 

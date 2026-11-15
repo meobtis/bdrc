@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P73BBA0F5"
+plain: true
 ---
 # Mañjuśrīvikrīḍitasūtra
 

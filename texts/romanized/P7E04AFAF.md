@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Anshuman Pandey"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P7E04AFAF"
+plain: true
 ---
 # Sāmavedasaṃhitā
 

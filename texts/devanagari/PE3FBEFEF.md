@@ -8,6 +8,7 @@ editor: "Sumatisimha"
 year: "1967"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PE3FBEFEF"
+plain: true
 ---
 # Balimālikā
 

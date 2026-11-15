@@ -9,6 +9,7 @@ publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sansk
 year: "1959"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P7EBB55AB"
+plain: true
 ---
 # Jātakamālā
 

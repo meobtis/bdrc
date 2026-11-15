@@ -7,6 +7,7 @@ original_collection: DSBC
 editor: "Śabdabhedaprakāśaḥ"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PE542AF4D"
+plain: true
 ---
 # Śabdabhedaprakāśaḥ
 

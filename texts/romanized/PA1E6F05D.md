@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "2004"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA1E6F05D"
+plain: true
 ---
 # Āryaśālistambakakārikā
 

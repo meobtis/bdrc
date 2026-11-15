@@ -8,6 +8,7 @@ publisher: "Arbeitskreis Fur Tibetische Und Buddhistische Studien, Universitat W
 year: "2007"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFF8C7BE6"
+plain: true
 ---
 # Jñānaśrimitra’s Anupalabdhirahasya and Sarvaśabdābhāvacarcā
 

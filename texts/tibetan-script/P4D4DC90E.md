@@ -8,6 +8,7 @@ sanskrit_lines: 972
 total_lines: 59964
 source_repository: "https://github.com/Openpecha-Data/P4D4DC90E"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # dolpopa

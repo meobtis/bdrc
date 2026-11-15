@@ -9,6 +9,7 @@ publisher: "China Tibetology Publishing House"
 year: "2017"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9F0AAF24"
+plain: true
 ---
 # Pañcaśatikā prajñāpāramitā
 

@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Gaudiya Grantha Mandira"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PFF833FC9"
+plain: true
 ---
 # Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha
 

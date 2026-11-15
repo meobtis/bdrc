@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "1997"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PF9D94CA8"
+plain: true
 ---
 # Tattvaratnāvalokaḥ
 

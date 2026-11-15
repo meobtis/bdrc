@@ -9,6 +9,7 @@ publisher: "Nagarjuna Institute of Exact Methods"
 year: "1988"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P221EF8EE"
+plain: true
 ---
 # Buddhist Himalaya Vol.1, No.2.
 

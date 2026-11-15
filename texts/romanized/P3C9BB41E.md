@@ -9,6 +9,7 @@ publisher: "Motilal Banarsidass"
 year: "1994"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P3C9BB41E"
+plain: true
 ---
 # Bauddha Stotra Saṃgraha
 

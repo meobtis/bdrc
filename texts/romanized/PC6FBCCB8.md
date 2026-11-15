@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC6FBCCB8"
+plain: true
 ---
 # Mātṛceṭa: Varṇārhavarṇastotra
 

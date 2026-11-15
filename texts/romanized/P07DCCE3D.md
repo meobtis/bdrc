@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P07DCCE3D"
+plain: true
 ---
 # MSV 1,01: Pravrajyāvastu
 

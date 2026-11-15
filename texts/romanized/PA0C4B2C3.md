@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Mirek Rozehnahl"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA0C4B2C3"
+plain: true
 ---
 # Śikṣāsamuccaya
 

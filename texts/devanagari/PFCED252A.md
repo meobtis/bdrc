@@ -8,6 +8,7 @@ editor: "Luo Hong & Toru Tomabechi"
 publisher: "China Tibetology Publishing House"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFCED252A"
+plain: true
 ---
 # Vajrasattvaniṣpādana Sūtra
 

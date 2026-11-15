@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDD3DDF3C"
+plain: true
 ---
 # Vasubandhu: Abhidharmakośabhāṣya
 

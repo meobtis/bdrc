@@ -5,6 +5,7 @@ language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P9FF403FA"
+plain: true
 ---
 # MSV 1,02: Poṣadhavastu
 

@@ -9,6 +9,7 @@ publisher: "Central University of Tibetan Studies"
 year: "2013"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDCF68FA8"
+plain: true
 ---
 # Dhīh Journal
 

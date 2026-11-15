@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Marino Faliero"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P67F8EF5A"
+plain: true
 ---
 # Spandakārikā
 

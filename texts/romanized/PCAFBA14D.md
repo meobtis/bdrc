@@ -5,6 +5,7 @@ language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCAFBA14D"
+plain: true
 ---
 # MSV 1,04: Varṣāvastu
 

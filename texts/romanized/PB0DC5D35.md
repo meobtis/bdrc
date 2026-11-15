@@ -8,6 +8,7 @@ editor: "SasakiItoTakumi"
 year: "2010"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB0DC5D35"
+plain: true
 ---
 # Amoghapāśakalparāja Part VI
 

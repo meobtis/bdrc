@@ -9,6 +9,7 @@ publisher: "Taisho University"
 year: "2004"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB6D7DB90"
+plain: true
 ---
 # Jñānālokālaṃkāra
 

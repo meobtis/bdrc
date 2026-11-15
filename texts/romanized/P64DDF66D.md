@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P64DDF66D"
+plain: true
 ---
 # MSV 6,05: Ṣoḍaśaka
 

@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Dhaval Patel"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PFA2F5DE0"
+plain: true
 ---
 # Sāṃkhyakārikā with Gauḍapāda's Bhāṣya
 

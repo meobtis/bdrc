@@ -9,6 +9,7 @@ publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sansk
 year: "1970"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PADF677B3"
+plain: true
 ---
 # Mahayana sutralankara of Asanga with its Svavrtti
 

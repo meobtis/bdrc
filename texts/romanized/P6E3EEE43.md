@@ -9,6 +9,7 @@ publisher: "Motilal Banarsidas"
 year: "1997"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6E3EEE43"
+plain: true
 ---
 # Nāgānanda Nāṭaka
 

@@ -8,6 +8,7 @@ publisher: "Arbeitskreis Fur Tibetische Und Buddhistische Studien, Universitat W
 year: "2009"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1C0CDC98"
+plain: true
 ---
 # Smāhitā Bhūmiḥ
 

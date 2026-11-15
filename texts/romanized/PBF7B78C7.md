@@ -9,6 +9,7 @@ publisher: "Indica et Tibetica Verlag"
 year: "1986"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBF7B78C7"
+plain: true
 ---
 # Pāramitāsamāsaḥ
 

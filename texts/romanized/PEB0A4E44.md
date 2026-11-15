@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Ketaki Gokhale"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PEB0A4E44"
+plain: true
 ---
 # Kauśikapaddhati
 

@@ -9,6 +9,7 @@ publisher: "Deshana, Pune & Aditya Prakashan"
 year: "2016"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCEEE0E4E"
+plain: true
 ---
 # Vṛttamālāstuti of Jñānaśrīmitra with Śākyarakṣita’s Vṛttamālā(stuti)vivṛti
 

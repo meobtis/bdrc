@@ -8,6 +8,7 @@ publisher: "Soka University"
 year: "2013"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4CCCCB2A"
+plain: true
 ---
 # Aririab
 

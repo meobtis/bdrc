@@ -8,6 +8,7 @@ publisher: "Oriental Institute"
 year: "1927"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P01DBCE0C"
+plain: true
 ---
 # Advayavajrasaṅgrahaḥ
 

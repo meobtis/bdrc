@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Masahiro Takano"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PDCFC45DD"
+plain: true
 ---
 # Īśvarapratyabhijñāvimarśinī
 

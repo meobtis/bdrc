@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "1992"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFBCCE3DE"
+plain: true
 ---
 # महामायातन्त्रम् [गुणवतिटिकासहितम्]
 

@@ -9,6 +9,7 @@ publisher: "The Adyar Library"
 year: "1938"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFBFA78E3"
+plain: true
 ---
 # Bhavasaṅkrānti Śāstra
 

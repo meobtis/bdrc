@@ -6,6 +6,7 @@ script: iast
 original_collection: DSBC
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFADDF0DE"
+plain: true
 ---
 # svastyayanagāthā
 

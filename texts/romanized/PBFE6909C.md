@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBFE6909C"
+plain: true
 ---
 # MSV 1,08: Kaṭhinavastu
 

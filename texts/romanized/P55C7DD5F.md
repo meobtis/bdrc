@@ -9,6 +9,7 @@ publisher: "Calcutta Oriental Press"
 year: "1931"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P55C7DD5F"
+plain: true
 ---
 # Bodhisattva-prātimokṣa-sūtram
 

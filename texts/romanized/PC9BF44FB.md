@@ -9,6 +9,7 @@ publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sansk
 year: "1961"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC9BF44FB"
+plain: true
 ---
 # Mahāyāna-sūtra-saṃgrahaḥ ( part 1)
 

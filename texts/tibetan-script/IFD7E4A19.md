@@ -8,6 +8,7 @@ sanskrit_lines: 139
 total_lines: 8673
 source_repository: "https://github.com/Openpecha-Data/IFD7E4A19"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # Toh_543-The_Root_Manual_of_the_Rites_of_Manjusri-v2

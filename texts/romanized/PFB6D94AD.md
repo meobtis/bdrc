@@ -9,6 +9,7 @@ publisher: "K.P.Jayaswal Research Institute"
 year: "2005"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFB6D94AD"
+plain: true
 ---
 # Abhidharmasamuccayabhāṣyam
 

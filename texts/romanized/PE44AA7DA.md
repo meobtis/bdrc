@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Oliver Hellwig"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PE44AA7DA"
+plain: true
 ---
 # Nādabindūpaniṣad
 

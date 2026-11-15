@@ -9,6 +9,7 @@ publisher: "China Tibetology Publishing House"
 year: "2009"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCA14CD9F"
+plain: true
 ---
 # Sanskrit Manuscripts in China
 

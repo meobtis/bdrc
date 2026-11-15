@@ -8,6 +8,7 @@ sanskrit_lines: 221
 total_lines: 104551
 source_repository: "https://github.com/Openpecha-Data/P60DBA47B"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # tsongkhapa

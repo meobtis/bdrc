@@ -9,6 +9,7 @@ publisher: "Luzac & Co"
 year: "1898"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PABFB6474"
+plain: true
 ---
 # Ādikarmapradīpa Bodhicaryāvatāraṭīkā
 

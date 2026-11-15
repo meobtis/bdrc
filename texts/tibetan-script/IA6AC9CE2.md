@@ -11,6 +11,7 @@ sanskrit_lines: 875
 total_lines: 110228
 source_repository: "https://github.com/Openpecha-Data/IA6AC9CE2"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # གསུང་འབུམ། མཁྱེན་བརྩེའི་དབང་པོ།

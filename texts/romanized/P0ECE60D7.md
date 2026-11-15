@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Helmut Krasser"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P0ECE60D7"
+plain: true
 ---
 # Tarkarahasya
 

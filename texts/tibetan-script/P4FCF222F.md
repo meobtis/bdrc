@@ -8,6 +8,7 @@ sanskrit_lines: 9380
 total_lines: 1264992
 source_repository: "https://github.com/Openpecha-Data/P4FCF222F"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # dul ba ''au

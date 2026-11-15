@@ -8,6 +8,7 @@ editor: "Oskar von Hinüber"
 publisher: "Unpublished"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCFF0E4D8"
+plain: true
 ---
 # Arya-samghata-sutra
 

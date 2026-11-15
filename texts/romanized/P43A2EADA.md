@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P43A2EADA"
+plain: true
 ---
 # Udānavarga
 

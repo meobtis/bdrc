@@ -8,6 +8,7 @@ publisher: "Kyoto University"
 year: "1961"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC2B1A4D2"
+plain: true
 ---
 # Essays on the History of Buddhism
 

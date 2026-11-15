@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "2002"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P0AD0B42F"
+plain: true
 ---
 # Dhih Journal
 

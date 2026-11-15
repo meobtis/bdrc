@@ -8,6 +8,7 @@ editor: "Śrī Maheśvara"
 year: "1911"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P648BFB4E"
+plain: true
 ---
 # Viśvaprakāśaḥ
 

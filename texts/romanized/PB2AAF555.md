@@ -9,6 +9,7 @@ publisher: "Sri Satguru Publications"
 year: "1984"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB2AAF555"
+plain: true
 ---
 # Gilgit Manuscripts
 

@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P8BBAF02D"
+plain: true
 ---
 # Mātṛceṭa: Śatapañcāśatka
 

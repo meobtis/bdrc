@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Indology Student Team, University of Tokyo"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PAA4BC8B9"
+plain: true
 ---
 # Nyāyasūtra with Vātsyāyana's Nyāyabhāṣya
 

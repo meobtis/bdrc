@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "1977"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDB6DBDBB"
+plain: true
 ---
 # Abhisamayālaṅkāravṛttiḥ sphuṭārthā
 

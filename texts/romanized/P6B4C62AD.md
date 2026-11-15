@@ -7,6 +7,7 @@ original_collection: DSBC
 editor: "Mantroddhara"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6B4C62AD"
+plain: true
 ---
 # Mantroddhāra
 

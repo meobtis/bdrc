@@ -5,6 +5,7 @@ language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PF12AFCAA"
+plain: true
 ---
 # Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ
 

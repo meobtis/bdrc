@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA05B1ACA"
+plain: true
 ---
 # MSV 1,11: Pāṇḍulohitakavastu
 

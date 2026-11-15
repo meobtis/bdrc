@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PAFA211D9"
+plain: true
 ---
 # Nyāyasudhā a subcommentary on Mādhva's Anuvyākhāna, a commentary on Bādarāyaṇa's
 

@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Klaus Wille"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB4A49AD3"
+plain: true
 ---
 # Madhyāntavibhāgakārikābhāṣya a commentary on the Madhyāntavibhāgakārikās
 

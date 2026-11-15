@@ -9,6 +9,7 @@ publisher: "Motilal Banarsidass"
 year: "1984"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBD202F4D"
+plain: true
 ---
 # Seven Works of Vasubandhu
 

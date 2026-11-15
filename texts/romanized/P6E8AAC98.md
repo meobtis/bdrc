@@ -9,6 +9,7 @@ publisher: "China Tibetology Publishing House"
 year: "2012"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6E8AAC98"
+plain: true
 ---
 # Viśālāmalavatī Pramāṇasamuccayaṭīkā
 

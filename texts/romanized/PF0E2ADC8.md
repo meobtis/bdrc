@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Richard Mahoney"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PF0E2ADC8"
+plain: true
 ---
 # Bodhicaryāvatāra
 

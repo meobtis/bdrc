@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PCAE050CC"
+plain: true
 ---
 # MSV 2,01: Vinayavibhaṅga
 

@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies,"
 year: "2007"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDB7C21C7"
+plain: true
 ---
 # Vādanyāyaṭīkā
 

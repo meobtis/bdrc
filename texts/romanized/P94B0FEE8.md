@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Oliver Hellwig"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P94B0FEE8"
+plain: true
 ---
 # Spandakārikā with the commentary by Kṣemarāja
 

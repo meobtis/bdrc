@@ -8,6 +8,7 @@ sanskrit_lines: 116
 total_lines: 71494
 source_repository: "https://github.com/Openpecha-Data/P3B1B4FF1"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # Gorampa Sönam Senge

@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "1992"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PEAEA1373"
+plain: true
 ---
 # Mahāmāyātantram with Guṇāvatī
 

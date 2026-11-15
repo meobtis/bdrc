@@ -9,6 +9,7 @@ publisher: "The Asiatic Society"
 year: "1987"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PF7FB411F"
+plain: true
 ---
 # Citralakṣaṇam: an old text of Indian Art
 

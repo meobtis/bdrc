@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PED4AE681"
+plain: true
 ---
 # MSV 6,07: Muktaka
 

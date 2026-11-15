@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P3C8D7FF0"
+plain: true
 ---
 # Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's
 

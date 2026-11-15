@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Muneo Tokunaga"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P6D8B16BF"
+plain: true
 ---
 # Śāṅkhāyanagṛhyasūtra
 

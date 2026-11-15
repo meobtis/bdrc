@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PBB225E8E"
+plain: true
 ---
 # MSV 6,09: Māṇavikā
 

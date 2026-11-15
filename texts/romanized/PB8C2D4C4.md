@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PB8C2D4C4"
+plain: true
 ---
 # BA: Proto-BA (Buddhanāmanirdeśa)
 

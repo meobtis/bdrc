@@ -8,6 +8,7 @@ editor: "Bhattacharya, V."
 year: "1929"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDB5C4CC1"
+plain: true
 ---
 # Mahāyānaviṁśikā
 

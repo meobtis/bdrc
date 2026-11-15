@@ -7,6 +7,7 @@ original_collection: DSBC
 editor: "Śrīprabhākaragupta"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4B2EABEE"
+plain: true
 ---
 # Adhyātmasāraśatakam(saṭīkam)
 

@@ -9,6 +9,7 @@ publisher: "Visvabharati,Santiniketan"
 year: "1950"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PD3F009DD"
+plain: true
 ---
 # Abhidharmasamuccaya
 

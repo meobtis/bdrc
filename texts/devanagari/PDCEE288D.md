@@ -6,6 +6,7 @@ script: deva
 original_collection: DSBC
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PDCEE288D"
+plain: true
 ---
 # बौद्ध मनीषा- बौद्धेषु प्रमाणमीमांसा
 

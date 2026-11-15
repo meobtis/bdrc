@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PA0CB5F15"
+plain: true
 ---
 # MSV 3,0: Bhikṣuṇīprātimokṣa
 

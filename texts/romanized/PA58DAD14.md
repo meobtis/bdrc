@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Jürgen Hanneder"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA58DAD14"
+plain: true
 ---
 # Svabodhasiddhi
 

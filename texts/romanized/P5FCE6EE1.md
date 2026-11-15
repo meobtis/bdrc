@@ -9,6 +9,7 @@ publisher: "S.V. University Oriental Journal"
 year: "1970"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P5FCE6EE1"
+plain: true
 ---
 # Daṇḍikathā
 

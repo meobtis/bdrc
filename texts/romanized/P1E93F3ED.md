@@ -9,6 +9,7 @@ publisher: "The Mithila Institute of Post-Graduate Studies and Research in Sansk
 year: "1967"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1E93F3ED"
+plain: true
 ---
 # Suvarṇaprabhāsasūtram
 

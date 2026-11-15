@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PC8DEAD65"
+plain: true
 ---
 # MSV 6,01: Upāliparipṛcchā
 

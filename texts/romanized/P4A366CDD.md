@@ -9,6 +9,7 @@ publisher: "Central Institute of Higher Tibetan Studies"
 year: "2001"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4A366CDD"
+plain: true
 ---
 # Piṇḍīkramaḥ Pañcakrama
 

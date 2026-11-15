@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Dhaval Patel"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA3F7DD94"
+plain: true
 ---
 # Sāṃkhyakārikā with Śaṃkara's Jayamaṅgalā commentary
 

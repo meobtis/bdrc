@@ -9,6 +9,7 @@ publisher: "China Tibetology Publishing House"
 year: "2015"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P6C0EBE08"
+plain: true
 ---
 # Dharmadhātustava
 

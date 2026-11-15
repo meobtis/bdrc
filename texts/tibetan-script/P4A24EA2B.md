@@ -8,6 +8,7 @@ sanskrit_lines: 48
 total_lines: 72473
 source_repository: "https://github.com/Openpecha-Data/P4A24EA2B"
 note: "Sanskrit in Tibetan-script transliteration, extracted from a Tibetan-language e-text; the Tibetan text is omitted. OCR-derived, unproofread."
+plain: true
 ---
 
 # Trisaṃvara

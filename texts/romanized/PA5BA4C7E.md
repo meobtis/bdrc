@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Marino Faliero"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PA5BA4C7E"
+plain: true
 ---
 # Paryantapañcāśikā
 

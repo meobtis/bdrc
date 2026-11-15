@@ -9,6 +9,7 @@ publisher: "Bibliotheca Buddhica"
 year: "1910"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P4C667BBD"
+plain: true
 ---
 # Bibliotheca Buddhica (Mahāvyutpatti)
 

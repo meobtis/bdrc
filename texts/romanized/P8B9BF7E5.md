@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P8B9BF7E5"
+plain: true
 ---
 # Nyāyavārttikatātparyapariśuddhi 1
 

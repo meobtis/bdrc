@@ -5,6 +5,7 @@ language: bo
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P1D3F6BAE"
+plain: true
 ---
 # Akṣayamatinirdeśa
 

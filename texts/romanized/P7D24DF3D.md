@@ -5,6 +5,7 @@ language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P7D24DF3D"
+plain: true
 ---
 # Aśvaghoṣa: Saundarananda
 

@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Somadeva Vasudeva"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P7F11CC9A"
+plain: true
 ---
 # Īśvarapratyabhijñākārikā with Vṛtti
 

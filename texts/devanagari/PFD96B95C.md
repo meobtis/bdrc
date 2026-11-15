@@ -6,6 +6,7 @@ script: deva
 original_collection: DSBC
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/PFD96B95C"
+plain: true
 ---
 # तत्त्वज्ञानसंसिद्धिटीका
 

@@ -9,6 +9,7 @@ publisher: "Motilal Banarsidas"
 year: "1987"
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2E4EAF20"
+plain: true
 ---
 # Sarva Tathāgata Tattva Saṅgraha
 

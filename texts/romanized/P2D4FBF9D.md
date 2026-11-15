@@ -5,6 +5,7 @@ language: sa
 script: iast
 buddhist: true
 source_repository: "https://github.com/Openpecha-Data/P2D4FBF9D"
+plain: true
 ---
 # BA: Daśabhūmikasūtra
 

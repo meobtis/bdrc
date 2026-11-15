@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "Walter Slaje"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/P4EAF822A"
+plain: true
 ---
 # Mokṣopāya
 

@@ -7,6 +7,7 @@ original_collection: GRETIL
 data_entry: "members of the Sansknet Project"
 buddhist: false
 source_repository: "https://github.com/Openpecha-Data/PD6ECDD50"
+plain: true
 ---
 # Sāṃkhyasūtra including the Tattvasamāsa, an abstract of Sāṃkhya philosophy
 
